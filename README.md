@@ -21,11 +21,11 @@
   
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Belleza Tello Paolo Eduardo        |u20191A137|
-|Fernandez Alva Maria Fernanda      |u20201A131|
-|Pingus Rodriguez Carlos Daniel     |u202113280|
-|Cossio Jimenez Jimena Alessandra   |u202117854|
-|Velarde Luyo Piero Alberto         |u20211A620|
+|Belleza Tello, Paolo Eduardo        |u20191A137|
+|Fernandez Alva, Maria Fernanda      |u20201A131|
+|Pingus Rodriguez, Carlos Daniel     |u202113280|
+|Cossio Jimenez, Jimena Alessandra   |u202117854|
+|Velarde Luyo, Piero Alberto         |u20211A620|
 
  ## 2024-1
  </div>
@@ -45,13 +45,13 @@
     <tr>
         <td><strong> 0.1 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Belleza Tello Paolo Eduardo
       <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
     </td>
     <tr>
         <td><strong> 0.2 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Cabrera Camizan, Jeferson Smith
+      <td>Fernandez Alva Maria Fernanda
       <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
     </td>
     <tr>
@@ -63,13 +63,13 @@
     <tr>
         <td><strong> 0.4 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Loarte Matos, Anthony Brahan 
+      <td>Cossio Jimenez Jimena Alessandra
       <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
         <td><strong> 0.5 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Velarde Luyo Piero Alberto
       <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
     </td>
     <tr>
