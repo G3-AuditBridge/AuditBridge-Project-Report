@@ -260,12 +260,12 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr>
    <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
+      <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228868511061774407/image.png?ex=662d9bfc&is=661b26fc&hm=00fbc95484a90733d04647fba51cdf0af8f06350e99bda291c22dc8378e179a9&=&format=webp&quality=lossless" alt="Foto-Jimena" border="0"></a>
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Cossio Jimenez, Jimena Alessandra</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estoy en 5to ciclo de la carrera de ingeniería de software en la UPC. Elegí esta carrera debido a mi interés por el desarrollo web y, como tal, considero que esta carrera me brindará una base para conocer un poco más de todo lo que se puede lograr mediante la tecnología y la programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a escuchar diferentes opiniones con el respeto que todos merecemos, así como a apoyar en lo que necesiten.
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202117854</td>
 
    
   </tr>
