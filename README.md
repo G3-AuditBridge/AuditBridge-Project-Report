@@ -7,11 +7,16 @@
   
 
 # Universidad Peruana de Ciencias Aplicadas.
+
 ### Ingeniería de Software.
+
 ### Aplicaiones Web
+
 ### WS53
 ### Angel Augusto Velasquez Nuñez
+
 ### "Informe de TB 1"
+
 **StartUp Name:** DreamTeam
 
 **Product Name:** AuditBridge
@@ -252,6 +257,23 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905932805902427/image.png?ex=662dbed6&is=661b49d6&hm=1f1814966ff520ffecf9d72e67702cbf6da04c12f22f035df74bda56a27484ee&=&format=webp&quality=lossless" alt="Foto-Paolo" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Belleza Tello, Paolo Eduardo</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Curso la carrera de Ingeniería de Software. Me gusta la carrera porque tiene que ver con las tecnologías actuales y me llama mucho la atención la programación. Una de mis habilidades es la programación que con mucho esfuerzo puedo hacer cosas interesantes y ser comprensivo con los demás.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20191A137</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905907728154725/image.png?ex=662dbed0&is=661b49d0&hm=3a5216428d1e6fb7ac4629b81fff1908857fe1a4edc84f7ebde0025dd74813b8&=&format=webp&quality=lossless" alt="Foto-Maria" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Fernandez Alva, Maria Fernanda</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC). Actualmente curso la carrera de Ingeniería de Software y elegí esta carrera porque me llamó la atención poder programar y con mis programaciones ayudar a las demás personas. Una de mis habilidades es ser trabajadora ya que me encanta hacer todas mis tareas a tiempo y también soy creativa.
+</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201A131</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
         <a><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=662d34a5&is=661abfa5&hm=076f03315fa6127cfdff29ea1d6d0b107b1d4defcc1f24c2e54ca5ffa3215d1c&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
@@ -266,8 +288,14 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estoy en 5to ciclo de la carrera de ingeniería de software en la UPC. Elegí esta carrera debido a mi interés por el desarrollo web y, como tal, considero que esta carrera me brindará una base para conocer un poco más de todo lo que se puede lograr mediante la tecnología y la programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a escuchar diferentes opiniones con el respeto que todos merecemos, así como a apoyar en lo que necesiten.
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202117854</td>
-
-   
+    </tr>
+    <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905351039025193/pierovelarde.jpg?ex=662dbe4b&is=661b494b&hm=0b43f32f54bf903b4d2b6101e6a9c90d5827faaac837486d1ef9d59c83d2d798&=&format=webp" alt="Foto-Piero" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Velarde Luyo, Piero Alberto</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Piero, estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Escogí esta carrera por mi facilidad en el uso de las computadoras. Asímismo, por mi interés en el funcionamiento de las anteriores mencionadas y todo respecto a la programación y las tecnologías emergentes. Considero que soy una persona que busca lograr sus objetivos y apoyar a su equipo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211A620</td>
   </tr>
   
 </table>
@@ -349,113 +377,174 @@ Hemos observado un factor crítico que afecta al dueño del restaurante, el cual
 #### 1.2.2.4. Lean UX Canvas
 <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228871955026022501/image.png?ex=662d9f31&is=661b2a31&hm=8c48b3428371c906bf04a8f1620eb634ccccbb386980eab551687ddd2be7a3ef&=&format=webp&quality=lossless&width=840&height=603" alt="Lean-UX-Canvas" border="0"></a>
 ### 1.3. Segmentos objetivo.
-<br>
 **Dueños de restaurantes** entre 30 y 60 años, que sean de clase media y que sean peruanos.
-<br>
-<br>
+
 **Asesores de sanidad para restaurantes** entre 30 y 70 años, que sean de clase media y que sean peruanos.
-<br>
 
 ## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
 
 ### 2.1. Competidores.
 #### 2.1.1. Análisis competitivo.
 
-<center>
-  
-  
+<table style="undefined;table-layout: fixed; width: 903px">
+<colgroup>
+<col style="width: 72.2px">
+<col style="width: 146.2px">
+<col style="width: 171.2px">
+<col style="width: 171.2px">
+<col style="width: 171.2px">
+<col style="width: 171.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" rowspan="1">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4">¿Cómo podemos proporcionar un buen servicio entre los restaurantes y los asesores de sanidad de manera que la comunicación entre ambos sea efectiva y agradable?</td>
+  </tr>
+  <tr>
+    <td colspan="2">Competidores</td>
+    <td>AuditBridge</td>
+    <td>SafetyCulture</td>
+    <td>Leafe</td>
+    <td>foodCode-Pro</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>El proyecto es una plataforma web para encontrar y contratar asesores sanitarios para restaurantes. Actúa como intermediario entre propietarios y asesores, ayudando a cumplir estándares de sanidad y superar evaluaciones. </td>
+    <td>La página web hace formularios personalizados, plantillas de inspección preconfeccionadas y rápidos informes.</td>
+    <td>Inspecciona los problemas relacionados con la higiene en un restaurante. </td>
+    <td>Es una plataforma de inspección construida por inspectores y para inspectores.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</td>
+    <td>Se ofrece a los restaurantes una plataforma para interactuar con sus asesores de confianza a través de chat, un espacio para que los asesores suban documentos de revisiones y un sistema de gestión de pagos integrado.</td>
+    <td>Ofrece convertir las listas de comprobación existentes en papel en formato digital mediante el escaneo.</td>
+    <td>Proporciona asistencia a los usuarios a través de inspectores y directores generales para garantizar la correcta gestión de residuos y brindar consejos sobre normas de higiene.</td>
+    <td>Ofrece un equipo experimentado en regulaciones, procesos y operaciones de seguridad alimentaria.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de marketing</td>
+    <td>Mercado objetivo</td>
+    <td>Propietarios y gerentes de restaurantes así como a los inspectores sanitarios.</td>
+    <td>Personas con un emprendimiento que desean un asesoramiento.</td>
+    <td>Empresarios de restaurantes.</td>
+    <td>Inspectores</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Nos asociamos con asociaciones de restaurantes, organizamos demostraciones en línea para mostrar los beneficios de nuestra plataforma y colaboramos con influencers de la industria para promocionarla.</td>
+    <td>App store, google play , twitter e instagram lo promocionan.</td>
+    <td>Instagram, twitter, facebook y linkedin.</td>
+    <td>Publicidad por diferentes medios de comunicación.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil del producto</td>
+    <td>Productos y servicios</td>
+    <td>Búsqueda y contratación de Asesores, demostraciones y webinars, autenticación de asesores, sistema de calificación y comentarios. Por último, se creará un chat para la interacción restaurante y asesor.</td>
+    <td>Ayuda a mejorar la eficiencia de un buen control de tus productos en tu negocio.</td>
+    <td>Gestiona la cocina y garantiza el cumplimiento de la higiene alimentaria.</td>
+    <td>Genera una lista de verificación de inspección con la FDA.</td>
+  </tr>
+  <tr>
+    <td>Precios y costos</td>
+    <td>Cobrar una comision minima  para cada transacción.</td>
+    <td>Premium, Añadir miembros a un equipo y Enterprise.</td>
+    <td>Suscripción (Básico, Estándar y Pro)</td>
+    <td>Depende de las necesidades de la organización.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Redes Sociales</td>
+    <td>Redes Sociales</td>
+    <td>Redes Sociales</td>
+    <td>Redes Sociales</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Análisis SWOT</td>
+    <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    
+  </tr>
+  <tr>
+    <td>Fortalezas</td>
+    <td>Búsqueda y contratación de asesores, coordinación de reuniones a través de un chat y gestión de métodos de pago. Además, se realizan verificaciones de experiencia y credibilidad para garantizar la calidad de los asesores.</td>
+    <td>Puedes estar con tu grupo de trabajo o trabajadores dentro de la página web.</td>
+    <td>Dan un seguimiento de alérgenos y gestionan el menú.</td>
+    <td>Cumple con la normativa FDA.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Será un costo por cada transacción entre el restaurante y el asesor. La carga de documentos en el chat puede tomar algo de tiempo.</td>
+    <td>Si eres una empresa grande, el costo para que estés dentro de la página con todo tu grupo de trabajo, es demasiado caro.</td>
+    <td>Los asesores son profesionales calificados, principalmente angloparlantes. Esto puede dificultar la comunicación para algunos usuarios que no dominan el inglés.</td>
+    <td>La página web su origen es de EEUU. </td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Crear un apartado en el cual los propietarios de restaurantes puedan acceder a recursos educativos sobre sanidad alimentaria. Además, se pueden incluir otros servicios para abordar otras necesidades del restaurante.</td>
+    <td>Todas las revisiones, observaciones y documentos se encuentran en la aplicación.</td>
+    <td>Tienes una prueba gratuita para conocer la página web.</td>
+    <td>La plataforma es entendible y fácil de manipular.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Existe el riesgo de que los asesores con una creciente clientela decidan dejar nuestra plataforma para maximizar sus ganancias netas.</td>
+    <td>Dificultad de que los usuarios permanezcan por los altos precios.</td>
+    <td>Los precios de las suscripciones son muy caras.</td>
+    <td>No tiene una versión gratuita.</td>
+  </tr>
+</tbody>
+</table>
 
-</center> 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
+Después de analizar a cada uno de los competidores, es importante tener en cuenta que cada uno ofrece funcionalidades únicas.
+  -Diferenciación en funcionalidades:
+Nos hemos dado cuenta de que no existe ninguna aplicación en el mercado que facilite la conexión directa entre los propietarios de restaurantes y los asesores de sanidad. Esta es una brecha significativa que estamos llenando con nuestra plataforma. Al ser la única aplicación que ofrece esta funcionalidad, estamos proporcionando un valor añadido único que simplifica el proceso de gestión de la salud y la seguridad alimentaria para los propietarios de restaurantes y los asesores.
+
+  -Hacer publicidad y marketing:
+Dado que somos la única aplicación que ofrece este tipo de servicios integrados, es crucial que nos aseguremos de que nuestra plataforma sea conocida por el público objetivo. Implementaremos estrategias de marketing y publicidad sólidas para aumentar la visibilidad de nuestra aplicación y atraer a más usuarios a nuestra plataforma web. Esto incluirá campañas de marketing digital, presencia en redes sociales, publicidad en línea y colaboraciones con influencers.
+
+  -Mejora continua y actualizaciones:
+En nuestro compromiso de proporcionar la mejor experiencia posible a nuestros usuarios, nos comprometemos a realizar actualizaciones regulares y mejoras continuas en nuestra plataforma. Estas actualizaciones incluirán la implementación de nuevas funcionalidades, mejoras en la usabilidad, correcciones de errores y optimización del rendimiento. Nuestro objetivo es garantizar que nuestra aplicación siga siendo relevante y efectiva en respuesta a las necesidades cambiantes de nuestros usuarios y las demandas del mercado.
+
+  -Colaboraciones y asociaciones estratégicas:
+Estamos comprometidos a buscar colaboraciones y asociaciones estratégicas con instituciones de salud pública, asociaciones de restaurantes, proveedores de servicios de alimentos y otros actores clave en el sector. Estas colaboraciones nos permitirán ampliar nuestra red, aumentar nuestra credibilidad y ofrecer un mayor valor a nuestros usuarios al proporcionar acceso a recursos adicionales y oportunidades de crecimiento.
+
 ### 2.2. Entrevistas.
 Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
 #### 2.2.1. Diseño de entrevistas.
-**SEGMENTO DE CLIENTE GENERAL**
+**Preguntas principales**
+Preguntas Principales:
+1. Hola buenas (tarde/días/noches) me podría indicar su nombre.
+2. ¿Qué edad tiene?
+3. ¿De qué distrito proviene? 
+4. ¿Qué profesión u ocupación tiene?
 
-Preguntas generales:
+**Preguntas para el Asesor de Sanidad**
 
-* ¿Cuál es tu nombre?
-* Cuántos años tienes?
-* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
-* ¿Qué géneros de música le gustan?
+1. ¿Cuál es tu experiencia en el campo de la evaluación de sanidad en restaurantes?
+2. ¿Qué herramientas o recursos utilizas habitualmente en tu trabajo como asesor?
+3. ¿Qué opina usted de una plataforma que haga conocer sus servicios hacia los restaurantes?
+4. ¿Qué esperas de una plataforma de coordinación entre asesores y restaurantes para la evaluación de sanidad?
+5. ¿Cómo preferirías gestionar la primera reunión con los propietarios de restaurantes, a través de la plataforma mediante un chat, videollamada o de manera presencial?
+6. ¿Cómo imaginas que la plataforma de coordinación de asesores podría mejorar tu trabajo y eficiencia?
+7. ¿Qué funcionalidades crees que serían más útiles para ti como asesor en una plataforma de este tipo?
 
-Preguntas específicas:
+**Preguntas para el Restaurante**
 
-* ¿Con qué frecuencia organizan eventos que requieren entretenimiento musical?
-* ¿Qué criterios utilizan para seleccionar grupos musicales o solistas para sus eventos?
-* ¿Cuáles son los mayores desafíos que enfrentan al buscar y contratar talento musical para sus eventos?
-* ¿Qué información consideran crucial al buscar artistas en una plataforma de catálogo de música?
-* ¿Qué características valoran más al utilizar una plataforma de contratación de eventos?
-* ¿Qué tipo de eventos suelen organizar y qué tipo de música prefieren para cada ocasión?
-* ¿Qué herramientas o funciones les gustaría ver en una plataforma para facilitar la organización de eventos y la contratación de artistas?
-* ¿Qué servicios adicionales o recursos creen que serían útiles al planificar eventos que requieran entretenimiento musical?
+1. ¿Has utilizado servicios de asesoramiento para la evaluación de sanidad en tu restaurante en el pasado?
+1.1 (Respuesta afirmativa). ¿Cuáles han sido tus experiencias al trabajar con asesores en el pasado? ¿Qué aspectos fueron positivos y cuáles fueron negativos?
+1.2 (Respuesta negativa). ¿Por qué no contactaste con algún asesor que preste estos servicios?
+2. ¿Cuáles son los principales desafíos que enfrentas al gestionar la sanidad en tu restaurante?
+3. ¿Qué te motiva a buscar ayuda externa para la evaluación de sanidad en tu restaurante?
+4. ¿Qué características o servicios te gustaría ver en una plataforma de gestión de asesores para la evaluación de sanidad de tu restaurante?
+5. ¿Qué aspectos te haría sentir en confianza al contactar con algún asesor mediante una plataforma en línea?
 
-Preguntas relacionadas al proyecto:
-
-* ¿Qué características de la plataforma encuentran más útiles y por qué?
-* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
-* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
-* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
-* ¿Qué sugerencias tienen para mejorar esa función?
-* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
-
-**SEGMENTO DE BANDAS MUSICALES**
-
-Preguntas generales:
-
-* ¿Cuál es tu nombre?
-* ¿Cuántos años tienes?
-* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
-* ¿Qué géneros de música le gustan?
-
-Preguntas específicas:
-
-* ¿Qué tipo de eventos suelen realizar con más frecuencia?
-* ¿Qué aspectos consideran más importantes al decidir participar en un evento?
-* ¿Qué características valoran más en una plataforma de contratación de eventos?
-* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
-* ¿Cómo gestionan actualmente la promoción de sus eventos y conciertos?
-* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
-* ¿Qué herramientas o funciones les gustaría ver en una plataforma para simplificar la gestión de contratos y eventos?
-* ¿Qué tipo de servicios adicionales o recursos creen que serían útiles para mejorar su carrera musical?
-
-Preguntas relacionadas al proyecto:
-
-* ¿Qué características de la plataforma encuentran más útiles y por qué?
-* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
-* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
-* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
-* ¿Qué sugerencias tienen para mejorar esa función?
-* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
-
-**SEGMENTO DE SOLISTAS**
-
-Preguntas generales:
-* ¿Cuál es tu nombre?
-* ¿Cuántos años tienes?
-* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
-* ¿Qué géneros de música le gustan?
-
-Preguntas específicas:
-
-* ¿Qué tipo de eventos prefieren participar como solistas?
-* ¿Cuáles son los aspectos más importantes que consideran al elegir trabajar con una plataforma de contratación de eventos?
-* ¿Cómo manejan actualmente la promoción de sus actuaciones individuales?
-* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
-* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
-* ¿Qué características o herramientas esperan encontrar en una plataforma para facilitar la gestión de contratos y eventos?
-* ¿Cómo preferirían comunicarse con los clientes potenciales a través de la plataforma?
-* ¿Qué servicios adicionales o recursos creen que podrían beneficiar su carrera como solista?
-
-Preguntas relacionadas al proyecto:
-
-* ¿Qué características de la plataforma encuentran más útiles y por qué?
-* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
-* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
-* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
-* ¿Qué sugerencias tienen para mejorar esa función?
-* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 #### 2.2.2. Registro de entrevistas.
 #### 2.2.3. Análisis de entrevistas.
 
