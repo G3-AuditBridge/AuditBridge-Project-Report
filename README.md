@@ -72,24 +72,6 @@
       <td>Velarde Luyo Piero Alberto
       <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
     </td>
-    <tr>
-        <td><strong> 0.6 </strong></td>
-          <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
-      <td>Creacion del canvas para la problematica y analisis para el segmento objetivo.
-    </td>
-    <tr>
-        <td><strong> 0.7 </strong></td>
-          <td> 04/04/2024 <br> 
-      <td>Cabrera Camizan, Jeferson Smith 
-      <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
-    </td>
-    <tr>
-        <td><strong> 0.8 </strong></td>
-          <td> 04/04/2024 <br> 
-      <td>Cipriano Chumbes, Bruce Andres  
-      <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
-    </td>
     </tr>
     </tr>
     
