@@ -44,33 +44,39 @@
     </tr>
     <tr>
         <td><strong> 0.1 </strong></td>
-          <td> 03/04/2024 <br> 
+          <td> 31/03/2024 <br> 
       <td>Belleza Tello Paolo Eduardo
       <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
     </td>
     <tr>
         <td><strong> 0.2 </strong></td>
-          <td> 03/04/2024 <br> 
+          <td> 8/04/2024 <br> 
       <td>Fernandez Alva Maria Fernanda
-      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
-    </td>
-    <tr>
-        <td><strong> 0.3 </strong></td>
-          <td> 03/04/2024 <br> 
-      <td>Pingus Rodrigez, Carlos Daniel 
-      <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
-    </td>
-    <tr>
-        <td><strong> 0.4 </strong></td>
-          <td> 03/04/2024 <br> 
-      <td>Cossio Jimenez Jimena Alessandra
       <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
+        <td><strong> 0.4 </strong></td>
+          <td> 8/04/2024 <br> 
+      <td>Cossio Jimenez Jimena Alessandra
+      <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
+    </td>
+    <tr>
         <td><strong> 0.5 </strong></td>
-          <td> 03/04/2024 <br> 
+          <td> 10/04/2024 <br> 
       <td>Velarde Luyo Piero Alberto
-      <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
+      <td>Aporte de prototipos, Landing Page y Sprint.
+    </td>
+    <tr>
+        <td><strong> 0.3 </strong></td>
+          <td> 12/04/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+    </td>
+      <tr>
+        <td><strong> 0.1 </strong></td>
+          <td> 13/03/2024 <br> 
+      <td>Belleza Tello Paolo Eduardo
+      <td>Creación de Database Diagram y Class Diagram, con Class Dictionary.
     </td>
     </tr>
     </tr>
