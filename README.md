@@ -239,8 +239,8 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
-Somos una startup innovadora llamada “TempoSound” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
-Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
+Nuestra start-up se dedica al ámbito de la seguridad alimentaria y de la higiene de restaurantes. Nos enfocamos en brindar soluciones innovadoras en relación con los problemas que puedan surgir respecto a la seguridad alimentaria como a la higiene de restaurantes.
+Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda y coordinación de asesores para restaurantes, centrada en ayudar a los dueños de restaurantes a superar las evaluaciones de sanidad. Esta contará con recordatorios automáticos para inspecciones, listas de verificación personalizadas para mejoras requeridas y alertas automáticas por incumplimientos de regulaciones gubernamentales significativas. 
 #### 1.1.2. Perfiles de integrantes del equipo
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -252,7 +252,7 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a href="https://ibb.co/55MPLJC"><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=6623fa25&is=66118525&hm=e5512b0d61fc42916c162df9ce8c4240d43b15f67c0f67f86c7cdec32bd102af&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
+        <a href="https://ibb.co/55MPLJC"><img src="https://imgur.com/xcCeqZW></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
