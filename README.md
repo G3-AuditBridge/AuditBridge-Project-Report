@@ -274,18 +274,23 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
 
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática.
-Tras el desarrollo de la música y la creación de bandas musicales, el negocio en contratos de estos servicios creció enormemente en los últimos años, en nuestro proyecto buscamos documentar el desarrollo de un producto que permita agilizar y brindar una asistencia a los proveedores de estos servicios musicales y sus contratos para eventos sean privados o de público abierto.
-Tras el análisis sobre diversas oportunidades de negocio que fueron planteadas por los integrantes de nuestra startup definimos que MusicTime tendría un gran alcance, pues se observó como problemática presente que las bandas musicales o solistas tienen una dificultad al realizar sus presentaciones sobre el contrato que realizan y como ubicar nuevos clientes, es así como nosotros planteamos una plataforma web en donde podremos agilizar este proceso y que así solo se concentren en dar sus conciertos mientras nosotros gestionamos el proceso del contrato de forma segura y confiable para los músicos. En parte también apoyar al usuario a poder ubicar mejor un grupo o solista que pueda presentarse a su evento de manera sencilla y rápida viendo la información y videoclips de dicho grupo para conseguir más clientes a estos grupos.
-Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha problematica.
-| Who (Quién)| What (Qué)| When (Cuándo)| Where (Dónde)| Why (Por qué)|
-|--------------------------|-----------------------------------------------------------------|--------------------------|-----------------------------------------------------------------|--------------------------|
-| ¿Quiénes son los miembros de la banda o artistas involucrados en la gestión de contratos? | ¿Qué tipo de contratos suelen firmar las bandas musicales?| ¿Cuándo suelen firmar las bandas musicales contratos con sellos discográficos o agencias de gestión? | ¿Dónde se llevan a cabo las negociaciones y la firma de contratos para las bandas musicales? | ¿Por qué es importante para las bandas musicales tener contratos bien gestionados? |
-| ¿Quienes desempeñan los representantes, agentes o managers en la negociación y firma de contratos? | ¿Qué elementos clave se incluyen en estos contratos?|¿Cuándo comienzan a regir estos contratos y cuál es su duración típica?|¿En qué negocios operan las bandas y dónde se aplican los contratos?| ¿Por qué pueden surgir problemas si los contratos no están claros o equitativos para todas las partes involucradas? |
+What (¿Qué?): Una de las problemáticas que ocurre en el Perú es el incumplimiento de las normas gubernamentales por parte de los dueños de restaurantes, la cual se evidencia mediante las multas y clausura de restaurantes. Esta problemática es muy grave porque no solo afecta al dueño del restaurante, sino también al público en general, puesto que existen enfermedades de transmisión alimentaria como la salmonelosis. 
 
-| How (Cómo)| How much (Cuánto)|
-|----------------------------|--------------------------|
-| ¿Cómo se lleva a cabo el proceso de negociación de contratos para las bandas musicales? | ¿Cuánto dinero suelen implicar los contratos para las bandas musicales?|
-| ¿Cómo se redactan y revisan los contratos para asegurar que reflejen los intereses y derechos de la banda? | ¿Cuántos contratos suelen firmar las bandas en el transcurso de sus carreras y en qué frecuencia? |
+When (¿Cuándo?): El problema sucede cuando los dueños de restaurantes no realizan una buena capacitación del personal, cuando hay una alta demanda en el restaurante, lo que les deja poco tiempo para asegurarse de cumplir con los estándares hechos por el gobierno respecto a la sanidad. El problema también sucede cuando no hay una buena supervisión del personal. El dueño del restaurante utiliza el servicio cuando está en el restaurante para tener un mejor control de lo que requiere su restaurante para cumplir con los estándares de calidad y así poder aprobar su evaluación de sanidad sin ninguna multa. En su lugar, el restaurante ganaría más prestigio y reconocimiento por parte de sus clientes. 
+
+Where (¿Dónde?): El dueño del restaurante puede estar en cualquier lugar cuando use el servicio, solo si lo usa para coordinar con el asesor. El dueño del restaurante debe estar en su local cuando el asesor de sanidad lo vaya a visitar para darle sus recomendaciones de lo que considere que le falte al restaurante para cumplir con las normas gubernamentales de sanidad. 
+
+Who (¿Quién?): Esta problemática involucra a todas las personas, pero nos centraremos en los dueños de restaurantes, así como en los asesores de sanidad. Este tipo de persona será quién usará el servicio principalmente. 
+
+Why (¿Por qué?): El problema del incumplimiento de las normas gubernamentales por parte de los dueños de restaurantes tiene múltiples causas, entre las cuales están la falta de capacitación del personal, la presión del tiempo en momentos de alta demanda del restaurante y la falta de supervisión por parte de los dueños de restaurantes y/o gerentes de restaurantes. La falta de capacitación personal se suele dar porque el personal desconoce las buenas prácticas de higiene y de seguridad alimentaria. La presión del tiempo en momentos de alta demanda del restaurante se suele dar porque el personal cuenta con el tiempo justo para atender a los clientes, por lo que decide acelerar el proceso de preparación de los alimentos, ocasionando que no siempre se encuentren en buen estado. La falta de supervisión por parte de los dueños de restaurantes y/o gerentes de restaurantes porque ocasiona que el personal no siempre se rija a las normas gubernamentales de sanidad. 
+
+How (¿Cómo?): Una de las cosas que llevó al dueño del restaurante a esta situación es ver a través de las noticias cómo es que los restaurantes recibían multas y los clausuraban por incumplimiento de las normas gubernamentales de sanidad y de seguridad alimentaria. 
+
+How much (¿Cuánto?): Según Gob.pe, cinco restaurantes fueron clausurados en La Molina por incumplimiento de las normas gubernamentales de sanidad el 13 de agosto de 2020. 
+
+Nuestro proyecto tiene como objetivo aumentar la calidad de restaurantes respecto a la seguridad alimentaria como a la higiene de estos, con tal de que no sean multados por los asesores de sanidad. 
+
+El alcance de nuestro proyecto se va a delimitar al desarrollo de la landing page, de la aplicación web y del servicio web de nuestro servicio, por lo que todavía los usuarios no lo podrán usar al estar en modo de prueba.
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
