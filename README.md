@@ -252,7 +252,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a href="https://ibb.co/55MPLJC"><img src="https://imgur.com/xcCeqZW></a>
+        <a href="https://ibb.co/55MPLJC"><img src="https://imgur.com/xcCeqZW" alt="Foto-Carlos" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
