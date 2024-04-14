@@ -252,7 +252,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=662d34a5&is=661abfa5&hm=076f03315fa6127cfdff29ea1d6d0b107b1d4defcc1f24c2e54ca5ffa3215d1c&=&format=webp&width=452&height=603" border="0"></a>
+        <a><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=662d34a5&is=661abfa5&hm=076f03315fa6127cfdff29ea1d6d0b107b1d4defcc1f24c2e54ca5ffa3215d1c&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
@@ -294,32 +294,66 @@ El alcance de nuestro proyecto se va a delimitar al desarrollo de la landing pag
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
+Nuestro contexto demanda información importante para gestionar la búsqueda y coordinación de asesores de sanidad para restaurantes. A través de esta información, los dueños de restaurantes tendrán acceso a los recordatorios automáticos para inspecciones, listas de verificación personalizadas para mejoras requeridas y alertas automáticas por incumplimientos de regulaciones gubernamentales significativas, que incluyen a la higiene, así como a la seguridad alimentaria. 
+
+Hemos observado un factor crítico que afecta al dueño del restaurante, el cual se manifiesta en multas por incumplimiento de regulaciones gubernamentales, afectando su reputación como restaurante. 
+
+¿Cómo evitar multas por incumplimiento de regulaciones gubernamentales, así como la afectación de su reputación como restaurante? 
+
 #### 1.2.2.2. Lean UX Assumptions.
+1.- Creo que mis clientes necesitan alertas automáticas por incumplimientos de regulaciones gubernamentales significativas. 
+
+2.- Estas necesidades se pueden resolver con una aplicación que contenga listas de verificación personalizadas para mejoras requeridas. 
+
+3.- Mis clientes iniciales son los dueños de restaurantes, así como los asesores de sanidad para restaurantes. 
+
+4.- El valor #1 que un dueño de restaurante quiere de mi servicio es que el asesor sea confiable. 
+5.- El valor #1 que un asesor de sanidad para restaurantes quiere de mi servicio es aumentar la demanda de clientes por su buena labor. 
+
+6.- El dueño del restaurante también puede obtener estos beneficios adicionales como un chat integrado para que se comunique de manera más fácil con su asesor de sanidad y la posibilidad de generar contratos para garantizar la ejecución del servicio de asesoramiento y prevenir posibles fraudes. 
+
+7.- El asesor de sanidad también puede obtener estos beneficios adicionales como el aumento de su prestigio por su buena labor, lo que generaría el aumento de su red de clientes. 
+
+8.- Voy a adquirir la mayoría de mis clientes a través de la publicidad en redes sociales como Facebook e Instagram. 
+
+9.- Haré dinero a través de la adquisición del servicio Premium. 
+
+10.- Mi competencia principal en el mercado será otras plataformas que también realizan la inspección para restaurantes. 
+
+11- Los venceremos debido a que facilitamos la conexión directa entre los propietarios de restaurantes y los asesores de sanidad, lo que simplifica el proceso de gestión de la salud y de la seguridad alimentaria para estos. 
+
+12.- Mi mayor riesgo de servicio es que la carga de documentos en el chat puede tomar algo de tiempo. 
+
+13.- Resolveremos esto a través del aumento de la capacidad del procesador, de la memoria RAM y del disco duro SSD de la aplicación web. 
+
+14 .- Los usuarios son los dueños de restaurantes y los asesores de sanidad para restaurantes. 
+
+15.- Nuestro servicio encaja en su trabajo. 
+
+16.- Nuestro servicio es usado cuando tanto los dueños de restaurantes como los asesores de sanidad reciben el recordatorio automático de inspección y se usará a través de su laptop y/o celular mediante la aplicación web. 
+
+17.- Las características más importantes de nuestro servicio son que sea fácil de usar, que genere recordatorios automáticos para inspecciones, que genere listas de verificación personalizadas para mejoras requeridas, que brinde alertas automáticas por incumplimientos de regulaciones gubernamentales significativas y que tenga un sistema de calificación para los asesores por parte de los dueños de restaurantes, así como la verificación de la autenticidad de los asesores a través de la publicación de sus certificados. 
+
+18.- Nuestro servicio debe mostrar un listado de asesores disponibles junto con su certificado que respalde su trabajo como asesor, así como su experiencia previa.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-**Hipótesis 1:** <br>
-Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.
-Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
-<br> **Hipótesis 2:** <br>
-Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.
-Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
-<br> **Hipótesis 3:** <br>
-Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.
-Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
-#### 1.2.2.4. Lean UX Canvas.
-![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
+**Creemos que** al realizar asociaciones estratégicas con instituciones de salud pública y con proveedores de servicios de alimentos, nos permitirá ampliar nuestra red y aumentar nuestra credibilidad con nuestros clientes. 
+**Sabremos que** hemos tenido éxito **cuando** al menos el 90% de nuestros clientes hayan reportado no tener multa por problemas de seguridad alimentaria ni sanidad tras ser evaluados por una entidad luego de usar este servicio. 
 
+**Creemos que** al facilitar la conexión directa entre los dueños de restaurantes y los asesores de sanidad mediante un chatbox, nos permitirá simplificar el proceso de gestión de la salud y la seguridad alimentaria para estos. 
+**Sabremos que** hemos tenido éxito **cuando** al menos el 95% de los dueños de restaurantes terminen a tiempo lo requerido de la lista de verificación hecha por los asesores antes de su evaluación sin inconvenientes por malentendidos. 
+
+**Creemos que** al realizar las verificaciones de experiencia y credibilidad de los asesores de sanidad, nos permitirá ser parte del TOP 5 de aplicaciones especializadas en inspección de restaurantes. 
+**Sabremos que** hemos tenido éxito **cuando** nuestra aplicación se encuentre dentro del TOP 5 de resultados con mejores calificaciones por inspección de restaurantes en Google Play Store.
+
+#### 1.2.2.4. Lean UX Canvas
+<a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228871955026022501/image.png?ex=662d9f31&is=661b2a31&hm=8c48b3428371c906bf04a8f1620eb634ccccbb386980eab551687ddd2be7a3ef&=&format=webp&quality=lossless&width=840&height=603" alt="Lean-UX-Canvas" border="0"></a>
 ### 1.3. Segmentos objetivo.
-**Bandas Musicales de Distintos Géneros:** <br>
-Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
 <br>
-
-**Músicos Independientes:** <br>
-En este segmento están los artistas individuales que trabajan de manera independiente sin pertenecer a una banda o sello discográfico específico. Suelen componer, grabar y producir su propia música, y buscan oportunidades para difundir su trabajo, obtener reconocimiento y establecer colaboraciones con otros músicos y profesionales de la industria. La gestión eficiente de contratos y acuerdos es crucial para su carrera y crecimiento en la industria musical.
+**Dueños de restaurantes** entre 30 y 60 años, que sean de clase media y que sean peruanos.
 <br>
-
-**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:**<br>
-Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, festivales, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. La eficiencia en la gestión contractual y la colaboración con artistas son aspectos clave de su negocio.
-
+<br>
+**Asesores de sanidad para restaurantes** entre 30 y 70 años, que sean de clase media y que sean peruanos.
 <br>
 
 ## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
