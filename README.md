@@ -547,8 +547,6 @@ Preguntas Principales:
 
 2.2.2. Registro de entrevistas
 
-
-
 * **Asesor de Sanidad**
 
 <table>
@@ -579,11 +577,7 @@ Nombres y Apellidos:
   </tr>
   <tr>
    <td colspan="2" >
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230356653694521344/image.png?ex=663305ed&is=662090ed&hm=b8cd4fb1b28513854154b8d0d610c58a8245697148440d92ebd8e31e63e86780&=&format=webp&quality=lossless">
 
    </td>
   </tr>
@@ -628,11 +622,7 @@ La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce qu
   </tr>
   <tr>
    <td colspan="2" >
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357064593702952/image.png?ex=6633064f&is=6620914f&hm=ee5dfe2e758833156466f6e70a5106ef0ecf2be9e2a0d0a1a980d09d1a3faf55&=&format=webp&quality=lossless&width=550&height=157">
 
    </td>
   </tr>
@@ -677,11 +667,7 @@ La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restauran
   </tr>
   <tr>
    <td colspan="2" >
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357424645472279/image.png?ex=663306a4&is=662091a4&hm=5980da5f2a7d9b5c53c9a3fc1b9772f0cb3bdb74d73e5c3bad18d2b6a0f3e6fe&=&format=webp&quality=lossless">
 
    </td>
   </tr>
@@ -731,10 +717,7 @@ Nombres y Apellidos:
   <tr>
    <td colspan="2" >
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image14.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357611698720838/image.png?ex=663306d1&is=662091d1&hm=3dc06b50616bb5b3e2ee55409a23719583dd7941d08ef85077718354673681a9&=&format=webp&quality=lossless&width=550&height=275">
 
    </td>
   </tr>
@@ -780,10 +763,7 @@ El señor Guido ha sido propietario de un restaurante durante varios años y sol
   <tr>
    <td colspan="2" >
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image15.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357755781714072/image.png?ex=663306f3&is=662091f3&hm=f95df616c368a48d6d284b96e23062e30551fd8fbdac8709f8fa8bd494cc6065&=&format=webp&quality=lossless">
 
    </td>
   </tr>
@@ -829,10 +809,7 @@ La señora Gladys nos comparte que, hasta el momento, no ha trabajado con un ase
   <tr>
    <td colspan="2" >
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image16.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357755781714072/image.png?ex=663306f3&is=662091f3&hm=f95df616c368a48d6d284b96e23062e30551fd8fbdac8709f8fa8bd494cc6065&=&format=webp&quality=lossless">
 
    </td>
   </tr>
@@ -855,107 +832,45 @@ La señora Marisol comparte que ha tenido dificultades para encontrar un asesor 
 
 * **Asesor de Sanidad**
 
-    Del gráfico, "Agrado sobre la página web" nos muestra el porcentaje de eficiencia y aceptación de los usuarios hacia la página web. Esto nos muestra que estamos haciendo un buen trabajo.
-
-
+Del gráfico, "Agrado sobre la página web" nos muestra el porcentaje de eficiencia y aceptación de los usuarios hacia la página web. Esto nos muestra que estamos haciendo un buen trabajo.
     
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358415910371481/image.png?ex=66330791&is=66209291&hm=d094a1161e69d53b2dd9292b16d613acc34e96da9701cb8a76f394c5e91255af&=&format=webp&quality=lossless">
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Del gráfico, "Preferencias en la gestión de reuniones" nos muestra el porcentaje de las opciones(WhatsApp,Videollamada, Presencial) que más les agrada hacer a los asesores en su primera reunión. Esto nos muestra que les agrada más el método presencial para crear más confianza a sus clientes.
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358709234831460/image.png?ex=663307d7&is=662092d7&hm=24a6c4ad72c1ef09962cd553b726bcc2ee45d802d35d3ce182a330420e2877a3&=&format=webp&quality=lossless">
 
-![alt_text](images/image17.png "image_tooltip")
+Del gráfico "Funcionalidades adicionales" se puede observar el porcentaje de usuarios interesados en características extra que les gustaría que la página web tuviera. Esto nos permite focalizarnos en añadir un valor adicional que los usuarios consideran importante.
 
-
-
-    Del gráfico, "Preferencias en la gestión de reuniones" nos muestra el porcentaje de las opciones(WhatsApp,Videollamada, Presencial) que más les agrada hacer a los asesores en su primera reunión. Esto nos muestra que les agrada más el método presencial para crear más confianza a sus clientes.
-
-
-    
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
-
-
-    Del gráfico "Funcionalidades adicionales" se puede observar el porcentaje de usuarios interesados en características extra que les gustaría que la página web tuviera. Esto nos permite focalizarnos en añadir un valor adicional que los usuarios consideran importante.
-
-
-    
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358869536936038/image.png?ex=663307fd&is=662092fd&hm=e2a19f6081358e3ff696edefd552500ae7e3b6c70dece3d832a6dd5edaab2d85&=&format=webp&quality=lossless">
 
 * **Restaurante**
 
-    De la gráfica "Experiencia previa con Asesores" se muestra el porcentaje de usuarios que han tenido experiencias positivas con asesores anteriores, así como aquellos que han tenido experiencias negativas.
+De la gráfica "Experiencia previa con Asesores" se muestra el porcentaje de usuarios que han tenido experiencias positivas con asesores anteriores, así como aquellos que han tenido experiencias negativas.
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359148646895677/image.png?ex=66330840&is=66209340&hm=573aa6c6ca03016ed131a976793034d84b10ddaf600c9827d8a4c6824e42ee88&=&format=webp&quality=lossless">
 
+De la gráfica "Motivos para buscar un nuevo asesor" se muestra los motivos del porque buscan asesores de confianza. Esto nos ayudará a enfocarnos en estos sectores para que los usuarios se sientan satisfechos.
 
-![alt_text](images/image20.png "image_tooltip")
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359330088292494/image.png?ex=6633086b&is=6620936b&hm=2cacf67cc88d38d44f3120ee3523e9823099dc8153cab9e61759a3095e660ae9&=&format=webp&quality=lossless">
 
+De la gráfica, "Contratar un asesor de sanidad" , nos muestra el porcentaje de los usuarios restaurantes que desean contratar un asesor de sanidad mediante nuestra página web.
 
-
-    De la gráfica "Motivos para buscar un nuevo asesor" se muestra los motivos del porque buscan asesores de confianza. Esto nos ayudará a enfocarnos en estos sectores para que los usuarios se sientan satisfechos.
-
-
-    
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
-
-
-    De la gráfica, "Contratar un asesor de sanidad" , nos muestra el porcentaje de los usuarios restaurantes que desean contratar un asesor de sanidad mediante nuestra página web.
-
-
-    
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.png "image_tooltip")
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359812097839104/image.png?ex=663308de&is=662093de&hm=a3cf37cba80c246bbdc6e3802811bf253f4c54ec33832b27c9dce27b7df7b70d&=&format=webp&quality=lossless">
 
 2.3. Needfinding
 
 2.3.1. User personas
 
-
-
 * **Asesor de Sanidad**
 
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image23.png "image_tooltip")
-
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360077421252628/image.png?ex=6633091d&is=6620941d&hm=a9160a5ad3eb89a0a2781a26326fa47f9a0be687620a376403697f67cb1f083f&=&format=webp&quality=lossless&width=433&height=603">
 
 * **Dueño de restaurante**
 
-    
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image24.png "image_tooltip")
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360291481489428/image.png?ex=66330950&is=66209450&hm=9cab92cb0397a2589c3c63f42d8c17f87a43af027053ffb511abc8d00bb6f930&=&format=webp&quality=lossless&width=430&height=603">
 
 2.3.2. User Task Matrix
-
 
 <table>
   <tr>
@@ -1095,86 +1010,54 @@ La señora Marisol comparte que ha tenido dificultades para encontrar un asesor 
 
 2.3.3. User Journey Mapping
 
-
-
 * **Asesor de Sanidad**
 
-
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image25.jpg "image_tooltip")
-
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360544301809704/image.png?ex=6633098c&is=6620948c&hm=29d2ce6c96c6f344936536d56f2c68d7d0547f17991f222b667d4b57b4eda4ee&=&format=webp&quality=lossless&width=640&height=603">
 
 * **Dueño de restaurante**
 
-
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image26.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360702317887498/image.png?ex=663309b2&is=662094b2&hm=727bee7860f42db417d49d06ae47712893734cd6ab08b62acbca080fd036c288&=&format=webp&quality=lossless&width=593&height=603">
 
 2.3.4. Empathy Mapping
 
-
-
 * Asesor de sanidad
 
-
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image27.png "image_tooltip")
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360883188994088/image.png?ex=663309dd&is=662094dd&hm=a0a04ff804cf0c8f9396f1ce40d4c63755de11187913cf0efac16d178f048140&=&format=webp&quality=lossless&width=543&height=603">
 
 
 * Dueño de restaurante
 
-    
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image28.png "image_tooltip")
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361038273380373/image.png?ex=66330a02&is=66209502&hm=cf4a70c351a0b61ee4fe83f305bfd7f22d5875572a9d68c11495d25b5bb8774c&=&format=webp&quality=lossless&width=515&height=603">
 
 2.3.5. As-is Scenario Mapping
-
-
 
 * Asesor de sanidad
 
 Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
 
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361261964005456/image.png?ex=66330a37&is=66209537&hm=5acde29f87a97b40d5303d613fcb6f4a27f5639c5665173cce54f41595382b15&=&format=webp&quality=lossless&width=550&height=271">
 
 * Dueño de restaurante
 
 Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
+
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361410446557284/image.png?ex=66330a5b&is=6620955b&hm=c5c2834d324fdb93daa476208c4257d43531b8a0b4f535fad8aded997f400f2f&=&format=webp&quality=lossless&width=550&height=274">
 
 **CAPÍTULO III**
 
 3.1. To-be Scenario Mapping
 
-
-
 * Asesor de sanidad 
 
 Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
 
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361557431615488/image.png?ex=66330a7e&is=6620957e&hm=ae232f2ebf4aa0c683ae803f8e3c5f296ec3ad93218bea732816be9dbe8ba707&=&format=webp&quality=lossless&width=550&height=325">
 
 * Dueño de restaurante 
 
 Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
+
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361731985834087/image.png?ex=66330aa7&is=662095a7&hm=215073d3e9fcd13d235d265b90d9cc4b1e47ed5e76cc6bedfe787ddbb95361ca&=&format=webp&quality=lossless&width=550&height=270">
 
 3.2. User Stories
 
@@ -1735,31 +1618,15 @@ Algunos ejemplos de épicas son los siguientes:
 
 3.3. Impact Mapping
 
-
-
 * **Asesor de Sanidad**
 
-    
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image29.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361931672719430/image.png?ex=66330ad7&is=662095d7&hm=16ec8f43647bfa49093438842ef6f007c9ebed87125c50a7de098ac12473d79f&=&format=webp&quality=lossless&width=443&height=603">
 
 * **Restaurante**
 
-    
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image30.png "image_tooltip")
-
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362157292458004/image.png?ex=66330b0d&is=6620960d&hm=e0ea77244925ec137ded94fd8d41b970ee66062b92a57e71212ae011bb620448&=&format=webp&quality=lossless&width=537&height=603">
 
 3.4. Product Backlog
-
 
 <table>
   <tr>
@@ -2026,40 +1893,39 @@ Algunos ejemplos de épicas son los siguientes:
 4.1.1. General Style Guidelines.
 
 
-    **	**Se hará uso de botones para la navegación entre frames. Cada uno de los anteriormente mencionados poseerá un botón principal según el usuario es auditor o dueño de un establecimiento
+****Se hará uso de botones para la navegación entre frames. Cada uno de los anteriormente mencionados poseerá un botón principal según el usuario es auditor o dueño de un establecimiento
 
 4.1.2. Web Style Guidelines.
 
 
-    Header simple con redirección a la página principal
+Header simple con redirección a la página principal
 
 
-    Sección main donde estarán todos los eventos principales
+Sección main donde estarán todos los eventos principales
 
 
-    Barra lateral en el main para seleccionar entre los chats  
+Barra lateral en el main para seleccionar entre los chats  
 
 4.2. Information Architecture.
 
 4.2.1. Organization Systems.
 
 
-    	Como equipo, elegimos introducir una estructura organizativa visual en la presentación de contenido de nuestra organización llamada "jerarquía visual". Esta elección se basa en el hecho de que una jerarquía visual claramente definida dirige la atención del usuario a los elementos más relevantes de la página o aplicación. La jerarquía visual de una página es fundamental para la presentación de la información del sistema al usuario final, permitiéndole determinar inmediatamente dónde centrar su atención cuando mira una página o aplicación. Para lograr esta jerarquía visual, utilizamos el color y el contraste como nuestras principales herramientas. Esto se debe a que el uso selectivo del color en el diseño llama nuestra atención y determina la importancia que le damos a los diferentes elementos del diseño de nuestro sitio web.
+Como equipo, elegimos introducir una estructura organizativa visual en la presentación de contenido de nuestra organización llamada "jerarquía visual". Esta elección se basa en el hecho de que una jerarquía visual claramente definida dirige la atención del usuario a los elementos más relevantes de la página o aplicación. La jerarquía visual de una página es fundamental para la presentación de la información del sistema al usuario final, permitiéndole determinar inmediatamente dónde centrar su atención cuando mira una página o aplicación. Para lograr esta jerarquía visual, utilizamos el color y el contraste como nuestras principales herramientas. Esto se debe a que el uso selectivo del color en el diseño llama nuestra atención y determina la importancia que le damos a los diferentes elementos del diseño de nuestro sitio web.
 
 4.2.2. Labeling Systems.
 
 
-    	Nuestro objetivo con las etiquetas es identificar las etiquetas más relevantes y comunes utilizadas en plataformas relativamente similares para simplificar la comprensión. Esto es para evitar confusión o sobrecarga de información a nuestros clientes y evitar confusiones. Nos centramos en las necesidades de los consumidores y nos esforzamos por brindar una experiencia tranquila y amigable basada en nuestra oferta de productos. Nuestro objetivo es que la mayoría de las personas puedan utilizar nuestros productos de forma intuitiva y navegar por la plataforma sin problemas.
+Nuestro objetivo con las etiquetas es identificar las etiquetas más relevantes y comunes utilizadas en plataformas relativamente similares para simplificar la comprensión. Esto es para evitar confusión o sobrecarga de información a nuestros clientes y evitar confusiones. Nos centramos en las necesidades de los consumidores y nos esforzamos por brindar una experiencia tranquila y amigable basada en nuestra oferta de productos. Nuestro objetivo es que la mayoría de las personas puedan utilizar nuestros productos de forma intuitiva y navegar por la plataforma sin problemas.
 
 4.2.3. SEO Tags and Meta Tags
 
-
-     Cuando se trata de SEO y etiquetas Meta, decidimos utilizar el nombre de la aplicación AuditBridge como etiqueta de título. Además, en las mismas proporcionamos una descripción de los beneficios que nuestros servicios pueden proporcionar a los usuarios.
+Cuando se trata de SEO y etiquetas Meta, decidimos utilizar el nombre de la aplicación AuditBridge como etiqueta de título. Además, en las mismas proporcionamos una descripción de los beneficios que nuestros servicios pueden proporcionar a los usuarios.
 
 4.2.4. Searching Systems.
 
 
-    **	**Nuestra aplicación web presenta 2 sistemas de búsqueda:
+****Nuestra aplicación web presenta 2 sistemas de búsqueda:
 
 
 
@@ -2068,240 +1934,79 @@ Algunos ejemplos de épicas son los siguientes:
 
 4.2.5. Navigation Systems.
 
-
-    La aplicación cuenta con una barra de menú estática en la cual están presentes todos los menús que el usuario puede usar. La barra de menú resaltará el nombre del menú en el que el usuario se encuentre en ese momento.
+La aplicación cuenta con una barra de menú estática en la cual están presentes todos los menús que el usuario puede usar. La barra de menú resaltará el nombre del menú en el que el usuario se encuentre en ese momento.
 
 4.3. Landing Page UI Design.
 
 4.3.1. Landing Page Wireframe.
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362498566455346/image.png?ex=66330b5e&is=6620965e&hm=7dae6d56b305c9cd56a7e562e0e2bd573d86eab55a01ccd44a5163dbaeb58d56&=&format=webp&quality=lossless&width=873&height=603">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362642762170468/image.png?ex=66330b81&is=66209681&hm=be6e4c68bddcbf00ff8c573e70bf0c7426e2667217698a60feb84d457858e1dc&=&format=webp&quality=lossless">
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image31.png "image_tooltip")
-
-
-
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image32.png "image_tooltip")
-
-
-
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image33.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362768817782804/image.png?ex=66330b9f&is=6620969f&hm=aea0c289db589ab3c978f8ebdca7ae5ec104666b77875bf834f835c51b81dd98&=&format=webp&quality=lossless&width=873&height=603">
 
 4.3.2. Landing Page Mock-up.
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362907737456720/image.png?ex=66330bc0&is=662096c0&hm=e0d5eebce75e0a43efaa5988af5736419a887d04211768d436f8dcd4614dbbdb&=&format=webp&quality=lossless&width=527&height=350">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363047495864320/image.png?ex=66330be1&is=662096e1&hm=f9363b8330a018fe507e4404fb08240cedb07a8930dbec4c8bf206ba2100f14f&=&format=webp&quality=lossless&width=550&height=283">
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image34.png "image_tooltip")
-
-
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image35.png "image_tooltip")
-
-
-
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image36.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363213020004382/image.png?ex=66330c09&is=66209709&hm=54fcd215eb5ace4ef7f5cda7608e1f5ed5f96a259e2f6b34252066e4cc67dd92&=&format=webp&quality=lossless">
 
 4.4. Web Applications UX/UI Design.
 
 4.4.1. Web Applications Wireframes.
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363359321260084/image.png?ex=66330c2b&is=6620972b&hm=22ddf426742ae0daede5be8e4c6014614b63da2b2bf935fb8fdedbc4587e261a&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363484643135528/image.png?ex=66330c49&is=66209749&hm=fb94e945558ce6ee4a113ff980c0609fd5c9f162936abccd0ddc41fbc8450e26&=&format=webp&quality=lossless">
 
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363619338878976/image.png?ex=66330c69&is=66209769&hm=4e933653927de511a7f543b5aaa9a225bbd810c1342ebb7874b31ba6cb54cd44&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363741078687824/image.png?ex=66330c86&is=66209786&hm=fe663423c48e9aaebe6df59068c57bcde22c2c63cb73e6083fe2f7ae83a752af&=&format=webp&quality=lossless">
 
-![alt_text](images/image37.png "image_tooltip")
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230363936252104704/image.png?ex=66330cb5&is=662097b5&hm=ec42c0677df754496aa05f247bdf13f04139037f18896893359999bd02408431&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230364055835906158/image.png?ex=66330cd1&is=662097d1&hm=a7fce5c7b2fc5c11975af2a56e2d8268fc8c7f1eb9f0860805c9a4b45af631db&=&format=webp&quality=lossless">
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230364193052561480/image.png?ex=66330cf2&is=662097f2&hm=f81248f43bec5c5b0578daf92fed54f62d724881417f0d831102faf6a532ac72&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230364291014590554/image.png?ex=66330d0a&is=6620980a&hm=37556975e2e9cd45a451ee444d79128503be8c5b964a4017e9b6c78219e2d62a&=&format=webp&quality=lossless">
 
-![alt_text](images/image38.png "image_tooltip")
-
-
-
-
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image39.png "image_tooltip")
-
-
-
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image40.png "image_tooltip")
-
-
-
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image41.png "image_tooltip")
-
-
-
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image42.png "image_tooltip")
-
-
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image43.png "image_tooltip")
-
-
-
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image44.png "image_tooltip")
-
-
-
-
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image45.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230364426629287956/image.png?ex=66330d2a&is=6620982a&hm=ddb5ae091290646b91e3ea2dfcf981b8427ff97e54ec29b632e53f5b9f33e450&=&format=webp&quality=lossless">
 
 4.4.2. Web Applications Wireflow Diagrams.
 
-
-
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image46.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230364546019885116/image.png?ex=66330d46&is=66209846&hm=431a0a177729f1cda3fdcf82438f22b1b71a90e8bbc937dc45711f4755b6405d&=&format=webp&quality=lossless&width=568&height=603">
 
 4.4.3.. Web Applications Mock-ups.
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365182795186187/image.png?ex=66330dde&is=662098de&hm=63be30eab8858738dca3a1a86681327c824d175ef238ae8565aff0e18b8df3e6&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365327548878928/image.png?ex=66330e01&is=66209901&hm=4471827acd816b0169ea5ece9aafeb2191477b4d24d2691801e77ac7208d04c6&=&format=webp&quality=lossless">
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365469299707964/image.png?ex=66330e22&is=66209922&hm=718521da6ac6eba0c94f1f3ad66c04bbe7acb569b60546724423be9b5d93f264&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365617878470696/image.png?ex=66330e46&is=66209946&hm=bf87f501ad2785ccec912b9ba88fc9dbf425379ebcc22fc7b8cc5e510247860f&=&format=webp&quality=lossless">
 
-![alt_text](images/image47.png "image_tooltip")
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365798539984906/image.png?ex=66330e71&is=66209971&hm=17b5bd5330ce511b746f59b72138f26e554e9f15fa2201145ae668c07bb3e3f1&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230365913438617660/image.png?ex=66330e8c&is=6620998c&hm=31aab4965b9e5aa92bbd5699f1b528748051c1b09490aec791d0ae5efeb6dc82&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230366021001416734/image.png?ex=66330ea6&is=662099a6&hm=e57d371d18ce387caf3ac2491bd6e7c7879794646657af11ac7d0e49aba9fc8a&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230366125926252644/image.png?ex=66330ebf&is=662099bf&hm=6ca4a96d3d37b0d41eee483d59f4fe80b3d132fba06ae7ec7a127214f0871848&=&format=webp&quality=lossless">
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image48.png "image_tooltip")
-
-
-
-
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image49.png "image_tooltip")
-
-
-
-
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image50.png "image_tooltip")
-
-
-
-
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image51.png "image_tooltip")
-
-
-
-
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image52.png "image_tooltip")
-
-
-
-
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image53.png "image_tooltip")
-
-
-
-
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image54.png "image_tooltip")
-
-
-
-
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image55.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230366226652463124/image.png?ex=66330ed7&is=662099d7&hm=d521c79937f5059fa34913c9e92a894ceda7567e773b1e6bff5ee123bb69eadb&=&format=webp&quality=lossless">
 
 4.4.4. Web Applications User Flow Diagrams.
 
-
-
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image56.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230366394932006922/image.png?ex=66330eff&is=662099ff&hm=8699dd08af31dbc23c4befd7466898dfd8df3df52b5330280abefe34d1f406ee&=&format=webp&quality=lossless&width=573&height=603">
 
 4.5. Web Applications Prototyping.
 
-
-
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image57.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230366512724840458/image.png?ex=66330f1b&is=66209a1b&hm=1a97691a2b504f2f0932d67f34285cd875eb5496e41670ff64e0dde1a8c1a478&=&format=webp&quality=lossless">
 
 Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_upc_edu_pe/ESFiOZhXosdFlbmLB6WbkusBsHXRrqycKbi_S--mWPhXFw?e=pjPhQR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_upc_edu_pe/ESFiOZhXosdFlbmLB6WbkusBsHXRrqycKbi_S--mWPhXFw?e=pjPhQR) 
 
@@ -2309,48 +2014,23 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.6.1. Software Architecture Context Diagram.
 
-
-
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image58.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367312884793354/image.png?ex=66330fda&is=66209ada&hm=34167f7a99023708ecd524c3048d22ce8badefb0a207211ba0cd0e87f59b8135&=&format=webp&quality=lossless&width=696&height=603">
 
 4.6.2. Software Architecture Container Diagrams.
 
-
-
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image59.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367439884390450/image.png?ex=66330ff8&is=66209af8&hm=25d6905e696f387a9aba8e5388282ed52c9d4987173ce04c415c4551825ddf45&=&format=webp&quality=lossless">
 
 4.6.3. Software Architecture Components Diagrams.
 
-
-
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image60.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367588240986182/image.png?ex=6633101c&is=66209b1c&hm=7ae208d63f4c856e5fb3ff9a575ff6fed2560cd74e726dfba019556c53d2d085&=&format=webp&quality=lossless">
 
 4.7. Software Object-Oriented Design.
 
 4.7.1. Class Diagrams.
 
-
-
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image61.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367725042405406/image.png?ex=6633103c&is=66209b3c&hm=d57b77116e6f21017d5ac1c066e3eaa9fc0a0cb2169a258682e29a3dd5d2e82e&=&format=webp&quality=lossless">
 
 4.7.2. Class Dictionary.
-
 
 <table>
   <tr>
@@ -2612,13 +2292,7 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.8.1. Database Diagram.
 
-
-
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image62.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image62.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367874678394890/image.png?ex=66331060&is=66209b60&hm=5c7f2a54a94f1034a4fb41f052ab22eaad60a2eaf3b783987dea07cfd0e5ee5b&=&format=webp&quality=lossless">
 
 **CAPÍTULO V**
 
@@ -2627,64 +2301,60 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 5.1.1. Software Development Environment Configuration.
 
 
-    **	**En esta sección se listan las aplicaciones y software, así como tecnologías tales como frameworks y lenguajes, que fueron utilizados para la elaboración del presente trabajo:
+****En esta sección se listan las aplicaciones y software, así como tecnologías tales como frameworks y lenguajes, que fueron utilizados para la elaboración del presente trabajo:
 
-	1. Project Management
+1. Project Management
 
-		**GitHub:**
+**GitHub:**
 
-
-        **	**Es una plataforma cloud orientada al alojamiento de repositorios de proyectos de desarrollo de software.
-
-
-        Enlace: [https://www.github.com](https://www.github.com)
-
-	2. Product UX/UI design
-
-		**UXPressia:**
+****Es una plataforma cloud orientada al alojamiento de repositorios de proyectos de desarrollo de software.
 
 
-        Es una herramienta de diseño orientada a la creación de esquemas y diagramas tales como los diseños del User Persona, Empathy Map y Journey Map.
+Enlace: [https://www.github.com](https://www.github.com)
+
+2. Product UX/UI design
+
+**UXPressia:**
 
 
-        Enlace: [http://www.uxpressia.com](http://www.uxpressia.com)
+****Es una herramienta de diseño orientada a la creación de esquemas y diagramas tales como los diseños del User Persona, Empathy Map y Journey Map.
 
 
-        **Miro:**
+Enlace: [http://www.uxpressia.com](http://www.uxpressia.com)
 
 
-        Es un espacio de trabajo online, sencillo e intuitivo que permite a los usuarios visualizar ideas, estructuras organizativas y sistemas complejos.
+**Miro:**
 
 
-        Enlace: [https://www.miro.com](https://www.miro.com)
-
-	3. Software Development
-
-		**HTML:**
+Es un espacio de trabajo online, sencillo e intuitivo que permite a los usuarios visualizar ideas, estructuras organizativas y sistemas complejos.
 
 
-        	Lenguaje de marcado orientado a la definición de las estructura de una página web.
+Enlace: [https://www.miro.com](https://www.miro.com)
+
+3. Software Development
+
+**HTML:**
 
 
-        **CSS:**
+Lenguaje de marcado orientado a la definición de las estructura de una página web.
 
 
-        Lenguaje de estilos, los cuales determinan la apariencia de los contenidos estructurados por HTML.
+**CSS:**
 
 
-        **Javascript:**
+Lenguaje de estilos, los cuales determinan la apariencia de los contenidos estructurados por HTML.
 
 
-        Lenguaje de programación multiparadigma. En el entorno de desarrollo web, otorga funcionalidad a elementos de la página web, permitiendo la interacción con el usuario y comunicación con el servidor.
+**Javascript:**
+
+
+Lenguaje de programación multiparadigma. En el entorno de desarrollo web, otorga funcionalidad a elementos de la página web, permitiendo la interacción con el usuario y comunicación con el servidor.
 
 5.1.2. Source Code Management.
 
-
-    Para el desarrollo de este proyecto se creó un repositorio en GitHub, en el cual se aloja el código fuente de la aplicación. Esta aplicación también nos permite realizar el control de versiones a través de Git
+Para el desarrollo de este proyecto se creó un repositorio en GitHub, en el cual se aloja el código fuente de la aplicación. Esta aplicación también nos permite realizar el control de versiones a través de Git
 
 5.1.3. Source Code Style Guide & Conventions.
-
-
 
 * Indentación y espaciado:
 
@@ -2705,18 +2375,14 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 5.1.4. Software Deployment Configuration.
 
-
-    Para el despliegue del landing page, se utilizará GitHub Pages, servicio que nos permite desplegar una página web estática a partir de un repositorio.
-
-
-    Las herramientas utilizadas para el desarrollo del Landing Page fueron HTML, CSS y Javascript. El software utilizado fue Git, GitHub, GitHub Pages y GitFlow como metodología de control de versiones.
+Para el despliegue del landing page, se utilizará GitHub Pages, servicio que nos permite desplegar una página web estática a partir de un repositorio.
+Las herramientas utilizadas para el desarrollo del Landing Page fueron HTML, CSS y Javascript. El software utilizado fue Git, GitHub, GitHub Pages y GitFlow como metodología de control de versiones.
 
 5.2. Landing Page, Services & Applications Implementation.
 
 5.2.1. Sprint 1
 
 5.2.1.1. Sprint Planning 1
-
 
 <table>
   <tr>
@@ -2888,13 +2554,7 @@ En lo que respecta a este sprint se realizaron los capítulos I, II, III, IV y p
 
 Imagen del landing desplegado
 
-
-
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image63.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230368527936917545/image.png?ex=663310fc&is=66209bfc&hm=26ffdd993dd0c4fad4f8823c9cea3f4883240ee68456db70df90087cf3ec4426&=&format=webp&quality=lossless&width=550&height=286">
 
 Link del landing desplegado:** \
 [https://audit-bridge.netlify.app/](https://audit-bridge.netlify.app/) **
@@ -2913,10 +2573,4 @@ La página principal fue diseñada e implementada en Netlify porque el servicio 
 
 Para la elaboración del reporte como para el landing se utilizaron los repositorios en GitHub.
 
-
-
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image64.png "image_tooltip")
-
+<img src="https://media.discordapp.net/attachments/1009495505555959829/1230368671998935130/image.png?ex=6633111e&is=66209c1e&hm=38450c8390b939a43a318783c8196b1ba1582958d4c6c9d9918a9ca53dc98076&=&format=webp&quality=lossless">
