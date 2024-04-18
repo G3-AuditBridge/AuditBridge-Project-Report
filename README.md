@@ -545,96 +545,2378 @@ Preguntas Principales:
 4. ¿Qué características o servicios te gustaría ver en una plataforma de gestión de asesores para la evaluación de sanidad de tu restaurante?
 5. ¿Qué aspectos te haría sentir en confianza al contactar con algún asesor mediante una plataforma en línea?
 
-#### 2.2.2. Registro de entrevistas.
-#### 2.2.3. Análisis de entrevistas.
-
-### 2.3. Needfinding.
+2.2.2. Registro de entrevistas
 
 
-#### 2.3.1. User Personas.
 
-#### 2.3.2. User Task Matrix.
-#### 2.3.3. User Journey Mapping.
-#### 2.3.4. Empathy Mapping.
-#### 2.3.5. As-is Scenario Mapping.
+* **Asesor de Sanidad**
 
-## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
+<table>
+  <tr>
+   <td>
+Nombres y Apellidos:
+   </td>
+   <td>Claudia Carranza
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>28
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>San Martín de Porres, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>03:55
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
 
-### 3.1. To-Be Scenario Mapping.
-### 3.2. User Stories.
-### 3.3. Impact Mapping.
-### 3.4. Product Backlog.
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-<br>
 
-## CAPÍTULO 4: PRODUCT DESIGN
+<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
 
-### 4.1. Style Guidelines.
-#### 4.1.1. General Style Guidelines.
-#### 4.1.2. Web Style Guidelines.
-### 4.2. Information Architecture.
-#### 4.2.1. Organization Systems.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce que su falta de historial crediticio puede generar dudas sobre su experiencia, aunque está segura de su capacidad para realizar un trabajo excelente. A pesar de estar en sus primeros pasos, ha demostrado ser detallista en sus evaluaciones y está siempre disponible para responder a las preguntas de sus clientes. Claudia está entusiasmada con la idea de utilizar nuestra plataforma web, ya que cree que le proporcionará la oportunidad de ganar más experiencia y generar confianza entre sus clientes. Además, sugiere la inclusión de plantillas en la página para facilitar su trabajo y ofrecer asesoramiento general de manera más eficiente a sus clientes.
+   </td>
+  </tr>
+</table>
 
-#### 4.2.2. Labeling Systems.
 
-#### 4.2.3. SEO Tags and Meta Tags
 
-#### 4.2.4. Searching Systems.
+<table>
+  <tr>
+   <td>Nombres y Apellidos:
+   </td>
+   <td>Valeria Caqui Pizarro
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>28
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>Miraflores, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>04:14
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
 
-#### 4.2.5. Navigation Systems.
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-### 4.3. Landing Page UI Design.
-#### 4.3.1. Landing Page Wireframe.
-#### 4.3.2. Landing Page Mock-up. 
 
-### 4.4. Web Applications UX/UI Design.
-#### 4.4.1. Web Applications Wireframes.
-#### 4.4.2. Web Applications Wireflow Diagrams.
+<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
 
-#### 4.4.2. Web Applications Mock-ups.
-#### 4.4.3. Web Applications User Flow Diagrams.
-### 4.5. Web Applications Prototyping.
-### 4.6. Domain-Driven Software Architecture.
-#### 4.6.1. Software Architecture Context Diagram.
-#### 4.6.2. Software Architecture Container Diagrams.
-#### 4.6.3. Software Architecture Components Diagrams.
-### 4.7. Software Object-Oriented Design.
-#### 4.7.1. Class Diagrams.
-#### 4.7.2. Class Dictionary.
-### 4.8. Database Design.
-#### 4.8.1. Database Diagram.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restaurantes con 28 años de edad, destaca una experiencia de más de 10 años en la evaluación de sanidad en diversos establecimientos. Utiliza herramientas como listas de verificación personalizadas, equipos de medición de temperatura y software especializado en su labor como asesora. Considera altamente beneficiosa una plataforma que promueva y dé a conocer los servicios de asesoría en sanidad para restaurantes, facilitando el acceso de los propietarios a profesionales calificados. Espera que esta plataforma de coordinación entre asesores y restaurantes sea eficiente y fácil de usar, permitiendo una comunicación fluida y transparente, así como una programación eficiente de inspecciones y seguimiento de recomendaciones. Prefiere gestionar la primera reunión con los propietarios de manera presencial o a través de videollamada para establecer una conexión personal. Valeria imagina que una plataforma de coordinación de asesores podría mejorar su trabajo y eficiencia al centralizar la gestión de citas y documentos, proporcionar herramientas de seguimiento y recordatorio, y permitir una interacción directa con los propietarios en un entorno digital seguro, asegurando una mejor atención a las necesidades individuales de cada establecimiento.
+   </td>
+  </tr>
+</table>
 
-<br>
 
-## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
-### 5.1. Software Configuration Management.
-#### 5.1.2. Source Code Management.
-#### 5.1.3. Source Code Style Guide & Conventions.
-#### 5.1.4. Software Deployment Configuration.
-### 5.2. Landing Page, Services & Applications Implementation.
-#### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-#### 5.2.1.2. Sprint Backlog n.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+<table>
+  <tr>
+   <td>Nombres y Apellidos:
+   </td>
+   <td>Laura Mártinez
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>27
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>San Isidro, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>02:27
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
 
-<br>
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-## Conclusiones
 
-### Conclusiones y recomendaciones.
-### Video About-the-Team.
+<img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
 
-<br>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+La señorita Laura nos comenta que se especializa en el área de una buena alimentación, pero también es experta en asesorar a restaurantes sobre cómo mantener la higiene en su local y mantener un ambiente ordenado. En su trabajo, suele llevar consigo utensilios para inspeccionar la calidad de los alimentos y la limpieza de los espacios estrechos. Al mencionarle nuestra página web, sugirió la inclusión de plantillas para facilitar la toma de notas durante sus evaluaciones, y le agrada la idea de ser contactada a través de la plataforma para conocer potenciales clientes. Respecto a la primera reunión, prefiere que sea presencial o mediante videollamada para establecer una relación de confianza con el cliente.
+   </td>
+  </tr>
+</table>
 
-## Bibliografía
 
-<br>
 
-## Anexos
- 
+
+* **Restaurante**
+
+<table>
+  <tr>
+   <td>
+Nombres y Apellidos:
+   </td>
+   <td>Guido Fernandez Callupe
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>55
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>San Isidro, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>06:49
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image14.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+El señor Guido ha sido propietario de un restaurante durante varios años y solía contar con el apoyo de un asesor municipal. Este asesor se encargaba de informarle sobre las visitas de inspección municipal y proporcionarle orientación sobre los requisitos de cumplimiento. Guido tenía una gran estima por este asesor, pero recientemente fue retirado de su cargo por asesorar a otros restaurantes. Ahora, Guido se encuentra sin un asesor de confianza, ya que su amigo se trasladó a otro país. Al conocer nuestra plataforma, Guido se sintió aliviado al saber que podría encontrar un nuevo asesor, aunque aún siente cierta desconfianza sobre si el nuevo asesor cumplirá con sus expectativas. Sin embargo, le agrada la idea de poder visualizar los certificados de los asesores para sentirse más seguro sobre su elección.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Nombres y Apellidos:
+   </td>
+   <td>Gladys Fernandez Callupe
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>60
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>San Martín de Porres, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>05:12
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image15.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+La señora Gladys nos comparte que, hasta el momento, no ha trabajado con un asesor externo, prefiriendo en su lugar asistir a las clases de sanidad que ofrece la municipalidad para adquirir conocimientos y poder gestionar ella misma los aspectos sanitarios de su restaurante. Sin embargo, reconoce que esta iniciativa no ha sido suficiente, ya que su restaurante ha sido clausurado en varias ocasiones debido a problemas como fechas de vencimiento en los extintores y falta de señalización, entre otros requisitos que desconocía. Al conocer nuestra plataforma web, Glays se muestra interesada en la idea, aunque sugiere la posibilidad de visualizar los perfiles de los asesores, así como sus tarifas promedio, para evaluar si el restaurante puede cubrir ese gasto adicional.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Nombres y Apellidos:
+   </td>
+   <td>Marisol Alva Quiroz
+   </td>
+  </tr>
+  <tr>
+   <td>Edad:
+   </td>
+   <td>29
+   </td>
+  </tr>
+  <tr>
+   <td>Dirección:
+   </td>
+   <td>Comas, Lima
+   </td>
+  </tr>
+  <tr>
+   <td>Duración del video:
+   </td>
+   <td>02:36
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+
+<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image16.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Entrevistador: Maria Fernanda Fernandez Alva
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Resumen:
+<p>
+La señora Marisol comparte que ha tenido dificultades para encontrar un asesor de sanidad en el que pueda confiar. Ha recibido recomendaciones de amigos, pero nunca pudo obtener información de contacto para comunicarse con los asesores recomendados. Además, al solicitar evidencia de su trabajo, se decepcionó al descubrir que muchos no proporcionaban documentación detallada sobre las mejoras necesarias. Esta falta de transparencia ha generado desconfianza en los asesores, ya que teme ser engañada por personas malintencionadas que se hacen pasar por profesionales. Al conocer nuestra página web, Marisol se muestra entusiasmada con la posibilidad de encontrar un asesor confiable. Sugiere que los perfiles de los asesores incluyan una foto actual para que pueda visualizar quiénes son las personas detrás del servicio y sentirse más segura al elegir.
+   </td>
+  </tr>
+</table>
+
+
+2.2.3. Análisis de entrevistas
+
+
+
+* **Asesor de Sanidad**
+
+    Del gráfico, "Agrado sobre la página web" nos muestra el porcentaje de eficiencia y aceptación de los usuarios hacia la página web. Esto nos muestra que estamos haciendo un buen trabajo.
+
+
+    
+
+<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image17.png "image_tooltip")
+
+
+
+    Del gráfico, "Preferencias en la gestión de reuniones" nos muestra el porcentaje de las opciones(WhatsApp,Videollamada, Presencial) que más les agrada hacer a los asesores en su primera reunión. Esto nos muestra que les agrada más el método presencial para crear más confianza a sus clientes.
+
+
+    
+
+<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image18.png "image_tooltip")
+
+
+
+    Del gráfico "Funcionalidades adicionales" se puede observar el porcentaje de usuarios interesados en características extra que les gustaría que la página web tuviera. Esto nos permite focalizarnos en añadir un valor adicional que los usuarios consideran importante.
+
+
+    
+
+<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image19.png "image_tooltip")
+
+
+* **Restaurante**
+
+    De la gráfica "Experiencia previa con Asesores" se muestra el porcentaje de usuarios que han tenido experiencias positivas con asesores anteriores, así como aquellos que han tenido experiencias negativas.
+
+<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image20.png "image_tooltip")
+
+
+
+    De la gráfica "Motivos para buscar un nuevo asesor" se muestra los motivos del porque buscan asesores de confianza. Esto nos ayudará a enfocarnos en estos sectores para que los usuarios se sientan satisfechos.
+
+
+    
+
+<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image21.png "image_tooltip")
+
+
+
+    De la gráfica, "Contratar un asesor de sanidad" , nos muestra el porcentaje de los usuarios restaurantes que desean contratar un asesor de sanidad mediante nuestra página web.
+
+
+    
+
+<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image22.png "image_tooltip")
+
+
+
+2.3. Needfinding
+
+2.3.1. User personas
+
+
+
+* **Asesor de Sanidad**
+
+
+
+<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image23.png "image_tooltip")
+
+
+
+
+* **Dueño de restaurante**
+
+    
+
+<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image24.png "image_tooltip")
+
+
+
+2.3.2. User Task Matrix
+
+
+<table>
+  <tr>
+   <td rowspan="3" >Task
+   </td>
+   <td colspan="2" >Carlos Santos
+   </td>
+   <td colspan="2" >Samanta Escobar
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >(Asesor de Sanidad)
+   </td>
+   <td colspan="2" >(Dueño de restaurante)
+   </td>
+  </tr>
+  <tr>
+   <td>Frecuencia
+   </td>
+   <td>Importancia
+   </td>
+   <td>Frecuencia
+   </td>
+   <td>Importancia
+   </td>
+  </tr>
+  <tr>
+   <td>Registrarse como asesor
+   </td>
+   <td>ALTA
+   </td>
+   <td>ALTA
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+  </tr>
+  <tr>
+   <td>Registrarse como restaurante
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+   <td>ALTA
+   </td>
+   <td>ALTA
+   </td>
+  </tr>
+  <tr>
+   <td>Buscar asesores
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+   <td>ALTA
+   </td>
+   <td>ALTA
+   </td>
+  </tr>
+  <tr>
+   <td>Comunicarse con el asesor
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+   <td>MEDIA
+   </td>
+   <td>ALTA
+   </td>
+  </tr>
+  <tr>
+   <td>Responder a los mensajes de los restaurantes
+   </td>
+   <td>ALTA
+   </td>
+   <td>ALTA
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+  </tr>
+  <tr>
+   <td>Mandar documentos de la evaluación
+   </td>
+   <td>ALTA
+   </td>
+   <td>MEDIA
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+  </tr>
+  <tr>
+   <td>Pagar por los servicios del asesor
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+   <td>MEDIA
+   </td>
+   <td>ALTA
+   </td>
+  </tr>
+  <tr>
+   <td>Calificar al asesor
+   </td>
+   <td>NUNCA
+   </td>
+   <td>NULO
+   </td>
+   <td>MEDIA
+   </td>
+   <td>BAJA
+   </td>
+  </tr>
+  <tr>
+   <td>Finalizar Conversación
+   </td>
+   <td>ALTA
+   </td>
+   <td>MEDIA
+   </td>
+   <td>ALTA
+   </td>
+   <td>MEDIA
+   </td>
+  </tr>
+</table>
+
+
+2.3.3. User Journey Mapping
+
+
+
+* **Asesor de Sanidad**
+
+
+
+<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image25.jpg "image_tooltip")
+
+
+
+
+* **Dueño de restaurante**
+
+
+
+<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image26.png "image_tooltip")
+
+
+2.3.4. Empathy Mapping
+
+
+
+* Asesor de sanidad
+
+
+
+<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image27.png "image_tooltip")
+
+
+
+
+* Dueño de restaurante
+
+    
+
+<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image28.png "image_tooltip")
+
+
+
+2.3.5. As-is Scenario Mapping
+
+
+
+* Asesor de sanidad
+
+Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
+
+
+
+* Dueño de restaurante
+
+Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
+
+**CAPÍTULO III**
+
+3.1. To-be Scenario Mapping
+
+
+
+* Asesor de sanidad 
+
+Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
+
+
+
+* Dueño de restaurante 
+
+Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
+
+3.2. User Stories
+
+
+<table>
+  <tr>
+   <td>Epic / Story ID 
+   </td>
+   <td>Título 
+   </td>
+   <td>Descripción 
+   </td>
+   <td>Criterios de
+<p>
+Aceptación 
+   </td>
+   <td>Relacionado
+<p>
+con (Epic ID) 
+   </td>
+  </tr>
+  <tr>
+   <td>US-01 
+   </td>
+   <td>Programación de inspecciones de los restaurantes 
+   </td>
+   <td>Como asesor de sanidad, quiero programar las inspecciones de los restaurantes para garantizar el cumplimiento de las normas gubernamentales de sanidad. 
+   </td>
+   <td>Escenario 1: Asesor programa la reunión de inspección con su cliente satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente y haga clic en “Programar reunión”, 
+<p>
+cuando el asesor rellene todos los datos de la reunión y haga clic en “Programar reunión ahora”, 
+<p>
+entonces el sistema guardará satisfactoriamente la programación de la reunión. 
+<p>
+Escenario 2: Asesor programa la reunión de inspección con su cliente insatisfactoriamente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente y haga clic en “Programar reunión”, 
+<p>
+cuando el asesor rellene todos los datos de la reunión y la fecha coincida con otra reunión hecha antes, 
+<p>
+entonces el sistema mostrará “La fecha coincide con otra reunión. Elija otra fecha.” 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-02 
+   </td>
+   <td>Recibo de recordatorios automáticos de inspección 
+   </td>
+   <td>Como dueño de restaurante, quiero recibir recordatorios automáticos de inspección para prepararme con tiempo para la visita del asesor de sanidad. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante recibe recordatorio de inspección satisfactoriamente 
+<p>
+Dado que el dueño de restaurante se encuentra navegando en su perfil, 
+<p>
+cuando el asesor programa una reunión de inspección satisfactoriamente con el primero, 
+<p>
+entonces el sistema le envía la notificación “Se ha registrado satisfactoriamente su reunión de inspección” a su perfil. 
+<p>
+Escenario 2: Dueño de restaurante recibe recordatorio de inspección con fecha errónea 
+<p>
+Dado que el dueño de restaurante se encuentra navegando en su perfil, 
+<p>
+cuando el asesor programa una reunión con la fecha equivocada, 
+<p>
+entonces el sistema le envía la notificación “Se ha registrado satisfactoriamente su reunión de inspección” con la fecha equivocada a su perfil. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-03 
+   </td>
+   <td>Lista de verificación predeterminada de requisitos 
+   </td>
+   <td>Como asesor de sanidad, quiero hacer una lista de verificación predeterminada con todos los requisitos para tener un mejor control de los aspectos a evaluar del restaurante a mi servicio. 
+   </td>
+   <td>Escenario 1: Asesor realiza la lista de requisitos satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en su perfil, 
+<p>
+cuando el asesor hace clic en “Generar plantilla de verificación de requisitos”, lo rellena y da click en “Registrar documento”, 
+<p>
+entonces el sistema almacena la plantilla con su lista de verificación de requisitos. 
+<p>
+Escenario 2: Asesor comparte la lista de requisitos al cliente incorrecto 
+<p>
+Dado que el asesor se encuentra en su perfil, 
+<p>
+cuando el asesor hace clic en “Generar plantilla de verificación de requisitos”, rellena casi todos los requisitos y da click en “Registrar documento”, 
+<p>
+entonces el sistema muestra el mensaje “No se ha podido registrar el documento porque hay apartados que faltan llenar”. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-04 
+   </td>
+   <td>Recibo de alertas automáticas por incumplimientos 
+   </td>
+   <td>Como dueño de restaurante, quiero recibir alertas automáticas por cualquier incumplimiento de gran magnitud para corregir los problemas lo más pronto posible. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante recibe alerta por incumplimiento de gran magnitud 
+<p>
+Dado que el dueño de restaurante se encuentra navegando en su perfil, 
+<p>
+cuando el asesor notifica cualquier incumplimiento grave en su chat con su cliente, 
+<p>
+entonces el sistema envía una mensaje de alerta al dueño del restaurante. 
+<p>
+Escenario 2: Dueño de restaurante recibe alerta por incumplimiento de baja magnitud 
+<p>
+Dado que el dueño de restaurante se encuentra navegando en su perfil, 
+<p>
+cuando el asesor notifica cualquier incumplimiento de baja magnitud en su chat con su cliente, 
+<p>
+entonces el sistema envía una notificación al dueño del restaurante con el mensaje “Tiene un problema pendiente por resolver”. 
+   </td>
+   <td>E03 
+   </td>
+  </tr>
+  <tr>
+   <td>US-05 
+   </td>
+   <td>Recibo de informes detallados de inspecciones anteriores 
+   </td>
+   <td>Como asesor de sanidad, quiero recibir informes detallados sobre las inspecciones anteriores de los restaurantes asignados para tener una mejor visión de lo que le falta al restaurante asignado. 
+   </td>
+   <td>Escenario 1: Asesor recibe informe de inspecciones anteriores de su cliente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente, 
+<p>
+cuando el asesor ve que en antecedentes hay al menos 1 y hace clic en “Generar informe de inspecciones anteriores”, 
+<p>
+entonces el sistema muestra un informe detallado y completo de todas las inspecciones anteriores de su cliente. 
+<p>
+Escenario 2: Asesor no recibe ningún informe de inspecciones anteriores de su cliente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente, 
+<p>
+cuando el asesor ve que no hay ningún antecedente y hace clic en “Generar informe de inspecciones anteriores”, 
+<p>
+entonces el sistema notifica “El cliente no tiene ningún registro de inspecciones”. 
+   </td>
+   <td>E02 
+   </td>
+  </tr>
+  <tr>
+   <td>US-06 
+   </td>
+   <td>Acceso a las métricas de desempeño del restaurante 
+   </td>
+   <td>Como dueño de restaurante, quiero tener acceso a las métricas de desempeño de mi restaurante respecto al cumplimiento de las normas de sanidad para identificar las áreas que se pueden mejorar. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante accede a las métricas de desempeño de su restaurante correctamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y ya tiene antecedentes, 
+<p>
+cuando el dueño del restaurante hace clic en “Generar métricas de desempeño”, 
+<p>
+entonces el sistema muestra información estadística del progreso de su restaurante. 
+<p>
+Escenario 2: Dueño de restaurante accede a las métricas de desempeño de su restaurante, pero no visualiza nada 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y no tiene ningún antecedente, 
+<p>
+cuando el dueño del restaurante hace clic en “Generar métricas de desempeño”, 
+<p>
+entonces el sistema no muestra ninguna información estadística del progreso de su restaurante al no existir. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-07 
+   </td>
+   <td>Documentos adicionales adjuntos 
+   </td>
+   <td>Como asesor de sanidad, quiero adjuntar documentos adicionales como fotos y videos para respaldar mis hallazgos de inspección. 
+   </td>
+   <td>Escenario 1: Asesor adjunta video con hallazgos satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en el apartado de “Mensajes” con su cliente, 
+<p>
+cuando publica un video de su hallazgo en un formato compatible, 
+<p>
+entonces el sistema mostrará el mensaje “Se ha enviado su video correctamente”. 
+<p>
+Escenario 2: Asesor no adjunta bien el video con hallazgos 
+<p>
+Dado que el asesor se encuentra en el apartado de “Mensajes” con su cliente, 
+<p>
+cuando publica un video de su hallazgo en un formato no compatible, 
+<p>
+entonces el sistema mostrará el mensaje “No se pudo enviar su video correctamente. Pruebe de nuevo en otro formato”. 
+   </td>
+   <td>E02 
+   </td>
+  </tr>
+  <tr>
+   <td>US-08 
+   </td>
+   <td>Acceso al historial de inspecciones anteriores del restaurante 
+   </td>
+   <td>Como dueño de restaurante, quiero tener acceso al historial de inspecciones anteriores de mi local para identificar los principales aspectos que se deben mejorar. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante accede al historial de inspecciones de su local satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y ya tiene antecedentes de inspección anteriores, 
+<p>
+cuando el dueño del restaurante hace clic en “Generar historial de inspecciones”, 
+<p>
+entonces el sistema mostrará un documento con el historial completo de las inspecciones anteriores del restaurante. 
+<p>
+Escenario 2: Dueño de restaurante no accede al historial de inspecciones de su local 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y no tiene ningún antecedente de inspección anterior, 
+<p>
+cuando el dueño del restaurante hace clic en “Generar historial de inspecciones”, 
+<p>
+entonces el sistema mostrará el mensaje “No se ha encontrado ningún historial de inspección”. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-09 
+   </td>
+   <td>Generación del contrato 
+   </td>
+   <td>Como asesor de sanidad, quiero generar un contrato con mi cliente para garantizar la ejecución del servicio de asesoramiento. 
+   </td>
+   <td>Escenario 1: Asesor genera un contrato con su cliente satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente y hace clic en “Generar contrato”, 
+<p>
+cuando el asesor lo edita, lo envía a su cliente y este confirma la solicitud del contrato, 
+<p>
+entonces el sistema mostrará el mensaje “Se ha generado el contrato satisfactoriamente”. 
+<p>
+Escenario 2: Asesor no genera un contrato con su cliente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente y hace clic en “Generar contrato”, 
+<p>
+cuando el asesor lo edita, lo envía a su cliente y este rechaza la solicitud del contrato, 
+<p>
+entonces el sistema mostrará el mensaje “No se ha podido generar el contrato satisfactoriamente. Póngase en contacto con su cliente y lleguen a un acuerdo”. 
+   </td>
+   <td>E02 
+   </td>
+  </tr>
+  <tr>
+   <td>US-10 
+   </td>
+   <td>Acceso a las simulaciones de evaluaciones periódicas 
+   </td>
+   <td>Como dueño de restaurante, quiero tener simulaciones de evaluaciones periódicas para visualizar el desempeño de mi restaurante. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante genera simulaciones de evaluaciones periódicas con su asesor satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en el perfil de su asesor y hace clic en “Añadir fecha de simulación de evaluación”, 
+<p>
+cuando rellene los datos con las respectivas fechas sin coincidir con otra fecha ya hecha por el asesor y haga clic en “Generar simulación”, 
+<p>
+entonces el sistema mostrará el mensaje “Se ha registrado correctamente la simulación de su evaluación”. 
+<p>
+Escenario 2: Dueño de restaurante no genera simulación de evaluación con su asesor satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en el perfil de su asesor y hace clic en “Añadir fecha de simulación de evaluación”, 
+<p>
+cuando rellene los datos con las respectivas fechas, coincida con otra fecha ya hecha por el asesor y haga clic en “Generar simulación”, 
+<p>
+entonces el sistema mostrará el mensaje “La fecha coincide con fecha ya programada por su asesor. Pruebe con otra fecha”. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-11 
+   </td>
+   <td>Colaboración mediante Git con otros desarrolladores 
+   </td>
+   <td>Como developer, quiero colaborar en tiempo real con otros desarrolladores en la aplicación usando herramientas de control de versiones como Git para hacer un seguimiento de todos los cambios en la aplicación. 
+   </td>
+   <td>Escenario 1: Developer colabora usando Git con otros desarrolladores 
+<p>
+Dado que el developer se encuentra en Visual Studio Code y lo integra con Git, 
+<p>
+cuando el developer realiza los cambios en su código y realiza el “Commit”, 
+<p>
+entonces el sistema mostrará el mensaje “Se han realizado los cambios satisfactoriamente” y eso se actualizará en GitHub. 
+<p>
+Escenario 2: Developer tiene problemas al colaborar usando Git
+<p>
+Dado que el developer se encuentra en Visual Studio Code y lo integra con Git, 
+<p>
+cuando el developer realiza los cambios en su código al mismo tiempo que los demás y realiza el “Commit”, 
+<p>
+entonces el sistema mostrará el mensaje “No se ha podido sincronizar los cambios en GitHub. Vuelva a intentarlo.” 
+   </td>
+   <td>E06 
+   </td>
+  </tr>
+  <tr>
+   <td>US-12 
+   </td>
+   <td>Personalización de notificaciones y alertas 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero personalizar mis notificaciones y alertas para adaptar la comunicación según mis prioridades. 
+   </td>
+   <td>Escenario 1: Dueño del restaurante personaliza sus notificaciones satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y hace clic en “Configuración”, 
+<p>
+cuando el dueño del restaurante se dirige al apartado de notificaciones, las modifica y hace clic en “Guardar cambios”, 
+<p>
+entonces el sistema mostrará el mensaje “Se han realizado los cambios satisfactoriamente”. 
+<p>
+Escenario 2: Dueño del restaurante personaliza sus alertas satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y hace clic en “Configuración”, 
+<p>
+cuando el dueño del restaurante se dirige al apartado de alertas, las modifica según el tipo de alerta y hace clic en “Guardar cambios”, 
+<p>
+entonces el sistema mostrará el mensaje “Se han realizado los cambios satisfactoriamente”. 
+   </td>
+   <td>E03 
+   </td>
+  </tr>
+  <tr>
+   <td>US-13 
+   </td>
+   <td>Clasificación de las áreas de mejora del restaurante 
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero clasificar las áreas de mejora de los restaurantes a mi servicio para abordar sus problemas más graves primero. 
+   </td>
+   <td>Escenario 1: Asesor clasifica las áreas de mejora satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente, 
+<p>
+cuando el asesor hace clic en el apartado “Distribuye las áreas a mejorar”, las clasifica por gravedad e impacto y las guarda, 
+<p>
+entonces el sistema mostrará el mensaje “Las áreas de mejora se han clasificado correctamente”. 
+<p>
+Escenario 2: Asesor asigna prioridad a cada área de mejora clasificada 
+<p>
+Dado que el asesor se encuentra en el perfil de su cliente y hace clic en el apartado “Distribuye las áreas a mejorar”, 
+<p>
+cuando el asesor le asigna prioridad a cada área clasificada y las guarda, 
+<p>
+entonces el sistema mostrará el mensaje “Las áreas de mejora se han priorizado correctamente”. 
+   </td>
+   <td>E04 
+   </td>
+  </tr>
+  <tr>
+   <td>US-14 
+   </td>
+   <td>Búsqueda avanzada de información mediante filtros 
+   </td>
+   <td>Como developer, quiero realizar operaciones de búsqueda avanzadas usando filtros en la aplicación para recuperar información más precisa y más rápida. 
+   </td>
+   <td>Escenario 1: Developer realiza búsqueda de información avanzada con filtros 
+<p>
+Dado que el developer se encuentra en el apartado “Home” y hace clic en “Buscar”, 
+<p>
+cuando ingresa el nombre del perfil que busca con los filtros de búsqueda y hace clic en “Buscar”, 
+<p>
+entonces el sistema mostrará resultados de búsqueda con información más precisa. 
+<p>
+Escenario 2: Developer realiza búsqueda de información con filtros sin ningún resultado 
+<p>
+Dado que el developer se encuentra en el apartado “Home” y hace clic en “Buscar”, 
+<p>
+cuando ingresa el nombre del perfil que busca con los filtros de búsqueda demasiado específicos y hace clic en “Buscar”, 
+<p>
+entonces el sistema mostrará el mensaje “Nadie cumple con los requisitos de búsqueda”. 
+   </td>
+   <td>E06 
+   </td>
+  </tr>
+  <tr>
+   <td>US-15 
+   </td>
+   <td>Acceso a las normas gubernamentales de sanidad en restaurantes 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero tener acceso a todas las normas gubernamentales de sanidad en restaurantes para estar más informado respecto a los requisitos que debe cumplir mi restaurante. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante accede a las normas de sanidad 
+<p>
+Dado que el dueño del restaurante se encuentra en el apartado “Home”, 
+<p>
+cuando el dueño del restaurante hace clic en “Normas de sanidad”, 
+<p>
+entonces el sistema mostrará un apartado con todas las normas de sanidad que la Municipalidad de sanidad exige para los restaurantes. 
+<p>
+Escenario 2: Dueño de restaurante accede al resumen de las normas de sanidad 
+<p>
+Dado que el dueño del restaurante se encuentra en el apartado “Home”, 
+<p>
+cuando el dueño del restaurante hace clic en “Normas de sanidad” y luego en “Resumen de normas de sanidad”, 
+<p>
+entonces el sistema mostrará un apartado que resume las principales normas de sanidad que la Municipalidad de sanidad exige para los restaurantes. 
+   </td>
+   <td>E01 
+   </td>
+  </tr>
+  <tr>
+   <td>US-16 
+   </td>
+   <td>Publicación de certificado como asesor de restaurante 
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero publicar mi certificado como asesor en mi perfil de la aplicación para demostrar mi autenticidad como asesor y para generar confianza en mis clientes. 
+   </td>
+   <td>Escenario 1: Asesor publica su certificado como asesor en su perfil satisfactoriamente 
+<p>
+Dado que el asesor se encuentra en su perfil y hace clic en “Modificar perfil”, 
+<p>
+cuando el asesor publica su certificado en el apartado “Ingrese su certificado” y hace clic en “Modificar perfil”, 
+<p>
+entonces el sistema muestra el mensaje “Ha modificado su perfil satisfactoriamente”. 
+<p>
+Escenario 2: Asesor no publica su certificado como asesor en su perfil 
+<p>
+Dado que el asesor se encuentra en su perfil y hace clic en “Modificar perfil”, 
+<p>
+cuando el asesor publica su certificado en el apartado “Ingrese su certificado” en un formato de imagen que la app no reconoce, 
+<p>
+entonces el sistema mostrará el mensaje “El formato del archivo no es compatible. Pruebe con otro formato”. 
+   </td>
+   <td>E02 
+   </td>
+  </tr>
+  <tr>
+   <td>US-17 
+   </td>
+   <td>Acceso al entorno de pruebas de desarrollo 
+   </td>
+   <td>Como developer, quiero acceder a un entorno de pruebas de desarrollo para experimentar nuevas funcionalidades sin afectar a la aplicación actual. 
+   </td>
+   <td>Escenario 1: Developer accede al entorno de pruebas de desarrollo 
+<p>
+Dado que el developer tiene el link de acceso al entorno de pruebas de desarrollo, 
+<p>
+cuando el developer ingrese el enlace brindado por el cliente, 
+<p>
+entonces el sistema mostrará el entorno de pruebas de desarrollo. 
+<p>
+Escenario 2: Developer accede al entorno de pruebas de desarrollo 
+<p>
+Dado que …el developer tiene el link de acceso al entorno de pruebas de desarrollo, 
+<p>
+cuando el developer ingrese el enlace brindado por el cliente y al navegar, se encuentre en otro dominio, 
+<p>
+entonces el sistema mostrará una sección que está fuera del alcance de la prueba. 
+   </td>
+   <td>E06 
+   </td>
+  </tr>
+  <tr>
+   <td>US-18 
+   </td>
+   <td>Actualización de datos del restaurante 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero actualizar los datos de mi restaurante en la aplicación para garantizar la precisión de la información de mi restaurante. 
+   </td>
+   <td>Escenario 1: Dueño de restaurante actualiza su cuenta satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y hace clic en “Actualizar información”, 
+<p>
+cuando el dueño del restaurante modifica su información y hace clic en “Actualizar datos ahora”, 
+<p>
+entonces el sistema mostrará el mensaje “Se ha actualizado su información correctamente”. 
+<p>
+Escenario 2: Dueño de restaurante no actualiza su cuenta satisfactoriamente 
+<p>
+Dado que el dueño del restaurante se encuentra en su perfil y hace clic en “Actualizar información”, 
+<p>
+cuando el dueño del restaurante modifica su información, pero se olvida de rellenar un campo obligatorio y hace clic en “Actualizar datos ahora”, 
+<p>
+entonces el sistema mostrará el mensaje “Falta completar campos obligatorios. Vuelva a intentarlo”. 
+   </td>
+   <td>E05 
+   </td>
+  </tr>
+  <tr>
+   <td>US-19 
+   </td>
+   <td>Lista de clientes en la bandeja de mensajes del asesor 
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero tener una lista de todos los clientes que solicitan mi servicio en mi bandeja de mensajes de la aplicación para tener un mejor control de los clientes a los que voy a atender. 
+   </td>
+   <td>Escenario 1: Asesor accede a la lista de clientes en su bandeja de mensajes 
+<p>
+Dado que el asesor se encuentra en su perfil y tenga al menos un cliente, 
+<p>
+cuando el asesor haga clic en “Bandeja de mensajes”, 
+<p>
+entonces el sistema mostrará la lista de clientes del asesor. 
+<p>
+Escenario 2: Asesor no ve ninguna lista de clientes en su bandeja de mensajes 
+<p>
+Dado que el asesor se encuentra en su perfil y no tenga ningún cliente, 
+<p>
+cuando el asesor haga clic en “Bandeja de mensajes”, 
+<p>
+entonces el sistema no mostrará ninguna lista de clientes del asesor. 
+   </td>
+   <td>E05 
+   </td>
+  </tr>
+  <tr>
+   <td>US-20 
+   </td>
+   <td>Acceso a la documentación técnica de la aplicación 
+   </td>
+   <td>Como developer, quiero tener acceso a la documentación técnica de la aplicación para facilitar el desarrollo de nuevas funciones, así como la integración con otras tecnologías compatibles. 
+   </td>
+   <td>Escenario 1: Developer accede a la documentación técnica de la aplicación 
+<p>
+Dado que el developer se encuentra navegando en el sitio web del proyecto, 
+<p>
+cuando el developer haga clic en “Documentación” y escriba la contraseña correcta, 
+<p>
+entonces el sitio web mostrará la documentación completa. 
+<p>
+Escenario 2: Developer accede a la documentación técnica de la aplicación 
+<p>
+Dado que …el developer se encuentra navegando en el sitio web del proyecto, 
+<p>
+cuando el developer haga clic en “Documentación” y escriba la contraseña incorrecta, 
+<p>
+entonces el sitio web mostrará “Contraseña incorrecta. Vuelva a intentarlo”. 
+   </td>
+   <td>E06 
+   </td>
+  </tr>
+</table>
+
+
+Algunos ejemplos de épicas son los siguientes: 
+
+1.- Gestión de inspecciones sanitarias 
+
+2.- Gestión de documentos 
+
+3.- Gestión de notificaciones 
+
+4.- Gestión de riesgos 
+
+5.- Gestión de perfiles 
+
+6.- Módulo tecnológico 
+
+3.3. Impact Mapping
+
+
+
+* **Asesor de Sanidad**
+
+    
+
+<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image29.png "image_tooltip")
+
+
+* **Restaurante**
+
+    
+
+<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image30.png "image_tooltip")
+
+
+
+3.4. Product Backlog
+
+
+<table>
+  <tr>
+   <td><strong>#Orden</strong>
+   </td>
+   <td><strong>User story id</strong>
+   </td>
+   <td><strong>Título</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td><strong>Story Points</strong>
+<p>
+<strong>(1/2/3/5/8)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>US-13
+   </td>
+   <td>Clasificación de las áreas de mejora del restaurante 
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero clasificar las áreas de mejora de los restaurantes a mi servicio para abordar sus problemas más graves primero. 
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>US-05
+   </td>
+   <td>Recibo de informes detallados de inspecciones anteriores 
+   </td>
+   <td>Como asesor de sanidad, quiero recibir informes detallados sobre las inspecciones anteriores de los restaurantes asignados para tener una mejor visión de lo que le falta al restaurante asignado. 
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td>US-09
+   </td>
+   <td>Generación del contrato 
+   </td>
+   <td>Como asesor de sanidad, quiero generar un contrato con mi cliente para garantizar la ejecución del servicio de asesoramiento.
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td>US-19
+   </td>
+   <td>Lista de clientes en la bandeja de mensajes del asesor
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero tener una lista de todos los clientes que solicitan mi servicio en mi bandeja de mensajes de la aplicación para tener un mejor control de los clientes a los que voy a atender. 
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td>US-16
+   </td>
+   <td>Publicación de certificado como asesor de restaurante 
+   </td>
+   <td>Como visitante del segmento de asesores de sanidad, quiero publicar mi certificado como asesor en mi perfil de la aplicación para demostrar mi autenticidad como asesor y para generar confianza en mis clientes. 
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>6
+   </td>
+   <td>US-01
+   </td>
+   <td>Programación de inspecciones de los restaurantes 
+   </td>
+   <td>Como asesor de sanidad, quiero programar las inspecciones de los restaurantes para garantizar el cumplimiento de las normas gubernamentales de sanidad. 
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>7
+   </td>
+   <td>US-04
+   </td>
+   <td>Recibo de alertas automáticas por incumplimientos 
+   </td>
+   <td>Como dueño de restaurante, quiero recibir alertas automáticas por cualquier incumplimiento de gran magnitud para corregir los problemas lo más pronto posible. 
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>8
+   </td>
+   <td>US-02
+   </td>
+   <td>Recibo de recordatorios automáticos de inspección 
+   </td>
+   <td>Como dueño de restaurante, quiero recibir recordatorios automáticos de inspección para prepararme con tiempo para la visita del asesor de sanidad.
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>9
+   </td>
+   <td>US-08
+   </td>
+   <td>Acceso al historial de inspecciones anteriores del restaurante 
+   </td>
+   <td>Como dueño de restaurante, quiero tener acceso al historial de inspecciones anteriores de mi local para identificar los principales aspectos que se deben mejorar. 
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>10
+   </td>
+   <td>US-06
+   </td>
+   <td>Acceso a las métricas de desempeño del restaurante 
+   </td>
+   <td>Como dueño de restaurante, quiero tener acceso a las métricas de desempeño de mi restaurante respecto al cumplimiento de las normas de sanidad para identificar las áreas que se pueden mejorar. 
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>11
+   </td>
+   <td>US-14
+   </td>
+   <td>Búsqueda avanzada de información mediante filtros 
+   </td>
+   <td>Como developer, quiero realizar operaciones de búsqueda avanzadas usando filtros en la aplicación para recuperar información más precisa y más rápida. 
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>12
+   </td>
+   <td>US-07
+   </td>
+   <td>Documentos adicionales adjuntos 
+   </td>
+   <td>Como asesor de sanidad, quiero adjuntar documentos adicionales como fotos y videos para respaldar mis hallazgos de inspección. 
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>13
+   </td>
+   <td>US-17
+   </td>
+   <td>Acceso al entorno de pruebas de desarrollo 
+   </td>
+   <td>Como developer, quiero acceder a un entorno de pruebas de desarrollo para experimentar nuevas funcionalidades sin afectar a la aplicación actual.
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>14
+   </td>
+   <td>US-12
+   </td>
+   <td>Personalización de notificaciones y alertas 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero personalizar mis notificaciones y alertas para adaptar la comunicación según mis prioridades. 
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>15
+   </td>
+   <td>US-10
+   </td>
+   <td>Acceso a las simulaciones de evaluaciones periódicas 
+   </td>
+   <td>Como dueño de restaurante, quiero tener simulaciones de evaluaciones periódicas para visualizar el desempeño de mi restaurante.
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>16
+   </td>
+   <td>US-11
+   </td>
+   <td>Colaboración mediante Git con otros desarrolladores 
+   </td>
+   <td>Como developer, quiero colaborar en tiempo real con otros desarrolladores en la aplicación usando herramientas de control de versiones como Git para hacer un seguimiento de todos los cambios en la aplicación.
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>17
+   </td>
+   <td>US-03
+   </td>
+   <td>Lista de verificación predeterminada de requisitos 
+   </td>
+   <td>Como asesor de sanidad, quiero hacer una lista de verificación predeterminada con todos los requisitos para tener un mejor control de los aspectos a evaluar del restaurante a mi servicio. 
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>18
+   </td>
+   <td>US-15
+   </td>
+   <td>Acceso a las normas gubernamentales de sanidad en restaurantes 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero tener acceso a todas las normas gubernamentales de sanidad en restaurantes para estar más informado respecto a los requisitos que debe cumplir mi restaurante. 
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>19
+   </td>
+   <td>US-18
+   </td>
+   <td>Actualización de datos del restaurante 
+   </td>
+   <td>Como visitante del segmento de dueños de restaurante, quiero actualizar los datos de mi restaurante en la aplicación para garantizar la precisión de la información de mi restaurante. 
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>20
+   </td>
+   <td>US-20
+   </td>
+   <td>Acceso a la documentación técnica de la aplicación 
+   </td>
+   <td>Como developer, quiero tener acceso a la documentación técnica de la aplicación para facilitar el desarrollo de nuevas funciones, así como la integración con otras tecnologías compatibles. 
+   </td>
+   <td>1
+   </td>
+  </tr>
+</table>
+
+
+**CAPÍTULO IV**
+
+4.1. Style Guidelines.
+
+4.1.1. General Style Guidelines.
+
+
+    **	**Se hará uso de botones para la navegación entre frames. Cada uno de los anteriormente mencionados poseerá un botón principal según el usuario es auditor o dueño de un establecimiento
+
+4.1.2. Web Style Guidelines.
+
+
+    Header simple con redirección a la página principal
+
+
+    Sección main donde estarán todos los eventos principales
+
+
+    Barra lateral en el main para seleccionar entre los chats  
+
+4.2. Information Architecture.
+
+4.2.1. Organization Systems.
+
+
+    	Como equipo, elegimos introducir una estructura organizativa visual en la presentación de contenido de nuestra organización llamada "jerarquía visual". Esta elección se basa en el hecho de que una jerarquía visual claramente definida dirige la atención del usuario a los elementos más relevantes de la página o aplicación. La jerarquía visual de una página es fundamental para la presentación de la información del sistema al usuario final, permitiéndole determinar inmediatamente dónde centrar su atención cuando mira una página o aplicación. Para lograr esta jerarquía visual, utilizamos el color y el contraste como nuestras principales herramientas. Esto se debe a que el uso selectivo del color en el diseño llama nuestra atención y determina la importancia que le damos a los diferentes elementos del diseño de nuestro sitio web.
+
+4.2.2. Labeling Systems.
+
+
+    	Nuestro objetivo con las etiquetas es identificar las etiquetas más relevantes y comunes utilizadas en plataformas relativamente similares para simplificar la comprensión. Esto es para evitar confusión o sobrecarga de información a nuestros clientes y evitar confusiones. Nos centramos en las necesidades de los consumidores y nos esforzamos por brindar una experiencia tranquila y amigable basada en nuestra oferta de productos. Nuestro objetivo es que la mayoría de las personas puedan utilizar nuestros productos de forma intuitiva y navegar por la plataforma sin problemas.
+
+4.2.3. SEO Tags and Meta Tags
+
+
+     Cuando se trata de SEO y etiquetas Meta, decidimos utilizar el nombre de la aplicación AuditBridge como etiqueta de título. Además, en las mismas proporcionamos una descripción de los beneficios que nuestros servicios pueden proporcionar a los usuarios.
+
+4.2.4. Searching Systems.
+
+
+    **	**Nuestra aplicación web presenta 2 sistemas de búsqueda:
+
+
+
+1. Búsqueda de chats: Los usuarios pueden usar la barra de búsqueda en el apartado de mensajes según palabras clave o usando los filtros de fecha de la solicitud, chats finalizados y chats de solicitudes en proceso.
+2. Búsqueda de solicitudes(Auditores): Para nuestros usuarios que son auditores se les habilitará la barra de búsqueda de solicitudes de auditoría por parte de los dueños de restaurantes. La misma buscará por direcciones (avenidas, calles, jirones, etc.) y les mostrará las solicitudes disponibles en la misma dirección y alrededores.
+
+4.2.5. Navigation Systems.
+
+
+    La aplicación cuenta con una barra de menú estática en la cual están presentes todos los menús que el usuario puede usar. La barra de menú resaltará el nombre del menú en el que el usuario se encuentre en ese momento.
+
+4.3. Landing Page UI Design.
+
+4.3.1. Landing Page Wireframe.
+
+
+
+<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image31.png "image_tooltip")
+
+
+
+
+<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image32.png "image_tooltip")
+
+
+
+
+<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image33.png "image_tooltip")
+
+
+4.3.2. Landing Page Mock-up.
+
+
+
+<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image34.png "image_tooltip")
+
+
+
+
+<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image35.png "image_tooltip")
+
+
+
+
+<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image36.png "image_tooltip")
+
+
+4.4. Web Applications UX/UI Design.
+
+4.4.1. Web Applications Wireframes.
+
+
+
+<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image37.png "image_tooltip")
+
+
+<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image38.png "image_tooltip")
+
+
+
+
+<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image39.png "image_tooltip")
+
+
+
+
+<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image40.png "image_tooltip")
+
+
+
+
+<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image41.png "image_tooltip")
+
+
+
+
+<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image42.png "image_tooltip")
+
+
+
+
+<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image43.png "image_tooltip")
+
+
+
+
+<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image44.png "image_tooltip")
+
+
+
+
+<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image45.png "image_tooltip")
+
+
+4.4.2. Web Applications Wireflow Diagrams.
+
+
+
+<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image46.png "image_tooltip")
+
+
+4.4.3.. Web Applications Mock-ups.
+
+
+
+<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image47.png "image_tooltip")
+
+
+
+
+<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image48.png "image_tooltip")
+
+
+
+
+<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image49.png "image_tooltip")
+
+
+
+
+<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image50.png "image_tooltip")
+
+
+
+
+<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image51.png "image_tooltip")
+
+
+
+
+<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image52.png "image_tooltip")
+
+
+
+
+<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image53.png "image_tooltip")
+
+
+
+
+<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image54.png "image_tooltip")
+
+
+
+
+<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image55.png "image_tooltip")
+
+
+4.4.4. Web Applications User Flow Diagrams.
+
+
+
+<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image56.png "image_tooltip")
+
+
+4.5. Web Applications Prototyping.
+
+
+
+<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image57.png "image_tooltip")
+
+
+Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_upc_edu_pe/ESFiOZhXosdFlbmLB6WbkusBsHXRrqycKbi_S--mWPhXFw?e=pjPhQR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_upc_edu_pe/ESFiOZhXosdFlbmLB6WbkusBsHXRrqycKbi_S--mWPhXFw?e=pjPhQR) 
+
+4.6. Domain-Driven Software Architecture.
+
+4.6.1. Software Architecture Context Diagram.
+
+
+
+<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image58.png "image_tooltip")
+
+
+4.6.2. Software Architecture Container Diagrams.
+
+
+
+<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image59.png "image_tooltip")
+
+
+4.6.3. Software Architecture Components Diagrams.
+
+
+
+<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image60.png "image_tooltip")
+
+
+4.7. Software Object-Oriented Design.
+
+4.7.1. Class Diagrams.
+
+
+
+<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image61.png "image_tooltip")
+
+
+4.7.2. Class Dictionary.
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>Pay
+   </td>
+   <td>Clase que engloba el pago.
+   </td>
+  </tr>
+  <tr>
+   <td>Id_Transacion
+   </td>
+   <td>Identificador único de la transacción de pago.
+   </td>
+  </tr>
+  <tr>
+   <td>Amount
+   </td>
+   <td>Monto de la transacción.
+   </td>
+  </tr>
+  <tr>
+   <td>Date
+   </td>
+   <td>Fecha de la transacción.
+   </td>
+  </tr>
+  <tr>
+   <td>Payment_Status
+   </td>
+   <td>Estado del pago (pendiente, completado, cancelado).
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>RecordAdviser
+   </td>
+   <td>Clase para el registro del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Tuition_Number
+   </td>
+   <td>Número de matrícula del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Full_Name
+   </td>
+   <td>Nombre completo del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Age
+   </td>
+   <td>Edad del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Email
+   </td>
+   <td>Dirección de correo electrónico del asesor.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>Advisor
+   </td>
+   <td>Clase asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Dni
+   </td>
+   <td>Número de documento nacional de identidad del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Full_Name
+   </td>
+   <td>Nombre completo del asesor.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>ChatBox
+   </td>
+   <td>Clase para que interactúen el asesor y el restaurante mediante una caja de texto.
+   </td>
+  </tr>
+  <tr>
+   <td>Id_Conversastion
+   </td>
+   <td>Identificador único de la conversación.
+   </td>
+  </tr>
+  <tr>
+   <td>Message
+   </td>
+   <td>Mensaje enviado en la conversación.
+   </td>
+  </tr>
+  <tr>
+   <td>Date_Hour
+   </td>
+   <td>Fecha y hora en que se envió el mensaje.
+   </td>
+  </tr>
+  <tr>
+   <td>State_Chat
+   </td>
+   <td>Estado actual del chat (activo, finalizado).
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>Restaurant
+   </td>
+   <td>Clase restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Ruc
+   </td>
+   <td>Registro Único de Contribuyentes del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Name_Restaurant
+   </td>
+   <td>Nombre del restaurante.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>Comment
+   </td>
+   <td>Clase comentario. Esta será proporcionada por el restaurante hacia el asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>Id
+   </td>
+   <td>Identificador único del comentario.
+   </td>
+  </tr>
+  <tr>
+   <td>Name_Restaurant
+   </td>
+   <td>Nombre del restaurante al que se refiere el comentario.
+   </td>
+  </tr>
+  <tr>
+   <td>Review
+   </td>
+   <td>Comentario o reseña sobre el restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Date
+   </td>
+   <td>Fecha en que se realizó el comentario.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>RecordRestaurant
+   </td>
+   <td>Clase para el registro del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Ruc
+   </td>
+   <td>Registro Único de Contribuyentes del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Name
+   </td>
+   <td>Nombre del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>Payment_Method
+   </td>
+   <td>Método de pago utilizado por el restaurante.
+   </td>
+  </tr>
+</table>
+
+
+4.8. Database Design.
+
+4.8.1. Database Diagram.
+
+
+
+<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image62.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image62.png "image_tooltip")
+
+
+**CAPÍTULO V**
+
+5.1. Software Configuration Management.
+
+5.1.1. Software Development Environment Configuration.
+
+
+    **	**En esta sección se listan las aplicaciones y software, así como tecnologías tales como frameworks y lenguajes, que fueron utilizados para la elaboración del presente trabajo:
+
+	1. Project Management
+
+		**GitHub:**
+
+
+        **	**Es una plataforma cloud orientada al alojamiento de repositorios de proyectos de desarrollo de software.
+
+
+        Enlace: [https://www.github.com](https://www.github.com)
+
+	2. Product UX/UI design
+
+		**UXPressia:**
+
+
+        Es una herramienta de diseño orientada a la creación de esquemas y diagramas tales como los diseños del User Persona, Empathy Map y Journey Map.
+
+
+        Enlace: [http://www.uxpressia.com](http://www.uxpressia.com)
+
+
+        **Miro:**
+
+
+        Es un espacio de trabajo online, sencillo e intuitivo que permite a los usuarios visualizar ideas, estructuras organizativas y sistemas complejos.
+
+
+        Enlace: [https://www.miro.com](https://www.miro.com)
+
+	3. Software Development
+
+		**HTML:**
+
+
+        	Lenguaje de marcado orientado a la definición de las estructura de una página web.
+
+
+        **CSS:**
+
+
+        Lenguaje de estilos, los cuales determinan la apariencia de los contenidos estructurados por HTML.
+
+
+        **Javascript:**
+
+
+        Lenguaje de programación multiparadigma. En el entorno de desarrollo web, otorga funcionalidad a elementos de la página web, permitiendo la interacción con el usuario y comunicación con el servidor.
+
+5.1.2. Source Code Management.
+
+
+    Para el desarrollo de este proyecto se creó un repositorio en GitHub, en el cual se aloja el código fuente de la aplicación. Esta aplicación también nos permite realizar el control de versiones a través de Git
+
+5.1.3. Source Code Style Guide & Conventions.
+
+
+
+* Indentación y espaciado:
+
+    En el caso de HTML, utilizar saltos de línea para etiquetas semánticas y de bloque. Para etiquetas de línea (in-line), se puede obviar.
+
+* Capitalización:
+
+    En HTML y CSS, utilizar minúsculas para las etiquetas, atributos y directivas de estilo. En el caso de clases en HTML y CSS, usar kebab-case.
+
+* Strings:
+
+    Usar comillas dobles para valores de atributos en HTML. Se debe mantener la consistencia durante todo el proyecto.
+
+* Codificación:
+
+    Se usará UTF-8 como formato de todos los archivos de código fuente. Sin embargo, se debe procurar utilizar el subconjunto de caracteres correspondientes a ASCII en la medida de lo posible.
+
+
+5.1.4. Software Deployment Configuration.
+
+
+    Para el despliegue del landing page, se utilizará GitHub Pages, servicio que nos permite desplegar una página web estática a partir de un repositorio.
+
+
+    Las herramientas utilizadas para el desarrollo del Landing Page fueron HTML, CSS y Javascript. El software utilizado fue Git, GitHub, GitHub Pages y GitFlow como metodología de control de versiones.
+
+5.2. Landing Page, Services & Applications Implementation.
+
+5.2.1. Sprint 1
+
+5.2.1.1. Sprint Planning 1
+
+
+<table>
+  <tr>
+   <td><strong>Sprint#</strong>
+   </td>
+   <td>Sprint 1
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Sprint Planning Background</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Date</strong>
+   </td>
+   <td>28/03/2023
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Time</strong>
+   </td>
+   <td>16:00
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Location</strong>
+   </td>
+   <td>Reunión realizada en el salón de clase
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Attendees</strong>
+   </td>
+   <td>Belleza Tello, Fernandez Alva, Pingus Rodriguez, Cossio Jimenez, Velarde Luyo 
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Sprint Goal & User Stories</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint 1 Goal</strong>
+   </td>
+   <td>Realizar y desplegar el Landing Page
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint 1 Velocity</strong>
+   </td>
+   <td><strong>4</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sum of Story Points</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+5.2.1.2. Sprint Backlog 1
+
+
+<table>
+  <tr>
+   <td><strong>id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td><strong>Estimations(Hours)</strong>
+   </td>
+   <td><strong>Assigned To</strong>
+   </td>
+   <td><strong>Status(To-do/inProcess/ToReview/Done)</strong>
+   </td>
+  </tr>
+</table>
+
+
+5.2.1.3. Development Evidence for Sprint Review.
+
+
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-Landing
+   </td>
+   <td>gh-pages
+   </td>
+   <td>be59636
+   </td>
+   <td>feature:
+   </td>
+   <td>feat(repo): added readme
+   </td>
+   <td>13/04/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-Landing
+   </td>
+   <td>gh-pages
+   </td>
+   <td>5f2d189
+   </td>
+   <td>feature:
+   </td>
+   <td>feat(L. page): added index.html
+   </td>
+   <td>13/04/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-Landing
+   </td>
+   <td>gh-pages
+   </td>
+   <td>50030fd
+   </td>
+   <td>feature:
+   </td>
+   <td>feat(L. page): added style.css
+   </td>
+   <td>13/04/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-Landing
+   </td>
+   <td>gh-pages
+   </td>
+   <td>6b75274
+   </td>
+   <td>feature:
+   </td>
+   <td>feat(L. page): added images
+   </td>
+   <td>13/04/2024
+   </td>
+  </tr>
+</table>
+
+
+5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+En lo que respecta a este sprint se realizaron los capítulos I, II, III, IV y parte del V. Además también se entregan los Wireframes, Mock-Ups y la primera versión de nuestro Landing Page. 
+
+5.2.1.5. Execution Evidence for Sprint Review.
+
+Imagen del landing desplegado
+
+
+
+<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image63.png "image_tooltip")
+
+
+Link del landing desplegado:** \
+[https://audit-bridge.netlify.app/](https://audit-bridge.netlify.app/) **
+
+5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Esta sección se irá avanzando en próximas entregas, puesto que, en este **TB1 **solo se ha implementado el landing page. Todavía no se cuenta con APIs.
+
+5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El Sprint Product Backlog se elabora teniendo en cuenta las tareas que se realizarán en el desarrollo de la aplicación web. Sin embargo, estas tareas aún no han sido implementadas. Estas se encuentran en estado "To-Do".
+
+La página principal fue diseñada e implementada en Netlify porque el servicio permite una implementación rápida y vinculación a repositorios de Github.
+
+5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para la elaboración del reporte como para el landing se utilizaron los repositorios en GitHub.
+
+
+
+<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image64.png "image_tooltip")
+
