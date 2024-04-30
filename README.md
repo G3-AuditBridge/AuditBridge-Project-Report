@@ -10,7 +10,7 @@
 
 ### Ingeniería de Software.
 
-### Aplicaiones Web
+### Aplicaciones Web
 
 ### WS53
 ### Angel Augusto Velasquez Nuñez
