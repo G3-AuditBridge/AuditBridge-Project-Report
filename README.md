@@ -5,7 +5,7 @@
 </tr>
 <center>
   
-
+<div align='center'>
 # Universidad Peruana de Ciencias Aplicadas.
 
 ### Ingeniería de Software.
@@ -20,6 +20,7 @@
 **StartUp Name:** DreamTeam
 
 **Product Name:** AuditBridge
+</div>
 <div align='center'>
   
 **Team Members**
