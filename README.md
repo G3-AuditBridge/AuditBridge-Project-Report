@@ -76,13 +76,13 @@
         <td><strong> 0.3 </strong></td>
           <td> 12/04/2024 <br> 
       <td>Pingus Rodrigez, Carlos Daniel 
-      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+      <td>Gestión del repositorio de GitHub y los commits que se hacen al proyecto.
     </td>
       <tr>
-        <td><strong> 0.1 </strong></td>
-          <td> 13/03/2024 <br> 
-      <td>Belleza Tello Paolo Eduardo
-      <td>Creación de Database Diagram y Class Diagram, con Class Dictionary.
+        <td><strong> 2 </strong></td>
+          <td> 30/04/2024 <br> 
+      <td>Pingus Rodriguez, Carlos Daniel
+      <td>Actualización de capítulos 1, 2, 3 y 4
     </td>
     </tr>
     </tr>
