@@ -4,9 +4,8 @@
     </div>
 </tr>
 <center>
-  
-<div align='center'>
-# Universidad Peruana de Ciencias Aplicadas.
+
+# Universidad Peruana de Ciencias Aplicadas
 
 ### Ingeniería de Software.
 
@@ -20,24 +19,24 @@
 **StartUp Name:** DreamTeam
 
 **Product Name:** AuditBridge
-</div>
+
 <div align='center'>
   
 **Team Members**
   
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Belleza Tello, Paolo Eduardo        |u20191A137|
-|Fernandez Alva, Maria Fernanda      |u20201A131|
-|Pingus Rodriguez, Carlos Daniel     |u202113280|
-|Cossio Jimenez, Jimena Alessandra   |u202117854|
-|Velarde Luyo, Piero Alberto         |u20211A620|
+|Belleza Tello, Paolo Eduardo(Retirado)  |u20191A137|
+|Fernandez Alva, Maria Fernanda(Retirada)|u20201A131|
+|Pingus Rodriguez, Carlos Daniel         |u202113280|
+|Cossio Jimenez, Jimena Alessandra       |u202117854|
+|Velarde Luyo, Piero Alberto             |u20211A620|
 
- ## 2024-1
+## 2024-1
  </div>
 </center>
 
- # Registros de versiones del Informe
+# Registros de versiones del Informe
 
  <br>
 
@@ -61,28 +60,28 @@
       <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
-        <td><strong> 0.4 </strong></td>
+        <td><strong> 0.3 </strong></td>
           <td> 8/04/2024 <br> 
       <td>Cossio Jimenez Jimena Alessandra
       <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
     </td>
     <tr>
-        <td><strong> 0.5 </strong></td>
+        <td><strong> 0.4 </strong></td>
           <td> 10/04/2024 <br> 
       <td>Velarde Luyo Piero Alberto
       <td>Aporte de prototipos, Landing Page y Sprint.
     </td>
     <tr>
-        <td><strong> 0.3 </strong></td>
+        <td><strong> 0.5 </strong></td>
           <td> 12/04/2024 <br> 
-      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Pingus Rodriguez, Carlos Daniel 
       <td>Gestión del repositorio de GitHub y los commits que se hacen al proyecto.
     </td>
       <tr>
-        <td><strong> 2 </strong></td>
-          <td> 30/04/2024 <br> 
+        <td><strong> 2.0 </strong></td>
+          <td> 01/05/2024 <br> 
       <td>Pingus Rodriguez, Carlos Daniel
-      <td>Actualización de capítulos 1, 2, 3 y 4
+      <td>Actualización de features
     </td>
     </tr>
     </tr>
@@ -94,8 +93,9 @@
 
 # Project Report Collaboration Insights
 
+**Link del Repositorio en GitHub:** https://github.com/G3-AuditBridge/AuditBridge-Project-Report.git
 
-<br><br>
+<br>
 
 # Índice
 
@@ -234,10 +234,63 @@
 
 <br><br>
 
-
 # Student Outcome
+<table align="center" border="1" width="90%">
 
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
 
+  <tr>
+    <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+    <td>
+      <b>Pingus Rodrigguez, Carlos Daniel</b> </br>
+      <b>TB1:</b> </br>
+      Preparación y modelado del c4 junto con el equipo para decidir una estructura apropiada.</br>
+      <b>Belleza Tello, Paolo Eduardo</b> </br>
+      <b>TB1:</b> </br>
+      Reunión con el equipo para hablar sobre la funcionalidades de la página web y la interacción entre asesores y restaurantes.</br>
+      <b>Fernandez Alva, Maria Fernanda</b> </br>
+      <b>TB1:</b> </br>
+      Apoyo entres los miembros del equipo para que todos podamos terminar con el informe del trabajo, conversando y mejorando ciertas áreas.</br>
+      <b>Cossio Jimenez, Jimena Alessandra</b> </br>
+      <b>TB1:</b> </br>
+      Reunión en equipo sobre lo que tendría nuestra aplicación y darnos feedback sobre las mejoras que podríamos implementar.</br>
+      <b>Velarde Luyo, Piero Alberto</b> </br>
+      <b>TB1:</b> </br>
+      Las reuniones del grupo me ayudaron a entender mejor la idea que queremos ofrecer a nuestros clientes.</br>
+    </td>
+    <td>
+      Se realizó un consenso con la participación de todos para conocer mejor cómo será la aplicación.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+    <td>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB1:</b> </br>
+      El sector de soluciones de arquitectura de software me ayudó a entender mejor el modelado.</br>
+      <b>Belleza Tello, Paolo Eduardo</b> </br>
+      <b>TB1:</b> </br>
+      Comprender a fondo las necesidades de los usuarios (asesores y restaurantes) me ayudó a agregar funcionalidades a la página web para satisfacer sus necesidades.</br>
+      <b>Fernandez Alva, Maria Fernanda</b> </br>
+      <b>TB1:</b> </br>
+      Elaborar las entrevistas me permitió comprender las preocupaciones y aspiraciones de los usuarios para mejorar. Gracias a esto, ahora tengo una comprensión más sólida y confiable.</br>
+      <b>Cossio Jimenez, Jimena Alessandra</b> </br>
+      <b>TB1:</b> </br>
+      Investigar más a fondo sobre la problemática ayudó a tener una mejor noción respecto al sector empresarial.</br>
+      <b>Velarde Luyo, Piero Alberto</b> </br>
+      <b>TB1:</b></br>
+      Investigando sobre el diseño del landing page, me encontré con el sector de front-end y obtuve mejores ideas para los prototipos</br>
+    </td>
+    <td>
+      Investigamos la problemática, el mercado y a los competidores para tener una mejor idea de lo que tratará la aplicación para atraer a más público.
+    </td>
+  </tr>
+</table>
 
 <br>
 
