@@ -14,7 +14,7 @@
 ### WS53
 ### Angel Augusto Velasquez Nuñez
 
-### "Informe de TB 1"
+### "Informe de Trabajo Final"
 
 **StartUp Name:** DreamTeam
 
