@@ -128,6 +128,7 @@
     - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4 Ubiquitous Language(#24-ubiquitous-language)
 
 ## 3. Capítulo III: Requirements Specification
 
@@ -1096,6 +1097,17 @@ Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restauran
 Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
 
 <img src="https://media.discordapp.net/attachments/1009495505555959829/1230361410446557284/image.png?ex=66330a5b&is=6620955b&hm=c5c2834d324fdb93daa476208c4257d43531b8a0b4f535fad8aded997f400f2f&=&format=webp&quality=lossless&width=550&height=274">
+
+2.4. Ubiquitous Language:
+En este punto se recopilan los términos y tecnicismos usados en el proyecto:
+- Mensaje directo (DM): Un mensaje privado enviado entre dos usuarios en la plataforma.
+- Usuario: Un individuo que tiene una cuenta en la plataforma y puede acceder a sus servicios específicos.
+- Auditor: Un individuo que tiene una cuenta en la plataforma y puede acceder a sus servicios específicos.
+- Autenticación: El proceso de verificar la identidad de un usuario al iniciar sesión.
+- Perfil: El espacio personalizado de un usuario que contiene información como nombre, biografía, imagen, etc.
+- Suscripción: Un plan de pago recurrente que otorga acceso a funciones o contenido premium.
+- Pago: El proceso de completar un contrato o reservar un servicio.
+- Pasarela de pago: Un servicio seguro que facilita las transacciones en línea.
 
 **CAPÍTULO III**
 
