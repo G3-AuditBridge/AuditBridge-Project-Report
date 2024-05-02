@@ -16,7 +16,7 @@
 
 ### "Informe de Trabajo Final"
 
-**StartUp Name:** DreamTeam
+**StartUp Name:** CircleUp
 
 **Product Name:** AuditBridge
 
