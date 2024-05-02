@@ -377,13 +377,14 @@ El alcance de nuestro proyecto se va a delimitar al desarrollo de la landing pag
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
-Nuestro contexto demanda información importante para gestionar la búsqueda y coordinación de asesores de sanidad para restaurantes. A través de esta información, los dueños de restaurantes tendrán acceso a los recordatorios automáticos para inspecciones, listas de verificación personalizadas para mejoras requeridas y alertas automáticas por incumplimientos de regulaciones gubernamentales significativas, que incluyen a la higiene, así como a la seguridad alimentaria. 
-
-Hemos observado un factor crítico que afecta al dueño del restaurante, el cual se manifiesta en multas por incumplimiento de regulaciones gubernamentales, afectando su reputación como restaurante. 
+Nuestro contexto demanda información importante para gestionar la búsqueda y coordinación de asesores de sanidad para restaurantes. Es por ello que nuestro servicio fue diseñado para lograr que los dueños de restaurantes aprueben las evaluaciones de sanidad a las que estén expuestos con la ayuda de un asesor de sanidad. Hemos observado un factor crítico que afecta al dueño del restaurante, el cual se manifiesta en multas por incumplimiento de regulaciones gubernamentales, afectando su reputación como restaurante. 
 
 ¿Cómo evitar multas por incumplimiento de regulaciones gubernamentales, así como la afectación de su reputación como restaurante? 
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+* Business Assumptions
+
 1.- Creo que mis clientes necesitan alertas automáticas por incumplimientos de regulaciones gubernamentales significativas. 
 
 2.- Estas necesidades se pueden resolver con una aplicación que contenga listas de verificación personalizadas para mejoras requeridas. 
@@ -391,6 +392,7 @@ Hemos observado un factor crítico que afecta al dueño del restaurante, el cual
 3.- Mis clientes iniciales son los dueños de restaurantes, así como los asesores de sanidad para restaurantes. 
 
 4.- El valor #1 que un dueño de restaurante quiere de mi servicio es que el asesor sea confiable. 
+
 5.- El valor #1 que un asesor de sanidad para restaurantes quiere de mi servicio es aumentar la demanda de clientes por su buena labor. 
 
 6.- El dueño del restaurante también puede obtener estos beneficios adicionales como un chat integrado para que se comunique de manera más fácil con su asesor de sanidad y la posibilidad de generar contratos para garantizar la ejecución del servicio de asesoramiento y prevenir posibles fraudes. 
@@ -409,15 +411,56 @@ Hemos observado un factor crítico que afecta al dueño del restaurante, el cual
 
 13.- Resolveremos esto a través del aumento de la capacidad del procesador, de la memoria RAM y del disco duro SSD de la aplicación web. 
 
-14 .- Los usuarios son los dueños de restaurantes y los asesores de sanidad para restaurantes. 
+* User Assumptions 
 
-15.- Nuestro servicio encaja en su trabajo. 
+1.- ¿Quién es el usuario? 
+Los usuarios son los dueños de restaurantes y los asesores de sanidad para restaurantes. 
 
-16.- Nuestro servicio es usado cuando tanto los dueños de restaurantes como los asesores de sanidad reciben el recordatorio automático de inspección y se usará a través de su laptop y/o celular mediante la aplicación web. 
+2.- ¿Dónde encaja nuestro servicio? ¿En su trabajo o vida? 
+Nuestro servicio encaja en su trabajo. 
 
-17.- Las características más importantes de nuestro servicio son que sea fácil de usar, que genere recordatorios automáticos para inspecciones, que genere listas de verificación personalizadas para mejoras requeridas, que brinde alertas automáticas por incumplimientos de regulaciones gubernamentales significativas y que tenga un sistema de calificación para los asesores por parte de los dueños de restaurantes, así como la verificación de la autenticidad de los asesores a través de la publicación de sus certificados. 
+3.- ¿Qué problemas tienenuestro servicio y cómo se pueden resolvcer? 
+Nuestro servicio tiene dificultades cuando hay más de 5 000 personas usando nuestra plataforma al mismo tiempo. Esto se puede resolver si aumentamos el espacio de la memoria y adquirimos un hosting con mayor capacidad para nuestra plataforma. 
 
-18.- Nuestro servicio debe mostrar un listado de asesores disponibles junto con su certificado que respalde su trabajo como asesor, así como su experiencia previa.
+4.- ¿Cuándo y cómo es usado nuestro servicio? 
+Nuestro servicio es usado cuando tanto los dueños de restaurantes como los asesores de sanidad reciben el recordatorio automático de inspección y se usará a través de su laptop y/o celular mediante la aplicación web. 
+
+5.- ¿Qué características son importantes? 
+Las características más importantes de nuestro servicio son que sea fácil de usar, que genere recordatorios automáticos para inspecciones, que genere listas de verificación personalizadas para mejoras requeridas, que brinde alertas automáticas por incumplimientos de regulaciones gubernamentales significativas y que tenga un sistema de calificación para los asesores por parte de los dueños de restaurantes, así como la verificación de la autenticidad de los asesores a través de la publicación de sus certificados. 
+
+6.- ¿Cómo debe verse nuestro servicio y cómo debe comportarse? 
+Nuestro servicio debe mostrar un listado de asesores disponibles junto con su certificado que respalde su trabajo como asesor, así como su experiencia previa.
+
+* User Outcomes 
+
+1.- El dueño del restaurante desea cumplir satisfactoriamente las evaluaciones sanitarias, con el fin de generar confianza y seguridad en sus clientes. 
+
+2.- El dueño del restaurante desea adquirir conocimiento más actualizado acerca de las mejores prácticas de seguridad alimentaria y de higiene para garantizar una buena calidad de las comidas que le sirve a sus clientes. 
+
+3.- El dueño del restaurante desea disminuir el riesgo de recibir multas por cualquier incumplimiento durante la evaluación de sanidad para mantener su buena reputación como restaurante. 
+
+4.- El asesor de sanidad desea que la plataforma tenga listas de verificación personalizadas que pueda diseñar a modo de plantilla para facilitar su uso en su mayoría y solo modificar uno que otro detalle dependiendo de los requisitos de cada restaurante. 
+
+5.- El asesor de sanidad desea generar más confianza en sus clientes, con el fin de que se conviertan en sus clientes recurrentes. 
+
+* Business Outcomes 
+
+1.- El dueño del restaurante podrá aumentar la retención de sus clientes si mantiene un ambiente más limpio y seguro y así ellos puedan tener una buena experiencia con la ambientación del local. 
+
+2.- El dueño del restaurante podrá mejorar la reputación de su local si cumple con todas las normas sanitarias satisfactoriamente durante su evaluación de sanidad. 
+
+3.- El dueño del restaurante podrá reducir los costos operativos si cumple con las buenas prácticas de la seguridad alimentaria, ya que no habría pérdida de alimentos ni problemas graves del personal en relación con el mal estado de los alimentos. 
+
+4.- El dueño del restaurante podrá realizar inversiones y asociaciones estratégicas con instituciones de salud pública y con proveedores de servicios de alimentos si tiene una trayectoria sólida en la seguridad alimentaria. Con ello, su restaurante podrá crecer y expandirse en la industria. 
+
+5.- El asesor de sanidad podrá aumentar la retención de sus clientes si ellos no obtienen ninguna multa durante las evaluaciones de sanidad en sus restaurantes. 
+
+6.- El asesor de sanidad podrá tener un aumento orgánico de clientes si estos dan referencias positivas de su servicio a otros dueños de restaurantes. 
+
+7.- El asesor de sanidad podrá ser reconocido como experto en seguridad alimentaria si ninguno de sus clientes obtiene alguna multa ni infracción durante alguna evaluación de sanidad, lo que podría generar oportunidades de hacer colaboraciones y de presentarse en eventos especializados en la industria gastronómica. 
+
+8.- El asesor de sanidad podrá aumentar sus ingresos si sus servicios son muy demandados y si todos sus clientes se encuentran muy satisfechos con sus servicios. 
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Creemos que** al realizar asociaciones estratégicas con instituciones de salud pública y con proveedores de servicios de alimentos, nos permitirá ampliar nuestra red y aumentar nuestra credibilidad con nuestros clientes. 
@@ -431,6 +474,94 @@ Hemos observado un factor crítico que afecta al dueño del restaurante, el cual
 
 #### 1.2.2.4. Lean UX Canvas
 <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228871955026022501/image.png?ex=662d9f31&is=661b2a31&hm=8c48b3428371c906bf04a8f1620eb634ccccbb386980eab551687ddd2be7a3ef&=&format=webp&quality=lossless&width=840&height=603" alt="Lean-UX-Canvas" border="0"></a>
+
+<b>User Benefits</b>
+
+¿Qué intenta lograr el usuario? 
+
+El dueño del restaurante quiere aprobar la evaluación de sanidad de su local sin ningún inconveniente. 
+
+El asesor de sanidad quiere conseguir al menos 50 clientes recurrentes para orientarlos en el proceso de su evaluación de sanidad. 
+
+<br>¿Cómo quiere sentirse el usuario durante y después de este proceso? 
+
+El dueño del restaurante quiere sentir que ha pasado la evaluación de sanidad con éxito y sin difamación alguna. 
+
+El asesor de sanidad quiere sentir que hace un excelente trabajo en su orientación a los dueños de restaurantes y que gana la confianza de sus clientes hasta el punto de volverse en sus clientes recurrentes. 
+
+<br>¿Cómo nuestro producto o servicio acerca al usuario a una meta o sueño en la vida? 
+
+En el caso del dueño de restaurante, porque quiere ser de los restaurantes más demandados y conocidos por su alta calidad de cocina sin descuidar la sanidad de su local y sin tener mala reputación. 
+
+En el caso del asesor de sanidad, porque quiere ser de los más confiables, demandados y respetados asesores a nivel nacional. 
+
+<br>¿Por qué su usuario buscaría su producto o servicio? 
+
+El dueño del restaurante buscaría nuestro servicio porque es una manera más rápida, confiable y económica de conseguir orientación para la evaluación de sanidad de su local. 
+
+El asesor de sanidad buscaría nuestro servicio porque quiere tener más clientes recurrentes para evitar tener temporadas con poca clientela. 
+
+<br>¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo? 
+
+El dueño del restaurante deja de cambiar de asesor y se convierte en cliente recurrente de su asesor. 
+
+El asesor de sanidad utiliza con mayor frecuencia la plataforma y su servicio es más demandado. 
+
+
+<b>Solution Ideas</b>
+
+- Mantener un ambiente más limpio y más seguro 
+- Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección 
+- El personal del restaurante es capacitado por el asesor respecto a las buenas prácticas de seguridad alimentaria y de higiene 
+- Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 7 años 
+- Generar alertas por incumplimientos de regulaciones gubernamentales significativas 
+- Calificar con el máximo de estrellas el servicio del asesor y dejar comentarios positivos en el perfil del asesor 
+- Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 5 años seguidos 
+- Los clientes eligen su perfil con frecuencia para hacer la inspección de sus locales 
+- Generar contratos con sus clientes para el uso de su servicio sin ningún inconveniente 
+
+<b>Hypotheses</b>
+
+| BUSINESS OUTCOME (Creemos que lograremos esto…)  | USER & CUSTOMERS (Si esta persona…) |USER BENEFITS (Puede lograr esto…)  | SOLUTION IDEAS (Con esto…) |
+| ------------- | ------------- | ------------- | ------------- |
+| Aumentar la retención de sus clientes  | el dueño del restaurante  | Brindar una muy buena experiencia a sus clientes durante su estancia en su local  | Mantener un ambiente más limpio y más seguro  |
+| Mejorar la reputación de su local  | el dueño del restaurante  | Aprobar la evaluación de sanidad sin recibir alguna multa  | Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección  |
+| Reducir los costos operativos  | el dueño del restaurante  | Todo el personal cumple las buenas prácticas de la seguridad alimentaria  | El personal del restaurante es capacitado por el asesor respecto a las buenas prácticas de seguridad alimentaria y de higiene  |
+| Realizar inversiones y asociaciones estratégicas  | el dueño del restaurante  | Tener una trayectoria sólida por al menos 7 años sin recibir alguna multa  | Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 7 años  |
+| Aumentar la retención de sus clientes  | el asesor de sanidad  | Ninguno de sus clientes obtiene alguna multa durante su evaluación de sanidad  | Generar alertas por incumplimientos de regulaciones gubernamentales significativas  |
+| Tener un aumento orgánico de sus clientes  | el asesor de sanidad  | Sus clientes brindan referencias positivas de su servicio a otros dueños de restaurantes  | Calificar con el máximo de estrellas el servicio del asesor y dejar comentarios positivos en el perfil del asesor  |
+| Ser reconocido como experto en seguridad alimentaria  | el asesor de sanidad  | Ninguno de sus clientes obtiene alguna multa durante su evaluación de sanidad por al menos 5 años seguidos  | Cumplir toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 5 años seguidos  |
+| Aumentar sus ingresos  | el asesor de sanidad  | Sus servicios son muy demandados por sus clientes  | Los clientes eligen su perfil con frecuencia para hacer la inspección de sus locales  |
+| Evitar estafas en la plataforma  | el asesor de sanidad  | Aumentar la confianza de sus clientes  | Generar contratos con sus clientes para el uso de su servicio sin ningún inconveniente  |
+
+Creemos que lograremos aumentar la retención de los clientes del dueño del restaurante si esta persona logra brindar una muy buena experiencia a sus clientes durante su estancia en el local con el mantenimiento de un ambiente más limpio y más seguro.  
+
+Creemos que lograremos mejorar la reputación del local del dueño del restaurante si esta persona logra aprobar la evaluación de sanidad sin recibir alguna multa con el cumplimiento de toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección.  
+
+Creemos que lograremos reducir los costos operativos si el dueño del restaurante logra que todo el personal cumpla las buenas prácticas de la seguridad alimentaria con una buena capacitación por parte del asesor respecto a las buenas prácticas de seguridad alimentaria y de higiene. 
+
+Creemos que lograremos realizar inversiones y asociaciones estratégicas si el dueño del restaurante logra tener una trayectoria sólida por al menos 7 años sin recibir alguna multa con el cumplimiento de toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 7 años. 
+
+Creemos que lograremos aumentar la retención de los clientes del asesor de sanidad si esta persona logra que ninguno de sus clientes obtenga alguna multa durante su evaluación de sanidad con la generación de alertas por incumplimientos de regulaciones gubernamentales significativas. 
+
+Creemos que lograremos tener un aumento orgánico de los clientes del asesor de sanidad si esta persona logra que sus clientes brinden referencias positivas de su servicio a otros dueños de restaurantes con la calificación máxima de estrellas por el servicio del asesor y dejar comentarios positivos en el perfil del asesor. 
+
+Creemos que lograremos que el asesor de sanidad sea reconocido como experto en seguridad alimentaria si esta persona logra que ninguno de sus clientes obtenga alguna multa durante su evaluación de sanidad por al menos 5 años seguidos con el cumplimiento de toda la lista de requisitos que el asesor de sanidad mencionó durante su inspección por al menos 5 años seguidos. 
+
+Creemos que lograremos aumentar los ingresos del asesor de sanidad si esta persona logra que sus servicios sean muy demandados por sus clientes con la elección de su perfil con frecuencia para hacer la inspección de sus locales. 
+
+Creemos que lograremos evitar estafas en la plataforma si el asesor de sanidad logra aumentar la confianza de sus clientes con la generación de contratos con estos para el uso de sus servicios sin ningún inconveniente. 
+
+<b>What’s the most important thing we need to learn first?</b>
+
+
+
+<b>What’s the least amount of work we need to do to learn the next most important thing?</b> 
+
+Se podría crear una prueba de página de destino de la plataforma para medir qué tanto interés tienen los usuarios en usar dicha plataforma. 
+También se podría crear una característica falsa o “el botón a ninguna parte” respecto a la función de la generación de contratos entre asesores de sanidad y dueños de restaurantes para estar más seguros de que a los usuarios les interesa dicha funcionalidad y así evitar pagar costos altos por funciones no tan usadas.
+
+
 ### 1.3. Segmentos objetivo.
 **Dueños de restaurantes** entre 30 y 60 años, que sean de clase media y que sean peruanos.
 
