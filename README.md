@@ -554,6 +554,11 @@ Creemos que lograremos evitar estafas en la plataforma si el asesor de sanidad l
 
 <b>What’s the most important thing we need to learn first?</b>
 
+- Conocer las necesidades de nuestros clientes en relación con las normas gubernamentales de sanidad.
+- Conocer a la competencia directa y cómo solucionan el incumplimiento de las normas gubernamentales que también planeamos resolver.
+- Conocer las normas gubernamentales de sanidad que rigen a los restaurantes.
+- Conocer los distintos tipos de asociaciones con los que podamos colaborar como las instituciones de salud pública y los proveedores de servicios de alimentos.
+- Conocer el estado de los alimentos, especialmente si están por caducar.
 
 
 <b>What’s the least amount of work we need to do to learn the next most important thing?</b> 
