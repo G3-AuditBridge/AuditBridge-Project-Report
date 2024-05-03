@@ -259,7 +259,7 @@
   <tr>
     <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
     <td>
-      <b>Pingus Rodrigguez, Carlos Daniel</b> </br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
       <b>TB1:</b> </br>
       Preparación y modelado del c4 junto con el equipo para decidir una estructura apropiada.</br>
       <b>TP:</b> </br>
