@@ -2494,7 +2494,7 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.8.1. Database Diagram.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367874678394890/image.png?ex=66331060&is=66209b60&hm=5c7f2a54a94f1034a4fb41f052ab22eaad60a2eaf3b783987dea07cfd0e5ee5b&=&format=webp&quality=lossless">
+<img src="/assets/DatabaseDiagram.png" alt="Database Diagram">
 
 **CAPÍTULO V**
 
