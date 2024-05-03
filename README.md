@@ -1212,7 +1212,7 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
   <tr>
    <td rowspan="3" >Task
    </td>
-   <td colspan="2" >Carlos Santos
+   <td colspan="2" >Charlotte Santos
    </td>
    <td colspan="2" >Samanta Escobar
    </td>
