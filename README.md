@@ -2494,7 +2494,7 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.8.1. Database Diagram.
 
-<img src="/assets/DatabaseDiagram.png" alt="Database Diagram">
+<img src="/assets/DatabaseDiagramV1.png" alt="Database Diagram">
 
 **CAPÍTULO V**
 
