@@ -1210,31 +1210,19 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
    </td>
   </tr>
   <tr>
-   <td>Registrarse como asesor
+   <td>Conseguir certificaciones
    </td>
    <td>ALTA
    </td>
    <td>ALTA
    </td>
-   <td>NUNCA
-   </td>
-   <td>NULO
-   </td>
-  </tr>
-  <tr>
-   <td>Registrarse como restaurante
-   </td>
-   <td>NUNCA
-   </td>
-   <td>NULO
-   </td>
-   <td>ALTA
+   <td>MEDIA
    </td>
    <td>ALTA
    </td>
   </tr>
   <tr>
-   <td>Buscar asesores
+   <td>Mantener el nivel de sanidad del establecimiento
    </td>
    <td>NUNCA
    </td>
@@ -1246,7 +1234,19 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
    </td>
   </tr>
   <tr>
-   <td>Comunicarse con el asesor
+   <td>Buscar asesoramiento
+   </td>
+   <td>MEDIA
+   </td>
+   <td>MEDIA
+   </td>
+   <td>ALTA
+   </td>
+   <td>ALTA
+   </td>
+  </tr>
+  <tr>
+   <td>Comunicarse con un asesor
    </td>
    <td>NUNCA
    </td>
@@ -1258,7 +1258,7 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
    </td>
   </tr>
   <tr>
-   <td>Responder a los mensajes de los restaurantes
+   <td>Atender solicitudes de auditoría
    </td>
    <td>ALTA
    </td>
@@ -1291,30 +1291,6 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
    <td>MEDIA
    </td>
    <td>ALTA
-   </td>
-  </tr>
-  <tr>
-   <td>Calificar al asesor
-   </td>
-   <td>NUNCA
-   </td>
-   <td>NULO
-   </td>
-   <td>MEDIA
-   </td>
-   <td>BAJA
-   </td>
-  </tr>
-  <tr>
-   <td>Finalizar Conversación
-   </td>
-   <td>ALTA
-   </td>
-   <td>MEDIA
-   </td>
-   <td>ALTA
-   </td>
-   <td>MEDIA
    </td>
   </tr>
 </table>
