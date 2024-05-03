@@ -1103,31 +1103,72 @@ La señora Marisol comparte que ha tenido dificultades para encontrar un asesor 
 
 * **Asesor de Sanidad**
 
-Del gráfico, "Agrado sobre la página web" nos muestra el porcentaje de eficiencia y aceptación de los usuarios hacia la página web. Esto nos muestra que estamos haciendo un buen trabajo.
-    
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358415910371481/image.png?ex=66330791&is=66209291&hm=d094a1161e69d53b2dd9292b16d613acc34e96da9701cb8a76f394c5e91255af&=&format=webp&quality=lossless">
-
-Del gráfico, "Preferencias en la gestión de reuniones" nos muestra el porcentaje de las opciones(WhatsApp,Videollamada, Presencial) que más les agrada hacer a los asesores en su primera reunión. Esto nos muestra que les agrada más el método presencial para crear más confianza a sus clientes.
-
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358709234831460/image.png?ex=663307d7&is=662092d7&hm=24a6c4ad72c1ef09962cd553b726bcc2ee45d802d35d3ce182a330420e2877a3&=&format=webp&quality=lossless">
-
-Del gráfico "Funcionalidades adicionales" se puede observar el porcentaje de usuarios interesados en características extra que les gustaría que la página web tuviera. Esto nos permite focalizarnos en añadir un valor adicional que los usuarios consideran importante.
-
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230358869536936038/image.png?ex=663307fd&is=662092fd&hm=e2a19f6081358e3ff696edefd552500ae7e3b6c70dece3d832a6dd5edaab2d85&=&format=webp&quality=lossless">
+1. ¿Cuál es tu experiencia en el campo de la evaluación de sanidad en restaurantes? Las entrevistadas tienen en promedio 6 años de experiencia trabajando como asesoras de sanidad. 
+<br>
+2. ¿Qué herramientas o recursos utilizas habitualmente en tu trabajo como asesor? 
+El 67% de los entrevistados tiene un equipo de medición de temperatura. 
+El 100% de los entrevistados entrega informes o listas de verificación personalizada a sus clientes. 
+El 33% de los entrevistados tiene un software especializado en seguimiento de inspecciones y recomendaciones. 
+<br>
+3. ¿Qué opina usted de una plataforma que haga conocer sus servicios hacia los restaurantes?
+El 100% de las entrevistadas opina que es una gran idea hacer conocer sus servicios en una plataforma. 
+<br>
+4. ¿Qué esperas de una plataforma de coordinación entre asesores y restaurantes para la evaluación de sanidad?
+El 100% de las entrevistadas espera que la plataforma sea eficiente, muy fácil de usar y que permita una comunicación fluida y transparente entre ambas partes. 
+El 67% de las entrevistadas espera que la plataforma facilite la publicación y la gestión de documentos. 
+<br>
+5. ¿Cómo preferirías gestionar la primera reunión con los propietarios de restaurantes, a través de la plataforma mediante un chat, videollamada o de manera presencial?
+El 100% de las entrevistadas prefiere usar WhatsApp para gestionar su primera reunión con su cliente. De esa cifra, el 33% prefiere usar el chat de WhatsApp mientras que el 67% prefiere usar la opción de hacer videollamada. Adicional a ello, el 67% de las entrevistadas prefiere también reunirse de manera presencial. 
+<br>
+6. ¿Cómo imaginas que la plataforma de coordinación de asesores podría mejorar tu trabajo y eficiencia?
+El 33% de las entrevistadas imagina que los comentarios y las herramientas de seguimiento mejorarían su eficiencia. 
+El 67% de las entrevistadas imagina que la centralización de la gestión de citas y documentos mejoraría su eficiencia. 
+<br>
+7. ¿Qué funcionalidades crees que serían más útiles para ti como asesor en una plataforma de este tipo?
+El 33% de las entrevistadas quisiera que la plataforma tuviera plantillas ya hechas para cada área. 
+El 100% de las entrevistadas quisiera tener interacción directa con sus clientes. 
+<br>
+8. Adicionales: 
+El 100% de las entrevistadas cuenta con una gran capacidad analítica y altos conocimientos en sanidad. El 67% de las entrevistadas tiene alta capacidad de comunicación. 
+El 100% de las entrevistadas usa WhatsApp y Google Maps en su celular para comunicarse con sus clientes y para ir a sus restaurantes. 
+El 100% de las entrevistadas utiliza como navegador predeterminado Google Chrome en sus celulares y el 33% de ellas lo utiliza también en su laptop para una mayor comodidad. 
+<br>
 
 * **Restaurante**
 
-De la gráfica "Experiencia previa con Asesores" se muestra el porcentaje de usuarios que han tenido experiencias positivas con asesores anteriores, así como aquellos que han tenido experiencias negativas.
+1. ¿Has utilizado servicios de asesoramiento para la evaluación de sanidad en tu restaurante en el pasado?
+El 67% de los entrevistados si utilizó algún servicio de asesoramiento para la evaluación de sanidad de su restaurante. 
+El 33% de los entrevistados no utilizó ningún servicio de asesoramiento para la evaluación de sanidad de su restaurante. 
+<br>
+1.1 (Respuesta afirmativa). ¿Cuáles han sido tus experiencias al trabajar con asesores en el pasado? ¿Qué aspectos fueron positivos y cuáles fueron negativos?
+El 50% de los entrevistados afirma que tuvo una mala experiencia al trabajar con asesores en el pasado, ya que ellos no pudieron proporcionar una documentación detallada sobre las mejoras necesarias en su restaurante. 
+El 50% de los entrevistados afirma haber tenido una buena experiencia al trabajar con asesores en el pasado. 
+<br>
+1.2 (Respuesta negativa). ¿Por qué no contactaste con algún asesor que preste estos servicios?
+El 100% de los que no ha contactado a algún asesor particular fue porque va a clases de sanidad que la municipalidad le proporciona. 
+<br>
+2. ¿Cuáles son los principales desafíos que enfrentas al gestionar la sanidad en tu restaurante?
+Para el 33% de los entrevistados, el mayor desafío es abastecer a todos sus clientes en todos sus pedidos y de la mejor calidad posible. 
+Para otro 33% de los entrevistados, el mayor desafío es la vigencia de sus productos y alimentos. 
+Para el 33% de los entrevistados, el mayor desafío es la falta de transparencia en su búsqueda de un asesor confiable, ya que hubo algunos que se hicieron pasar por asesores profesionales y al final, no pudieron cubrir todos los requisitos mínimos para su restaurante, ocasionando una pérdida de dinero y tiempo. 
+<br>
+3. ¿Qué te motiva a buscar ayuda externa para la evaluación de sanidad en tu restaurante?
+Para el 100% de los entrevistados, lo que los motiva a buscar ayuda externa para la evaluación de sanidad de su restaurante es para tener un mejor conocimiento y para no cometer errores por desconocimiento. 
+<br>
+4. ¿Qué características o servicios te gustaría ver en una plataforma de gestión de asesores para la evaluación de sanidad de tu restaurante? 
+Al 100% de los entrevistados le gustaría que la interfaz fuera simple, bonita y fácil de usar para cualquier trabajador.
+<br>
+5. ¿Qué aspectos te haría sentir en confianza al contactar con algún asesor mediante una plataforma en línea?
+El 100% de los entrevistados prefiere a un asesor que mande su certificado de vida o currículum. 
+Adicional a ello, el 33% de los entrevistados también prefiere que los perfiles de asesores en la plataforma incluyera una foto actual para poder visualizar quiénes son las personas detrás del servicio. 
+<br>
+6. Adicionales: 
+El 100% de los entrevistados son líderes y negociadores. 
+El 67% de los entrevistados resuelven los conflictos internos con su capacidad de negociación. 
+El 100% de los entrevistados usa WhatsApp y Google Maps en su celular para comunicarse con sus asesores y clientes y para llevar los pedidos de sus clientes a sus casas. 
+El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome en sus celulares, el cual viene por defecto. 
+<br>
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359148646895677/image.png?ex=66330840&is=66209340&hm=573aa6c6ca03016ed131a976793034d84b10ddaf600c9827d8a4c6824e42ee88&=&format=webp&quality=lossless">
-
-De la gráfica "Motivos para buscar un nuevo asesor" se muestra los motivos del porque buscan asesores de confianza. Esto nos ayudará a enfocarnos en estos sectores para que los usuarios se sientan satisfechos.
-
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359330088292494/image.png?ex=6633086b&is=6620936b&hm=2cacf67cc88d38d44f3120ee3523e9823099dc8153cab9e61759a3095e660ae9&=&format=webp&quality=lossless">
-
-De la gráfica, "Contratar un asesor de sanidad" , nos muestra el porcentaje de los usuarios restaurantes que desean contratar un asesor de sanidad mediante nuestra página web.
-
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230359812097839104/image.png?ex=663308de&is=662093de&hm=a3cf37cba80c246bbdc6e3802811bf253f4c54ec33832b27c9dce27b7df7b70d&=&format=webp&quality=lossless">
 
 2.3. Needfinding
 
