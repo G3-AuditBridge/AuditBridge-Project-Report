@@ -3263,13 +3263,29 @@ Para la elaboración del reporte como para el landing se utilizaron los reposito
 
 5.2.2.5. Execution Evidence for Sprint Review.
 
+Para este sprint pudimos implementar la primera versión de nuestra app web, esta incluye la parte del log in, sign in para auditor como dueño de establecimiento, la página principal (home), apartado de messages, requests, profile y premium.
+
+<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236031687536672890/image.png?ex=663687b6&is=66353636&hm=e40788f1844c7fb13acafe0ec11f9784e380606cd3c1408544773bc59cdb1f9c&">
+
+Al igual que nuestro Fake API.
+
+<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236033149486628907/image.png?ex=66368913&is=66353793&hm=c799487769607270141fb226402a095d8f24d4d03919e2b894a67f3195b6e17f&">
+
 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
-
+Si bien para la realización de nuestro front end no se requirió de servicios externos, estos últimos si fueron necesarios para el despliegue de nuestra app.
 
 <img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236021061565284462/image.png?ex=66367dd1&is=66352c51&hm=3074673efddf4c479d54bacb47d65c05a50bafbe2db1719d2f1ccf1c79f6ab9d&">
 
 5.2.2.7. Software Deployment Evidence for Sprint Review.  
+
+Para este sprint pudimos desplegar la primera versión de nuestra aplicación web utilizando el servicio de Netlify.
+
+[https://audit-bridge.netlify.app/login](https://audit-bridge.netlify.app/login)
+
+Al igual que nuestro Fake API utilizando el servicio de My JSON Server.
+
+[https://my-json-server.typicode.com/G3-AuditBridge/AuditBridge-FakeAPI](https://my-json-server.typicode.com/G3-AuditBridge/AuditBridge-FakeAPI)
 
 5.2.2.8. Team Collaboration Insights for Sprint Review.
 
