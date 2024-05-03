@@ -3028,3 +3028,122 @@ Para la elaboración del reporte como para el landing se utilizaron los reposito
    </td>
   </tr>
 </table>
+
+
+
+
+
+5.2.1.2. Sprint Backlog 2
+
+
+<table>
+  <tr>
+   <td><strong>id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td><strong>Estimations(Hours)</strong>
+   </td>
+   <td><strong>Assigned To</strong>
+   </td>
+   <td><strong>Status(To-do/inProcess/ToReview/Done)</strong>
+   </td>
+  </tr>
+</table>
+
+
+5.2.2.3. Development Evidence for Sprint Review.
+
+
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7f79b1c0fd92541a78aa85108caf924f57604757
+   </td>
+   <td>chore
+   </td>
+   <td>Primer commit del proyecto
+   </td>
+   <td>01/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>37360fef0740994c7e4ad115fed15bbe6064e591
+   </td>
+   <td>feat(fake-api)
+   </td>
+   <td>Se añadió las dependencias y configuración para el fake api
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7926101d10bac2935aedbec776820017ea7c59d2
+   </td>
+   <td>feat(in-app-navigation)
+   </td>
+   <td>
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>795e5a1b8e8081ab143e8d98652849da539258b2
+   </td>
+   <td>feat(login and sign up)
+   </td>
+   <td>Se añadieron las dependencias, configuración para la navegación dentro de la app y el uso del fake api para el registro e inicio de sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>633474bff698e2e063c56987ba5a63df96536f89
+   </td>
+   <td>feat(log out)
+   </td>
+   <td>Se añadieron las dependencias y configuración para cerrar sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+</table>
