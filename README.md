@@ -473,7 +473,7 @@ Nuestro servicio debe mostrar un listado de asesores disponibles junto con su ce
 **Sabremos que** hemos tenido éxito **cuando** nuestra aplicación se encuentre dentro del TOP 5 de resultados con mejores calificaciones por inspección de restaurantes en Google Play Store.
 
 #### 1.2.2.4. Lean UX Canvas
-<a><img src="LeanUX_canvas_v5.png" alt="Lean-UX-Canvas" border="0"></a>
+<a><img src="/assets/LeanUX_canvas_v5.png" alt="Lean-UX-Canvas" border="0"></a>
 
 <b>User Benefits</b>
 
