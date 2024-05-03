@@ -2313,15 +2313,15 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367312884793354/image.png?ex=66330fda&is=66209ada&hm=34167f7a99023708ecd524c3048d22ce8badefb0a207211ba0cd0e87f59b8135&=&format=webp&quality=lossless&width=696&height=603">
+<img src="/assets/Context.png" alt="System Context">
 
 4.6.2. Software Architecture Container Diagrams.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367439884390450/image.png?ex=66330ff8&is=66209af8&hm=25d6905e696f387a9aba8e5388282ed52c9d4987173ce04c415c4551825ddf45&=&format=webp&quality=lossless">
+<img src="/assets/Container.png" alt="Container">
 
 4.6.3. Software Architecture Components Diagrams.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367588240986182/image.png?ex=6633101c&is=66209b1c&hm=7ae208d63f4c856e5fb3ff9a575ff6fed2560cd74e726dfba019556c53d2d085&=&format=webp&quality=lossless">
+<img src="/assets/Component.png" alt="Component">
 
 4.7. Software Object-Oriented Design.
 
