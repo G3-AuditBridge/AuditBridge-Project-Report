@@ -3147,3 +3147,109 @@ Para la elaboración del reporte como para el landing se utilizaron los reposito
    </td>
   </tr>
 </table>
+
+5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7f79b1c0fd92541a78aa85108caf924f57604757
+   </td>
+   <td>chore
+   </td>
+   <td>Primer commit del proyecto
+   </td>
+   <td>01/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>37360fef0740994c7e4ad115fed15bbe6064e591
+   </td>
+   <td>feat(fake-api)
+   </td>
+   <td>Se añadió las dependencias y configuración para el fake api
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7926101d10bac2935aedbec776820017ea7c59d2
+   </td>
+   <td>feat(in-app-navigation)
+   </td>
+   <td>
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>795e5a1b8e8081ab143e8d98652849da539258b2
+   </td>
+   <td>feat(login and sign up)
+   </td>
+   <td>Se añadieron las dependencias, configuración para la navegación dentro de la app y el uso del fake api para el registro e inicio de sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>633474bff698e2e063c56987ba5a63df96536f89
+   </td>
+   <td>feat(log out)
+   </td>
+   <td>Se añadieron las dependencias y configuración para cerrar sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+</table>
+
+5.2.2.5. Execution Evidence for Sprint Review.
+
+5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+
+
+<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236021061565284462/image.png?ex=66367dd1&is=66352c51&hm=3074673efddf4c479d54bacb47d65c05a50bafbe2db1719d2f1ccf1c79f6ab9d&">
+
+5.2.2.7. Software Deployment Evidence for Sprint Review.  
+
+5.2.2.8. Team Collaboration Insights for Sprint Review.
+
+En este apartado se podrá apreciar los Insights del actual sprint en GitHub.
+Link del GitHub: [https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse](https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse)
+
+<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236017928248230029/image.png?ex=66367ae6&is=66352966&hm=b484b4aae596617f9cff699cf2d6e9c7c24fdd8d5ff90677708e6efc60a69d5e&">
