@@ -83,6 +83,18 @@
       <td>Pingus Rodriguez, Carlos Daniel
       <td>Actualización de features
     </td>
+        <tr>
+          <tr>
+        <td><strong> 2.1 </strong></td>
+          <td> 02/05/2024 <br> 
+      <td>Cossio Jimenez, Jimena Alessandra
+      <td>Actualización de LeanUX Process
+    </td>
+        <td><strong> 2.2 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Pingus Rodriguez, Carlos Daniel
+      <td>Actualización Diagramas y Modelos C4
+    </td>
     </tr>
     </tr>
     
@@ -250,6 +262,8 @@
       <b>Pingus Rodrigguez, Carlos Daniel</b> </br>
       <b>TB1:</b> </br>
       Preparación y modelado del c4 junto con el equipo para decidir una estructura apropiada.</br>
+      <b>TP:</b> </br>
+      Para esta entrega, consulté mejor con mi equipo para la reestructuración de los features, diagramas y modelos c4 del proyecto.</br>
       <b>Belleza Tello, Paolo Eduardo</b> </br>
       <b>TB1:</b> </br>
       Reunión con el equipo para hablar sobre la funcionalidades de la página web y la interacción entre asesores y restaurantes.</br>
@@ -259,9 +273,13 @@
       <b>Cossio Jimenez, Jimena Alessandra</b> </br>
       <b>TB1:</b> </br>
       Reunión en equipo sobre lo que tendría nuestra aplicación y darnos feedback sobre las mejoras que podríamos implementar.</br>
+      <b>TP:</b> </br>
+      Apoyo entre todos los integrantes del equipo y reunión por llamada para coordinar el avance de cada uno respecto a las mejoras del trabajo.</br>
       <b>Velarde Luyo, Piero Alberto</b> </br>
       <b>TB1:</b> </br>
       Las reuniones del grupo me ayudaron a entender mejor la idea que queremos ofrecer a nuestros clientes.</br>
+      <b>TP:</b> </br>
+      Comunicándome con mis compañeros logramos desarrollar el aplicativo FrontEnd que más se alinea a nuestras propuestas.</br>
     </td>
     <td>
       Se realizó un consenso con la participación de todos para conocer mejor cómo será la aplicación.
@@ -274,6 +292,8 @@
       <b>Pingus Rodriguez, Carlos Daniel</b> </br>
       <b>TB1:</b> </br>
       El sector de soluciones de arquitectura de software me ayudó a entender mejor el modelado.</br>
+      <b>TP:</b> </br>
+      Investigando mejor el dominio de la arquitectura de software, logré realizar mejores diagramas y modelos</br>
       <b>Belleza Tello, Paolo Eduardo</b> </br>
       <b>TB1:</b> </br>
       Comprender a fondo las necesidades de los usuarios (asesores y restaurantes) me ayudó a agregar funcionalidades a la página web para satisfacer sus necesidades.</br>
@@ -283,9 +303,13 @@
       <b>Cossio Jimenez, Jimena Alessandra</b> </br>
       <b>TB1:</b> </br>
       Investigar más a fondo sobre la problemática ayudó a tener una mejor noción respecto al sector empresarial.</br>
+      <b>TP:</b> </br>
+      Actualizar el user persona de ambos sectores, así como el diseño y análisis de entrevistas respecto a las mejoras indicadas por el profesor.</br>
       <b>Velarde Luyo, Piero Alberto</b> </br>
       <b>TB1:</b></br>
       Investigando sobre el diseño del landing page, me encontré con el sector de front-end y obtuve mejores ideas para los prototipos</br>
+      <b>TP:</b> </br>
+      Indagando sobre el sector front, pude realizar con la ayuda de mis compañeros un avance de la aplicación.</br>
     </td>
     <td>
       Investigamos la problemática, el mercado y a los competidores para tener una mejor idea de lo que tratará la aplicación para atraer a más público.
