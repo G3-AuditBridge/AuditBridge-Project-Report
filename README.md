@@ -1176,11 +1176,11 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
 
 * **Asesor de Sanidad**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360077421252628/image.png?ex=6633091d&is=6620941d&hm=a9160a5ad3eb89a0a2781a26326fa47f9a0be687620a376403697f67cb1f083f&=&format=webp&quality=lossless&width=433&height=603">
+<img src="/assets/UserPersonaAsesora.png" alt="User Persona de asesora de sanidad">
 
 * **Dueño de restaurante**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360291481489428/image.png?ex=66330950&is=66209450&hm=9cab92cb0397a2589c3c63f42d8c17f87a43af027053ffb511abc8d00bb6f930&=&format=webp&quality=lossless&width=430&height=603">
+<img src="/assets/UserPersonaRestaurante.png" alt="User Persona de dueña de restaurante">
 
 2.3.2. User Task Matrix
 
