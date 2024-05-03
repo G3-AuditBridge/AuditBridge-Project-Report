@@ -761,9 +761,15 @@ Nombres y Apellidos:
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:01 min
+   </td>
+  </tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>03:55
+   <td>03:55 min
    </td>
   </tr>
   <tr>
@@ -779,7 +785,14 @@ Nombres y Apellidos:
   <tr>
    <td colspan="2" >Resumen:
 <p>
-La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce que su falta de historial crediticio puede generar dudas sobre su experiencia, aunque está segura de su capacidad para realizar un trabajo excelente. A pesar de estar en sus primeros pasos, ha demostrado ser detallista en sus evaluaciones y está siempre disponible para responder a las preguntas de sus clientes. Claudia está entusiasmada con la idea de utilizar nuestra plataforma web, ya que cree que le proporcionará la oportunidad de ganar más experiencia y generar confianza entre sus clientes. Además, sugiere la inclusión de plantillas en la página para facilitar su trabajo y ofrecer asesoramiento general de manera más eficiente a sus clientes.
+La señorita Claudia tiene una gran capacidad analítica y altos conocimientos de sanidad. Durante su trabajo, suele usar la aplicación WhatsApp de su celular para comunicarse con sus clientes y Google Maps para ver la ubicación de su cliente y así dirigirse a su local. El browser que utiliza es Google Chrome, el cual ya viene incluido en su celular por defecto. Espera que la plataforma la ayude a tener más clientes, ya que como es nueva en el área, hay meses donde casi no es tan solicitada y su trabajo se vuelve un poco incierto.
+
+La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce que su falta de historial crediticio puede generar dudas sobre su experiencia, aunque está segura de su capacidad para realizar un trabajo excelente. A pesar de estar en sus primeros pasos, ha demostrado ser detallista en sus evaluaciones y está siempre disponible para responder a las preguntas de sus clientes. Ella entrega informes a sus clientes con los que se puedan guiar para que puedan descargar todo del área de limpieza, de refracción, entre otros. Claudia está entusiasmada con la idea de utilizar nuestra plataforma web, ya que cree que le proporcionará la oportunidad de ganar más experiencia y generar más confianza entre sus clientes. Ella espera que el cliente le dé los puntos que desea cubrir, pero que seleccione las opciones más generales para llegar más rápido a responderle a sus clientes. Ella preferiría gestionar la primera reunión con el dueño del restaurante mediante un chat por WhatsApp. También menciona que los comentarios hacia su trabajo la podrían ayudar bastante a mejorar para tomarlo como referencia en futuros clientes y así ayudarlos de mejor manera. Además, sugiere la inclusión de plantillas en la página para facilitar su trabajo y ofrecer asesoramiento general de manera más eficiente a sus clientes. 
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/EcypYzy_ZU1Ip9MDaXGCTTIBHAosl-XuqCu_Rak9t6PBoA?e=TEEN1A</a> 
    </td>
   </tr>
 </table>
@@ -806,9 +819,16 @@ La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce qu
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:01 min
+   </td>
+  </tr>
+  <tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>04:14
+   <td>04:14 min
    </td>
   </tr>
   <tr>
@@ -824,7 +844,14 @@ La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce qu
   <tr>
    <td colspan="2" >Resumen:
 <p>
-La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restaurantes con 28 años de edad, destaca una experiencia de más de 10 años en la evaluación de sanidad en diversos establecimientos. Utiliza herramientas como listas de verificación personalizadas, equipos de medición de temperatura y software especializado en su labor como asesora. Considera altamente beneficiosa una plataforma que promueva y dé a conocer los servicios de asesoría en sanidad para restaurantes, facilitando el acceso de los propietarios a profesionales calificados. Espera que esta plataforma de coordinación entre asesores y restaurantes sea eficiente y fácil de usar, permitiendo una comunicación fluida y transparente, así como una programación eficiente de inspecciones y seguimiento de recomendaciones. Prefiere gestionar la primera reunión con los propietarios de manera presencial o a través de videollamada para establecer una conexión personal. Valeria imagina que una plataforma de coordinación de asesores podría mejorar su trabajo y eficiencia al centralizar la gestión de citas y documentos, proporcionar herramientas de seguimiento y recordatorio, y permitir una interacción directa con los propietarios en un entorno digital seguro, asegurando una mejor atención a las necesidades individuales de cada establecimiento.
+La señorita Valeria es una gran comunicadora y cuenta con una gran capacidad analítica. En su trabajo usa la aplicación WhatsApp de su celular o su versión web en su laptop para comunicarse con sus clientes y utiliza Google Maps para ver su ubicación y así dirigirse al local de su cliente. El browser que utiliza es Google Chrome, el cual ya viene incluido en su celular por defecto y es el que tiene en su laptop. Espera conseguir más clientes, tener una mayor demanda de sus servicios y ser más reconocida por sus clientes por su buena labor. 
+
+La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restaurantes con 28 años de edad, destaca una experiencia de más de 10 años en la evaluación de sanidad en diversos establecimientos. Utiliza herramientas como listas de verificación personalizadas, equipos de medición de temperatura y software especializado para el seguimiento de las inspecciones y las recomendaciones. Considera altamente beneficiosa una plataforma que promueva y dé a conocer los servicios de asesoría en sanidad para restaurantes, facilitando el acceso de los propietarios a profesionales calificados y confiables. Espera que esta plataforma de coordinación entre asesores y restaurantes sea eficiente y fácil de usar, permitiendo una comunicación fluida y transparente, así como una programación eficiente de inspecciones y seguimiento de recomendaciones. Prefiere gestionar la primera reunión con los propietarios de manera presencial o a través de videollamada para establecer una conexión personal y para discutir los detalles específicos del establecimiento antes de comenzar cualquier evaluación. Valeria imagina que una plataforma de coordinación de asesores podría mejorar su trabajo y eficiencia al centralizar la gestión de citas y documentos, proporcionar herramientas de seguimiento y recordatorio, y permitir una interacción directa con los propietarios en un entorno digital seguro, asegurando una mejor atención a las necesidades individuales de cada establecimiento.
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/EUv2Nhc03wRPpEYQ-eBZtR8BuIopbLNvzXckVwtxQjcoIw?e=3eDf5W</a> 
    </td>
   </tr>
 </table>
@@ -851,9 +878,15 @@ La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restauran
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:01 min
+   </td>
+  </tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>02:27
+   <td>02:27 min
    </td>
   </tr>
   <tr>
@@ -869,7 +902,14 @@ La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restauran
   <tr>
    <td colspan="2" >Resumen:
 <p>
-La señorita Laura nos comenta que se especializa en el área de una buena alimentación, pero también es experta en asesorar a restaurantes sobre cómo mantener la higiene en su local y mantener un ambiente ordenado. En su trabajo, suele llevar consigo utensilios para inspeccionar la calidad de los alimentos y la limpieza de los espacios estrechos. Al mencionarle nuestra página web, sugirió la inclusión de plantillas para facilitar la toma de notas durante sus evaluaciones, y le agrada la idea de ser contactada a través de la plataforma para conocer potenciales clientes. Respecto a la primera reunión, prefiere que sea presencial o mediante videollamada para establecer una relación de confianza con el cliente.
+La señorita Laura es una gran comunicadora, tiene una gran capacidad analítica y posee altos conocimientos de sanidad. Ella suele usar la aplicación WhatsApp de su celular para comunicarse con sus clientes por chat y Google Maps para ver la ubicación de su cliente para hacer su inspección. El browser que utiliza es Google Chrome, el cual ya viene incluido en su celular. Espera que la plataforma la ayude a conseguir más clientes y aumentar la demanda de sus servicios. También espera poder seguir actualizándose de las buenas prácticas de higiene y de seguridad alimentaria. 
+
+La señorita Laura nos comenta que se especializa en el área de nutrición como profesión, pero también es experta en asesorar a restaurantes sobre cómo mantener la higiene en su local y mantener un ambiente ordenado. En su trabajo, suele llevar consigo utensilios para inspeccionar la calidad de los alimentos y la limpieza de los espacios estrechos. También utiliza herramientas como termómetros digitales y un kit de análisis microbiológico para realizar inspecciones exhaustivas. Al mencionarle nuestra página web, sugirió la inclusión de plantillas para facilitar la toma de notas durante sus evaluaciones, y le agrada la idea de ser contactada a través de la plataforma para conocer potenciales clientes. Respecto a la primera reunión, prefiere que sea presencial o mediante videollamada para establecer una relación de confianza con el cliente. Ella espera que esa plataforma de coordinación entre asesores y restaurantes sea eficiente, fácil de usar y así facilite su publicación y la gestión de documentos. 
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/ETOr5dus7yNJnmVRWhd7XO4BZyWDpMZhvdDIfNTItpu-LQ?e=TiLTHg</a> 
    </td>
   </tr>
 </table>
@@ -900,9 +940,15 @@ Nombres y Apellidos:
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:09 min
+   </td>
+  </tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>06:49
+   <td>06:49 min
    </td>
   </tr>
   <tr>
@@ -919,7 +965,15 @@ Nombres y Apellidos:
   <tr>
    <td colspan="2" >Resumen:
 <p>
-El señor Guido ha sido propietario de un restaurante durante varios años y solía contar con el apoyo de un asesor municipal. Este asesor se encargaba de informarle sobre las visitas de inspección municipal y proporcionarle orientación sobre los requisitos de cumplimiento. Guido tenía una gran estima por este asesor, pero recientemente fue retirado de su cargo por asesorar a otros restaurantes. Ahora, Guido se encuentra sin un asesor de confianza, ya que su amigo se trasladó a otro país. Al conocer nuestra plataforma, Guido se sintió aliviado al saber que podría encontrar un nuevo asesor, aunque aún siente cierta desconfianza sobre si el nuevo asesor cumplirá con sus expectativas. Sin embargo, le agrada la idea de poder visualizar los certificados de los asesores para sentirse más seguro sobre su elección.
+El señor Guido es una persona muy dedicada a su trabajo, resuelve conflictos internos con la ayuda de su capacidad de negociación y es un gran líder. Si bien no suele usar mucho la tecnología en su trabajo, usa su celular para hacer los pedidos de sus clientes. En la actualidad no tiene afinidad por alguna marca en particular mientras se pueda comunicar con ellos usando WhatsApp, ya sea por mensaje como por videollamada, y pueda saber su ubicación en Google Maps es más que suficiente para él. Tampoco suele usar algún browser en específico durante su trabajo, pero si lo llegara a hacer usaría Google Chrome, el cual tiene por defecto en su celular. 
+
+
+El señor Guido ha sido propietario de un restaurante durante varios años y solía contar con el apoyo de un asesor municipal. Este asesor se encargaba de informarle sobre las visitas de inspección municipal y proporcionarle orientación sobre los requisitos de cumplimiento. Guido tenía una gran estima por este asesor, pero recientemente fue retirado de su cargo por asesorar a otros restaurantes. Ahora, Guido se encuentra sin un asesor de confianza, ya que su amigo se trasladó a otro país. Al conocer nuestra plataforma, Guido se sintió aliviado al saber que podría encontrar un nuevo asesor, aunque aún siente cierta desconfianza sobre si el nuevo asesor cumplirá con sus expectativas. Sin embargo, le agrada la idea de poder visualizar los certificados de los asesores para sentirse más seguro sobre su elección. Considera buena idea el tener una página web con la información de su restaurante para mejorar sus ventas, ya que le parece más accesible. El mayor desafío que encuentra al expandir su negocio es abastecer a todos sus clientes en todos sus pedidos y de la mejor calidad posible. Los aspectos que valora más al asociarse con una plataforma de entrega de comida son la eficiencia, que sea dinámico y que sea fácil. Le gustaría que la interfaz de usuario fuera simple, fácil, bonita y que cualquier trabajador lo pueda usar. Las características que le gustaría ver en una plataforma de entrega de comida para gestionar su negocio son el número de cliente, la dirección, la hora de entrega y su forma o método de pago. 
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/EUHLX-TjjINIkksquyjY9ngBTX1c88LaROS0cTYJj7WNFA?e=Uq79JX</a> 
    </td>
   </tr>
 </table>
@@ -946,9 +1000,15 @@ El señor Guido ha sido propietario de un restaurante durante varios años y sol
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:01 min
+   </td>
+  </tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>05:12
+   <td>05:12 min
    </td>
   </tr>
   <tr>
@@ -965,7 +1025,14 @@ El señor Guido ha sido propietario de un restaurante durante varios años y sol
   <tr>
    <td colspan="2" >Resumen:
 <p>
-La señora Gladys nos comparte que, hasta el momento, no ha trabajado con un asesor externo, prefiriendo en su lugar asistir a las clases de sanidad que ofrece la municipalidad para adquirir conocimientos y poder gestionar ella misma los aspectos sanitarios de su restaurante. Sin embargo, reconoce que esta iniciativa no ha sido suficiente, ya que su restaurante ha sido clausurado en varias ocasiones debido a problemas como fechas de vencimiento en los extintores y falta de señalización, entre otros requisitos que desconocía. Al conocer nuestra plataforma web, Glays se muestra interesada en la idea, aunque sugiere la posibilidad de visualizar los perfiles de los asesores, así como sus tarifas promedio, para evaluar si el restaurante puede cubrir ese gasto adicional.
+La señora Gladys es una persona con gran liderazgo, negociadora y sociable. Ella casi no usa la tecnología en su trabajo, salvo su celular y la aplicación de WhatsApp para tener una mejor comunicación con sus clientes. El bowser que usa es Google Chrome, que viene en su celular por defecto. 
+
+La señora Gladys nos comparte que, hasta el momento no ha utilizado ningún servicio de asesoramiento para la evaluación de sanidad en su restaurante, ya que prefiere asistir a clases de sanidad que ofrece la municipalidad, por lo que si tienen alguna noción, en base a eso les dirán y así adquiere conocimientos y puede gestionar por su cuenta los aspectos sanitarios de su restaurante. También dice que tiene que estar alerta de que en su local no haya roedores o cucarachas y que todos los alimentos estén vigentes para que su restaurante no sea clausurado en la inspección de su local. Lo que la motivaría a buscar ayuda externa para la evaluación de sanidad de su restaurante es para  tener mejor conocimiento y para ya no cometer errores por desconocimiento, pues su restaurante ha sido clausurado en otras ocasiones por problemas de fechas de vencimiento en los extintores y falta de señalización. Ella se muestra interesada y dispuesta en usar la plataforma de coordinación con un asesor confiable y que mande su certificado de vida o currículum, ya que ellos les guían para tener una mejor noción, pues son personas que han estudiado y que enseñan cómo tienen que llevar adecuadamente el manejo del restaurante, sugiriendo la posibilidad de visualizar los perfiles de los asesores, así como sus tarifas promedio, para evaluar si el restaurante puede cubrir ese gasto adicional. 
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/EZ4nQVH5nnFJr9ezsW5ythAB3Zm361Rdh_1SDAl-dux_1w?e=dXwoth</a> 
    </td>
   </tr>
 </table>
@@ -992,9 +1059,15 @@ La señora Gladys nos comparte que, hasta el momento, no ha trabajado con un ase
    </td>
   </tr>
   <tr>
+   <td>Inicio de la entrevista:
+   </td>
+   <td>00:01 min
+   </td>
+  </tr>
+  <tr>
    <td>Duración del video:
    </td>
-   <td>02:36
+   <td>02:36 min
    </td>
   </tr>
   <tr>
@@ -1011,7 +1084,14 @@ La señora Gladys nos comparte que, hasta el momento, no ha trabajado con un ase
   <tr>
    <td colspan="2" >Resumen:
 <p>
-La señora Marisol comparte que ha tenido dificultades para encontrar un asesor de sanidad en el que pueda confiar. Ha recibido recomendaciones de amigos, pero nunca pudo obtener información de contacto para comunicarse con los asesores recomendados. Además, al solicitar evidencia de su trabajo, se decepcionó al descubrir que muchos no proporcionaban documentación detallada sobre las mejoras necesarias. Esta falta de transparencia ha generado desconfianza en los asesores, ya que teme ser engañada por personas malintencionadas que se hacen pasar por profesionales. Al conocer nuestra página web, Marisol se muestra entusiasmada con la posibilidad de encontrar un asesor confiable. Sugiere que los perfiles de los asesores incluyan una foto actual para que pueda visualizar quiénes son las personas detrás del servicio y sentirse más segura al elegir.
+La señora Marisol es una persona con gran liderazgo, resuelve los conflictos internos y sabe negociar bien. Ella solo usa su celular y las aplicaciones de WhatsApp y Google Maps para comunicarse con sus clientes y para hacer los pedidos, respectivamente. El bowser que usa es Google Chrome, que viene en su celular por defecto. 
+
+La señora Marisol comparte que ha tenido dificultades para encontrar un asesor de sanidad en el que pueda confiar. Ha recibido recomendaciones de sus amigos, pero nunca pudo obtener información de contacto para comunicarse con los asesores recomendados. Además, al solicitar evidencia de su trabajo, se decepcionó al descubrir que muchos no proporcionaban documentación detallada sobre las mejoras necesarias. Esta falta de transparencia ha generado desconfianza en los asesores, ya que teme ser engañada por personas malintencionadas que se hacen pasar por profesionales, ya que eso le ha pasado en más de una ocasión y le ha hecho perder tiempo y dinero. Al conocer nuestra página web, Marisol se muestra entusiasmada con la posibilidad de encontrar al fin un asesor confiable. Sugiere que los perfiles de los asesores incluyan una foto actual para que pueda visualizar quiénes son las personas detrás del servicio y sentirse más segura al elegir.
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >URL del video: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/EQkm9Y2qKrROrxC2J4CStpABWlUT2_ikHaxCIhkbtQtJFA?e=oQry85</a> 
    </td>
   </tr>
 </table>
