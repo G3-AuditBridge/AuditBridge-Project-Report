@@ -2230,7 +2230,7 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
 
 4.7.1. Class Diagrams.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230367725042405406/image.png?ex=6633103c&is=66209b3c&hm=d57b77116e6f21017d5ac1c066e3eaa9fc0a0cb2169a258682e29a3dd5d2e82e&=&format=webp&quality=lossless">
+<img src="/assets/ClassDiagram.png" alt="Class Diagram">
 
 4.7.2. Class Dictionary.
 
@@ -2242,33 +2242,39 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>Pay
+   <td>Payment
    </td>
    <td>Clase que engloba el pago.
    </td>
   </tr>
   <tr>
-   <td>Id_Transacion
+   <td>transactionId
    </td>
    <td>Identificador único de la transacción de pago.
    </td>
   </tr>
   <tr>
-   <td>Amount
+   <td>amount
    </td>
    <td>Monto de la transacción.
    </td>
   </tr>
   <tr>
-   <td>Date
+   <td>date
    </td>
    <td>Fecha de la transacción.
    </td>
   </tr>
   <tr>
-   <td>Payment_Status
+   <td>paymentState
    </td>
-   <td>Estado del pago (pendiente, completado, cancelado).
+   <td>Estado del pago (completado, cancelado).
+   </td>
+  </tr>
+  <tr>
+   <td>registerPayment
+   </td>
+   <td>Método que registra el pago.
    </td>
   </tr>
 </table>
@@ -2283,33 +2289,33 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>RecordAdviser
+   <td>AdviserRecord
    </td>
-   <td>Clase para el registro del asesor.
+   <td>Clase de la legitimidad del asesor.
    </td>
   </tr>
   <tr>
-   <td>Tuition_Number
+   <td>recordId
    </td>
    <td>Número de matrícula del asesor.
    </td>
   </tr>
   <tr>
-   <td>Full_Name
+   <td>certificate
    </td>
-   <td>Nombre completo del asesor.
-   </td>
-  </tr>
-  <tr>
-   <td>Age
-   </td>
-   <td>Edad del asesor.
+   <td>Existencia del certificado.
    </td>
   </tr>
   <tr>
-   <td>Email
+   <td>experienceYears
    </td>
-   <td>Dirección de correo electrónico del asesor.
+   <td>Años de experiencia del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>setRecord()
+   </td>
+   <td>Método que otorga verificación al asesor.
    </td>
   </tr>
 </table>
@@ -2330,20 +2336,48 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>Dni
+   <td>advisorId
    </td>
-   <td>Número de documento nacional de identidad del asesor.
+   <td>Identificador único del asesor.
    </td>
   </tr>
   <tr>
-   <td>Full_Name
+   <td>firstName
    </td>
-   <td>Nombre completo del asesor.
+   <td>Nombre del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>lastName
+   </td>
+   <td>Apellido del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>age
+   </td>
+   <td>Edad del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>email
+   </td>
+   <td>Correo del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>password
+   </td>
+   <td>Contraseña del asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>verifyPassword()
+   </td>
+   <td>Método que verifica la veracidad de la contrasseña del asesor.
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -2353,33 +2387,96 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>ChatBox
+   <td>Owner
    </td>
-   <td>Clase para que interactúen el asesor y el restaurante mediante una caja de texto.
-   </td>
-  </tr>
-  <tr>
-   <td>Id_Conversastion
-   </td>
-   <td>Identificador único de la conversación.
+   <td>Clase dueño.
    </td>
   </tr>
   <tr>
-   <td>Message
+   <td>ownerId
    </td>
-   <td>Mensaje enviado en la conversación.
-   </td>
-  </tr>
-  <tr>
-   <td>Date_Hour
-   </td>
-   <td>Fecha y hora en que se envió el mensaje.
+   <td>Identificador único del dueño.
    </td>
   </tr>
   <tr>
-   <td>State_Chat
+   <td>firstName
    </td>
-   <td>Estado actual del chat (activo, finalizado).
+   <td>Nombre del dueño.
+   </td>
+  </tr>
+  <tr>
+   <td>lastName
+   </td>
+   <td>Apellido del dueño.
+   </td>
+  </tr>
+  <tr>
+   <td>age
+   </td>
+   <td>Edad del dueño.
+   </td>
+  </tr>
+  <tr>
+   <td>email
+   </td>
+   <td>Correo del dueño.
+   </td>
+  </tr>
+  <tr>
+   <td>password
+   </td>
+   <td>Contraseña del dueño.
+   </td>
+  </tr>
+  <tr>
+   <td>verifyPassword()
+   </td>
+   <td>Método que verifica la veracidad de la contrasseña del dueño.
+   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td>Class
+   </td>
+   <td>Description
+   </td>
+  </tr>
+  <tr>
+   <td>Contact
+   </td>
+   <td>Clase para que interactúen el asesor y el restaurante mediante el contacto otorgado por el asesor.
+   </td>
+  </tr>
+  <tr>
+   <td>contactId
+   </td>
+   <td>Identificador único del contacto
+   </td>
+  </tr>
+  <tr>
+   <td>date
+   </td>
+   <td>fecha en la que se contactó.
+   </td>
+  </tr>
+  <tr>
+   <td>time
+   </td>
+   <td>Hora en que se contactó.
+   </td>
+  </tr>
+  <tr>
+   <td>chatState
+   </td>
+   <td>Estado actual del contacto (activo, finalizado).
+   </td>
+  </tr>
+  <tr>
+   <td>getContact()
+   </td>
+   <td>Método que nos retorna el contacto del asesor.
    </td>
   </tr>
 </table>
@@ -2400,15 +2497,33 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>Ruc
+   <td>restaurantId
    </td>
-   <td>Registro Único de Contribuyentes del restaurante.
+   <td>Registro Único del restaurante.
    </td>
   </tr>
   <tr>
-   <td>Name_Restaurant
+   <td>ruc
+   </td>
+   <td>Número del Registro Único de Contribuyentes del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>address
+   </td>
+   <td>Dirección del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>name
    </td>
    <td>Nombre del restaurante.
+   </td>
+  </tr>
+  <tr>
+   <td>getRestaurant()
+   </td>
+   <td>Métoido que consigue el restaurante del Owner en cuestión.
    </td>
   </tr>
 </table>
@@ -2423,68 +2538,33 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_up
    </td>
   </tr>
   <tr>
-   <td>Comment
+   <td>Comments
    </td>
-   <td>Clase comentario. Esta será proporcionada por el restaurante hacia el asesor.
+   <td>Clase comentarios. Estos son otorgados por otros usuarios de diversas plataformas de terceros
    </td>
   </tr>
   <tr>
-   <td>Id
+   <td>commentId
    </td>
    <td>Identificador único del comentario.
    </td>
   </tr>
   <tr>
-   <td>Name_Restaurant
+   <td>review
    </td>
-   <td>Nombre del restaurante al que se refiere el comentario.
-   </td>
-  </tr>
-  <tr>
-   <td>Review
-   </td>
-   <td>Comentario o reseña sobre el restaurante.
+   <td>Texto completo del Comentario.
    </td>
   </tr>
   <tr>
-   <td>Date
+   <td>stars
    </td>
-   <td>Fecha en que se realizó el comentario.
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td>Class
-   </td>
-   <td>Description
+   <td>Cantidad de estrellas otorgadas al restaurante.
    </td>
   </tr>
   <tr>
-   <td>RecordRestaurant
+   <td>getComments()
    </td>
-   <td>Clase para el registro del restaurante.
-   </td>
-  </tr>
-  <tr>
-   <td>Ruc
-   </td>
-   <td>Registro Único de Contribuyentes del restaurante.
-   </td>
-  </tr>
-  <tr>
-   <td>Name
-   </td>
-   <td>Nombre del restaurante.
-   </td>
-  </tr>
-  <tr>
-   <td>Payment_Method
-   </td>
-   <td>Método de pago utilizado por el restaurante.
+   <td>Método que consigue los comentarios.
    </td>
   </tr>
 </table>
