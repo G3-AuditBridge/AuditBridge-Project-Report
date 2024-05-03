@@ -2977,3 +2977,78 @@ La página principal fue diseñada e implementada en Netlify porque el servicio 
 Para la elaboración del reporte como para el landing se utilizaron los repositorios en GitHub.
 
 <img src="https://media.discordapp.net/attachments/1009495505555959829/1230368671998935130/image.png?ex=6633111e&is=66209c1e&hm=38450c8390b939a43a318783c8196b1ba1582958d4c6c9d9918a9ca53dc98076&=&format=webp&quality=lossless">
+
+5.2.2. Sprint 2
+
+5.2.2.1. Sprint Planning 2
+
+<table>
+  <tr>
+   <td><strong>Sprint#</strong>
+   </td>
+   <td>Sprint 2
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Sprint Planning Background</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Date</strong>
+   </td>
+   <td>2024-04-27
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Time</strong>
+   </td>
+   <td>06:00 pm
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Location</strong>
+   </td>
+   <td>Reunión realizada en el salón de clase
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Attendees</strong>
+   </td>
+   <td>Pingus Rodriguez, Cossio Jimenez, Velarde Luyo 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint n – 1 Review Summary</strong>
+   </td>
+   <td>Se implementó parcialmente bien el landing 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint n – 1 Retrospective Summary</strong>
+   </td>
+   <td>Establecer fechas limites específicas para las entregas de los avances
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Sprint Goal & User Stories</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint 2 Goal</strong>
+   </td>
+   <td>Realizar y desplegar la primera versión del Front End
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sprint 2 Velocity</strong>
+   </td>
+   <td><strong>4</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sum of Story Points</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
