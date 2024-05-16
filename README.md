@@ -90,6 +90,8 @@
       <td>Cossio Jimenez, Jimena Alessandra
       <td>Actualización de LeanUX Process
     </td>
+        <tr>
+          <tr>
         <td><strong> 2.2 </strong></td>
           <td> 03/05/2024 <br> 
       <td>Pingus Rodriguez, Carlos Daniel
