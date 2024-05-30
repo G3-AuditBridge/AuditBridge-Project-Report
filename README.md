@@ -1945,11 +1945,11 @@ Algunos ejemplos de épicas son los siguientes:
 
 * **Asesor de Sanidad**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361931672719430/image.png?ex=66330ad7&is=662095d7&hm=16ec8f43647bfa49093438842ef6f007c9ebed87125c50a7de098ac12473d79f&=&format=webp&quality=lossless&width=443&height=603">
+<img src="/assets/Impact map - Asesora de sanidad.png">
 
 * **Restaurante**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230362157292458004/image.png?ex=66330b0d&is=6620960d&hm=e0ea77244925ec137ded94fd8d41b970ee66062b92a57e71212ae011bb620448&=&format=webp&quality=lossless&width=537&height=603">
+<img src="/assets/Impact map - Dueña de restaurante.png">
 
 3.4. Product Backlog
 
