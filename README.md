@@ -338,7 +338,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905932805902427/image.png?ex=662dbed6&is=661b49d6&hm=1f1814966ff520ffecf9d72e67702cbf6da04c12f22f035df74bda56a27484ee&=&format=webp&quality=lossless" alt="Foto-Paolo" border="0"></a>
+        <a><img src="/assets/PerfilPaolo.png" alt="Foto-Paolo" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Belleza Tello, Paolo Eduardo</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Curso la carrera de Ingeniería de Software. Me gusta la carrera porque tiene que ver con las tecnologías actuales y me llama mucho la atención la programación. Una de mis habilidades es la programación que con mucho esfuerzo puedo hacer cosas interesantes y ser comprensivo con los demás.</td>
@@ -346,7 +346,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905907728154725/image.png?ex=662dbed0&is=661b49d0&hm=3a5216428d1e6fb7ac4629b81fff1908857fe1a4edc84f7ebde0025dd74813b8&=&format=webp&quality=lossless" alt="Foto-Maria" border="0"></a>
+        <a><img src="/assets/PerfilMaria.png" alt="Foto-Maria" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Fernandez Alva, Maria Fernanda</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC). Actualmente curso la carrera de Ingeniería de Software y elegí esta carrera porque me llamó la atención poder programar y con mis programaciones ayudar a las demás personas. Una de mis habilidades es ser trabajadora ya que me encanta hacer todas mis tareas a tiempo y también soy creativa.
@@ -355,7 +355,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=662d34a5&is=661abfa5&hm=076f03315fa6127cfdff29ea1d6d0b107b1d4defcc1f24c2e54ca5ffa3215d1c&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
+        <a><img src="/assets/PerfilCarlos.png" alt="Foto-Carlos" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
@@ -363,7 +363,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
   </tr>
    <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228868511061774407/image.png?ex=662d9bfc&is=661b26fc&hm=00fbc95484a90733d04647fba51cdf0af8f06350e99bda291c22dc8378e179a9&=&format=webp&quality=lossless" alt="Foto-Jimena" border="0"></a>
+      <a><img src="/assets/PerfilJimena.png" alt="Foto-Jimena" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Cossio Jimenez, Jimena Alessandra</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estoy en 5to ciclo de la carrera de ingeniería de software en la UPC. Elegí esta carrera debido a mi interés por el desarrollo web y, como tal, considero que esta carrera me brindará una base para conocer un poco más de todo lo que se puede lograr mediante la tecnología y la programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a escuchar diferentes opiniones con el respeto que todos merecemos, así como a apoyar en lo que necesiten.
@@ -372,7 +372,7 @@ Nuestro proyecto consistirá en una aplicación web para gestionar la búsqueda 
     </tr>
     <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a><img src="https://media.discordapp.net/attachments/1009495505555959829/1228905351039025193/pierovelarde.jpg?ex=662dbe4b&is=661b494b&hm=0b43f32f54bf903b4d2b6101e6a9c90d5827faaac837486d1ef9d59c83d2d798&=&format=webp" alt="Foto-Piero" border="0"></a>
+        <a><img src="/assets/PerfilPiero.png" alt="Foto-Piero" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Velarde Luyo, Piero Alberto</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Piero, estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Escogí esta carrera por mi facilidad en el uso de las computadoras. Asímismo, por mi interés en el funcionamiento de las anteriores mencionadas y todo respecto a la programación y las tecnologías emergentes. Considero que soy una persona que busca lograr sus objetivos y apoyar a su equipo.</td>
@@ -800,7 +800,7 @@ Nombres y Apellidos:
   </tr>
   <tr>
    <td colspan="2" >
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230356653694521344/image.png?ex=663305ed&is=662090ed&hm=b8cd4fb1b28513854154b8d0d610c58a8245697148440d92ebd8e31e63e86780&=&format=webp&quality=lossless">
+<img src="/assets/EntrevistaGladys.png">
 
    </td>
   </tr>
@@ -859,7 +859,7 @@ La señorita Claudia, una nueva asesora en el rubro de restaurantes, reconoce qu
   </tr>
   <tr>
    <td colspan="2" >
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357064593702952/image.png?ex=6633064f&is=6620914f&hm=ee5dfe2e758833156466f6e70a5106ef0ecf2be9e2a0d0a1a980d09d1a3faf55&=&format=webp&quality=lossless&width=550&height=157">
+<img src="/assets/EntrevistaValeria.png">
 
    </td>
   </tr>
@@ -917,7 +917,7 @@ La señorita Valeria, ingeniera en alimentos y asesora de sanidad para restauran
   </tr>
   <tr>
    <td colspan="2" >
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357424645472279/image.png?ex=663306a4&is=662091a4&hm=5980da5f2a7d9b5c53c9a3fc1b9772f0cb3bdb74d73e5c3bad18d2b6a0f3e6fe&=&format=webp&quality=lossless">
+<img src="/assets/EntrevistaLaura.png">
 
    </td>
   </tr>
@@ -980,7 +980,7 @@ Nombres y Apellidos:
   <tr>
    <td colspan="2" >
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357611698720838/image.png?ex=663306d1&is=662091d1&hm=3dc06b50616bb5b3e2ee55409a23719583dd7941d08ef85077718354673681a9&=&format=webp&quality=lossless&width=550&height=275">
+<img src="/assets/EntrevistaGuido.png">
 
    </td>
   </tr>
@@ -1040,7 +1040,7 @@ El señor Guido ha sido propietario de un restaurante durante varios años y sol
   <tr>
    <td colspan="2" >
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357755781714072/image.png?ex=663306f3&is=662091f3&hm=f95df616c368a48d6d284b96e23062e30551fd8fbdac8709f8fa8bd494cc6065&=&format=webp&quality=lossless">
+<img src="/assets/EntrevistaGladys2.png">
 
    </td>
   </tr>
@@ -1099,7 +1099,7 @@ La señora Gladys nos comparte que, hasta el momento no ha utilizado ningún ser
   <tr>
    <td colspan="2" >
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230357755781714072/image.png?ex=663306f3&is=662091f3&hm=f95df616c368a48d6d284b96e23062e30551fd8fbdac8709f8fa8bd494cc6065&=&format=webp&quality=lossless">
+<img src="/assets/EntrevistaMarisol.png">
 
    </td>
   </tr>
@@ -1326,11 +1326,11 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
 
 * **Asesor de Sanidad**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360544301809704/image.png?ex=6633098c&is=6620948c&hm=29d2ce6c96c6f344936536d56f2c68d7d0547f17991f222b667d4b57b4eda4ee&=&format=webp&quality=lossless&width=640&height=603">
+<img src="/assets/JourneyMapAsesor.png">
 
 * **Dueño de restaurante**
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230360702317887498/image.png?ex=663309b2&is=662094b2&hm=727bee7860f42db417d49d06ae47712893734cd6ab08b62acbca080fd036c288&=&format=webp&quality=lossless&width=593&height=603">
+<img src="/assets/JourneyMapRestaurante.png">
 
 2.3.4. Empathy Mapping
 
@@ -1347,15 +1347,15 @@ El 100% de los entrevistados utiliza como navegador predeterminado Google Chrome
 
 * Asesor de sanidad
 
-Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
+Cuando Charlotte tiene que brindar asesoramiento de sanidad al dueño del restaurante 
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361261964005456/image.png?ex=66330a37&is=66209537&hm=5acde29f87a97b40d5303d613fcb6f4a27f5639c5665173cce54f41595382b15&=&format=webp&quality=lossless&width=550&height=271">
+<img src="/assets/As-Is_Asesor.png">
 
 * Dueño de restaurante
 
 Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361410446557284/image.png?ex=66330a5b&is=6620955b&hm=c5c2834d324fdb93daa476208c4257d43531b8a0b4f535fad8aded997f400f2f&=&format=webp&quality=lossless&width=550&height=274">
+<img src="/assets/As-Is_Restaurante.png">
 
 2.4. Ubiquitous Language:
 En este punto se recopilan los términos y tecnicismos usados en el proyecto:
@@ -1374,15 +1374,15 @@ En este punto se recopilan los términos y tecnicismos usados en el proyecto:
 
 * Asesor de sanidad 
 
-Cuando Carlos tiene que brindar asesoramiento de sanidad al dueño del restaurante 
+Cuando Charlotte tiene que brindar asesoramiento de sanidad al dueño del restaurante 
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361557431615488/image.png?ex=66330a7e&is=6620957e&hm=ae232f2ebf4aa0c683ae803f8e3c5f296ec3ad93218bea732816be9dbe8ba707&=&format=webp&quality=lossless&width=550&height=325">
+<img src="/assets/To-Be_Asesor.png">
 
 * Dueño de restaurante 
 
 Cuando Samanta tiene que obtener asesoramiento profesional de confianza para gestionar bien su restaurante 
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230361731985834087/image.png?ex=66330aa7&is=662095a7&hm=215073d3e9fcd13d235d265b90d9cc4b1e47ed5e76cc6bedfe787ddbb95361ca&=&format=webp&quality=lossless&width=550&height=270">
+<img src="/assets/To-Be_Restaurante.png">
 
 3.2. User Stories
 
@@ -2959,7 +2959,7 @@ En lo que respecta a este sprint se realizaron los capítulos I, II, III, IV y p
 
 Imagen del landing desplegado
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230368527936917545/image.png?ex=663310fc&is=66209bfc&hm=26ffdd993dd0c4fad4f8823c9cea3f4883240ee68456db70df90087cf3ec4426&=&format=webp&quality=lossless&width=550&height=286">
+<img src="/assets/ExecutionEvidenceSprint1.png">
 
 Link del landing desplegado:** \
 [https://audit-bridge.netlify.app/](https://audit-bridge.netlify.app/) **
@@ -2978,7 +2978,7 @@ La página principal fue diseñada e implementada en Netlify porque el servicio 
 
 Para la elaboración del reporte como para el landing se utilizaron los repositorios en GitHub.
 
-<img src="https://media.discordapp.net/attachments/1009495505555959829/1230368671998935130/image.png?ex=6633111e&is=66209c1e&hm=38450c8390b939a43a318783c8196b1ba1582958d4c6c9d9918a9ca53dc98076&=&format=webp&quality=lossless">
+<img src="/assets/TeamCollabSprint1.png">
 
 5.2.2. Sprint 2
 
@@ -3267,11 +3267,11 @@ Para la elaboración del reporte como para el landing se utilizaron los reposito
 
 Para este sprint pudimos implementar la primera versión de nuestra app web, esta incluye la parte del log in, sign in para auditor como dueño de establecimiento, la página principal (home), apartado de messages, requests, profile y premium.
 
-<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236031687536672890/image.png?ex=663687b6&is=66353636&hm=e40788f1844c7fb13acafe0ec11f9784e380606cd3c1408544773bc59cdb1f9c&">
+<img src="/assets/ExecutionEvidenceSprint2.png">
 
 Al igual que nuestro Fake API.
 
-<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236033149486628907/image.png?ex=66368913&is=66353793&hm=c799487769607270141fb226402a095d8f24d4d03919e2b894a67f3195b6e17f&">
+<img src="/assets/FakeAPIEvidenceSprint2.png">
 
 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
@@ -3294,4 +3294,4 @@ Al igual que nuestro Fake API utilizando el servicio de My JSON Server.
 En este apartado se podrá apreciar los Insights del actual sprint en GitHub.
 Link del GitHub: [https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse](https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse)
 
-<img src="https://cdn.discordapp.com/attachments/1009495505555959829/1236017928248230029/image.png?ex=66367ae6&is=66352966&hm=b484b4aae596617f9cff699cf2d6e9c7c24fdd8d5ff90677708e6efc60a69d5e&">
+<img src="/assets/TeamCollabSprint2.png">
