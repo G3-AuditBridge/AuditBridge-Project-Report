@@ -3295,3 +3295,477 @@ En este apartado se podrá apreciar los Insights del actual sprint en GitHub.
 Link del GitHub: [https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse](https://github.com/G3-AuditBridge/AuditBridge-FrontEnd/pulse)
 
 <img src="/assets/TeamCollabSprint2.png">
+
+#### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-05-29</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:35 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Dream team"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Velarde Luyo, Piero Alberto </br>Cossio Jimenez, Jimena Alessandra </br>Pingus Rodriguez, Carlos Daniel </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los items entregados anteriormente en el TP. Además, conseguimos demarcar nuestros features a realizar en el backend </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td>Se mejoró la gestión del tiempo desde el Sprint 2, se identificó la necesidad de optimizar las herramientas de gestión y establecer story points del product backlog acurdes a su nivel de importancia. También es crucial mejorar la comunicación entre los integrantes del equipo para terminar el desarrollo del frontend, así como la documentación del código.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td>
+    <td>Para el tercer sprint, el objetivo principal del equipo es desarrollar el backend, asegurándose de implementar todos los Bounded Context identificados. Este proceso incluye la definición y refinamiento de requisitos para cada Bounded Context, garantizando una comprensión clara y precisa de los endpoints esperados. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7f79b1c0fd92541a78aa85108caf924f57604757
+   </td>
+   <td>chore
+   </td>
+   <td>Primer commit del proyecto
+   </td>
+   <td>01/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>37360fef0740994c7e4ad115fed15bbe6064e591
+   </td>
+   <td>feat(fake-api)
+   </td>
+   <td>Se añadió las dependencias y configuración para el fake api
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7926101d10bac2935aedbec776820017ea7c59d2
+   </td>
+   <td>feat(in-app-navigation)
+   </td>
+   <td>
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>795e5a1b8e8081ab143e8d98652849da539258b2
+   </td>
+   <td>feat(login and sign up)
+   </td>
+   <td>Se añadieron las dependencias, configuración para la navegación dentro de la app y el uso del fake api para el registro e inicio de sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>633474bff698e2e063c56987ba5a63df96536f89
+   </td>
+   <td>feat(log out)
+   </td>
+   <td>Se añadieron las dependencias y configuración para cerrar sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7f79b1c0fd92541a78aa85108caf924f57604757
+   </td>
+   <td>chore
+   </td>
+   <td>Primer commit del proyecto
+   </td>
+   <td>01/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>37360fef0740994c7e4ad115fed15bbe6064e591
+   </td>
+   <td>feat(fake-api)
+   </td>
+   <td>Se añadió las dependencias y configuración para el fake api
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>7926101d10bac2935aedbec776820017ea7c59d2
+   </td>
+   <td>feat(in-app-navigation)
+   </td>
+   <td>
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>795e5a1b8e8081ab143e8d98652849da539258b2
+   </td>
+   <td>feat(login and sign up)
+   </td>
+   <td>Se añadieron las dependencias, configuración para la navegación dentro de la app y el uso del fake api para el registro e inicio de sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+  <tr>
+   <td>AuditBridge-FrontEnd
+   </td>
+   <td>develop
+   </td>
+   <td>633474bff698e2e063c56987ba5a63df96536f89
+   </td>
+   <td>feat(log out)
+   </td>
+   <td>Se añadieron las dependencias y configuración para cerrar sesión
+   </td>
+   <td>02/05/2024
+   </td>
+  </tr>
+</table>
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Para este tercer sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
+
+<p align="center">
+  <img src="/assets/CapturaBackend.png" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="CapturaSwagger.png" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
+
+Durante este sprint, le hemos dado prioridad al segmento backend y corregir aspectos del frontend de nuestra plataforma.
+
+Aunque este sprint se ha centrado principalmente en el backend, también hemos realizado ajustes al frontend considerando nuestro caso. Sin embargo, no hemos dejado de lado a los clientes, por lo cual hemos hecho lo posible por no reconfigurar muchos features con el fin de darle la mejor experiencia posible
+
+El desarrollo del backend se llevó a cabo utilizando Rider, lo que nos permitió una mayor eficiencia y colaboración en el equipo. Todos los cambios, tanto en el backend como en el frontend, se han integrado en nuestro flujo de trabajo de Git Flow, con el código y la documentación correspondiente disponibles en GitHub.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
+
+**.NET:** es una plataforma de desarrollo de software de código abierto y multiplataforma creada por Microsoft que nos permite desarrollar los endpoints a implementar en el segmento Frontend.
+
+**C#:** es un lenguaje de programación multiparadigma desarrollado por Microsoft como parte de su plataforma .NET.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+**Rider:** Es un entorno de desarrollo integrado (IDE) multiplataforma para desarrollar aplicaciones .NET, ASP.NET, .NET Core, Xamarin y Unity
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
+
+<a><img src="/assets/TeamCollabSprint2.png"></a>
+
+### 5.3. Validation Interviews.
+
+En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
+
+### 5.3.1. Diseño de Entrevistas.
+
+---
+**Entrevista:**
+
+<a><img src="/assets/CapturaEntrevistaHeur.png"></a>
+
+- Nombre y apellidos: Kesia Pingus
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 06:02minutos
+- Breve descripción: <br><br>
+	 Kesia es una dueña de un pequeño restaurante recién inaugurado hace unos meses. Está buscando ayuda por todos lados sobre cómo manejar la parte legal de su negocio. Su principal preocupación es conseguir el certificado de sanidad otorgado por el minsa ya que con eso puede demostrar que su negocio cumple con las normas, por lo cual está buscando un asesor que la pueda ayudar a lograr su objetivo<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/EeCU6OrJ3OdJsJ_SRaUrVHsB5glbpZF5bSKiNM2UtA_L5g?e=XvzUWF
+
+---
+
+#### Preguntas Generales:
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+#### Segmento: Cliente dueño de restaurante
+
+**Preguntas Específicas:**
+
+1. **Después de explorar la aplicación Audit Bridge, ¿crees que te ayudará a encontrar y contratar auditores de manera efectiva y personalizada?**
+
+2. **¿Encuentras que Audit Bridge facilita la obtención del certificado de sanidad?**
+
+3. **¿Crees que la aplicación te proporciona una variedad de opciones auditores adecuados a tu presupuesto y necesidades?**
+
+4. **¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Audit Bridge?**
+
+5. **¿Con qué frecuencia utilizarías la aplicación para auditar tu negocio?**
+
+6. **¿Qué aspectos te gustan más de Audit Bridge y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como dueño de un restaurante?**
+
+7. **¿Estarías dispuesto a recomendar Audit Bridge a otros dueños a través de tus redes sociales?**
+
+
+#### Segmento: Auditores
+
+**Preguntas Específicas:**
+
+1. **Después de conocer Audit Bridge y su enfoque en ayudar a los auditores a encontrar oportunidades de trabajo, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios?**
+
+2. **¿Encuentras que Audit Bridge te ofrece una plataforma conveniente para presentar tus servicios y encontrar oportunidades de actuación?**
+
+3. **¿Crees que la aplicación puede aumentar la visibilidad de tu trabajo y atraer más clientes?**
+
+4. **¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del auditor?**
+
+5. **¿Con qué frecuencia estarías dispuesto a utilizar Audit Bridge para promocionar tus servicios y buscar oportunidades de empleo?**
+
+6. **¿Qué aspectos te gustan más de Audit Bridge y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como auditor?**
+
+7. **¿Estarías dispuesto a recomendar Audit Bridge a auditores y dueños de restaurantes través de tus redes sociales?**
+
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## *UX Heuristics & Principles Evaluation*  
+# Usability – Inclusive Design – Information Architecture  
+*Carrera:* Ingeniería de Software  
+*Curso:* Desarrollo de Aplicaciones Open Source  
+*Sección:* WS53  
+*Profesor:* Angel Augusto Velasquez Nuñez  
+*Auditor:* Circle Up  
+*Cliente(s):* Carlos Daniel Pingus Rodriguez  
+
+
+### SITE O APP A EVALUAR  
+Audit Bridge
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas en la plataforma Audit Bridge:
+
+1. *Iniciar sesión*
+2. *Registrarse*
+3. *Elegir preferencias musicales*
+4. *Ver perfiles de auditores*
+5. *Contactar auditores*
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. *Gestionar solicitudes*
+2. *Enviar Certificados*
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                    |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+### TABLA DE RESUMEN
+
+La siguiente tabla resume los resultados de la evaluación:
+
+| #   | Problema                                                                          | Escala de Severidad | Heurística/Principio Violado(a)               |
+| --- | --------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+| 1   | Falta de opciones de inicio de sesión con Google u otras plataformas              | 2                   | Usability: Flexibilidad y eficiencia de uso   |
+| 2   | Registro de usuario no validado y datos no guardados                              | 4                   | Usability: Visibilidad del estado del sistema |
+| 3   | Imposibilidad de visualizar detalles completos de auditores y/o restaurantes      | 4                   | Usability: Consistencia y estándares          |
+| 4   | Contactar auditores sin opción de chat en tiempo real                             | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 5   | Visualización de reseñas de restaurantes sin opción para enviar nuevas            | 3                   | Usability: Consistencia y estándares          |
+| 6   | Notificaciones vacias sin información pertinente a algún campo                    | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+
+### 5.4. Video About-the-Product.
+https://upcedupe-my.sharepoint.com/:l:/g/personal/u202113280_upc_edu_pe/FAxQodNKl6tJtIjZvKuhltkBHMRR_TItPg1Xxj6uq8QQTg?e=Ph4kSS
+
+5.2.4. Sprint 4
+5.2.4.1. Sprint Planning.
+5.2.4.2. Sprint Backlog 4.
+5.2.4.3 Development Evidence for Sprint Review.
+5.2.4.4.Testing Suite Evidence for Sprint Review.
+5.2.4.5. Execution Evidence for Sprint Review.
+
+5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+
+## Conclusiones
+
+* Los diagramas C4, tanto de base de datos como de clases, nos brindan una visión detallada y estructurada de las entidades en nuestra aplicación y de cómo interactúan entre sí a diferentes niveles.
+
+* La adopción del método Lean UX en la comprensión de nuestro problema y en la formulación de nuestra idea de negocio nos facilitó realizar un análisis profundo de nuestros competidores y definir de manera clara nuestros grupos de interés.
+
+* Las entrevistas fueron esenciales para desarrollar perfiles de usuario (user personas) y para descubrir sus necesidades y opiniones sobre el problema en cuestión.
+
+* Utilizar GitHub para la colaboración y gestión de versiones fue crucial, permitiéndonos superar desafíos relacionados con la coordinación entre equipos y problemas de compatibilidad de versiones.
+
+* La adopción de GitFlow mejoró la gestión de nuestras ramas, asignándoles funciones específicas y ofreciendo una estructura clara para los commits mediante la convención de mensajes de Git commit.
+
+* Las Historias de Usuario nos dieron una visión directa de las necesidades del usuario, ayudándonos a establecer criterios de aceptación claros para cada historia y garantizando así su correcta implementación.
+
+* Mediante el análisis competitivo, identificamos nuestras fortalezas y áreas de mejora, lo que nos permitirá ofrecer un servicio más completo que satisfaga plenamente las necesidades de nuestra aplicación.
+
+### Video About-the-Team.
+
+<br>
+
+## Bibliografía
+
+1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+2. Design thinking activities and tools - Enterprise Design Thinking. (s/f-b). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+<br>
+
+## Anexos
+Links videos del trabajo.
+
+ |Exposiciones del trabajo|Link de video|
+|---------|---------|
+| TB1     | Link     | 
+| TP      | Link     |
+| TB2     | Link     | 
+| TF      | Link     |
+
+<center>
+
+**REPOSITORIOS GIT HUB**
+
+</center>
+
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage   | [https://github.com/TempSound/MusicTime-lading-page  ](https://github.com/G3-AuditBridge/AuditBridge-Landing) | 
+| Proyecto     | [https://github.com/TempSound](https://github.com/G3-AuditBridge)  |
